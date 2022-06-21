@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy n="liturgical calendar">
+                 <category xml:id="Tempus-liturgicus" xml:lang="la"></category>
+                 <category xml:id="Dies-liturgicus" xml:lang="la"></category> <!-- must add categories for sanctorale -->
+                 
+                 
+                 <category xml:id="lit-cal-tempus-adventus" xml:lang="la" n="Tempus adventus">
+                    <equiv xml:id="Prishastvo" xml:lang="ocs" n="Prišas’tvo"/></category>
+                 <category xml:id="lit-cal-adventus-dominica-prima" xml:lang="la" n="Adventus dominica prima">
+                    <equiv xml:id="Prishastvo-nedele-prve" xml:lang="ocs" n="Prišas’tvo nedele prve"/></category>
+                 <category xml:id="lit-cal-adventus-dominica-secunda" xml:lang="la" n="Adventus dominica secunda">
+                    <equiv xml:id="Prishastvo-nedele-b." xml:lang="ocs" n="Prišas’tvo b."/></category>
+                 <category xml:id="lit-cal-adventus-dominica-tertia" xml:lang="la" n="Adventus dominica tertia">
+                    <equiv xml:id="Prishastvo-nedele-v." xml:lang="ocs" n="Prišas’tvo nedele v."/></category>
+                 <category xml:id="lit-cal-quattuor-temporum" xml:lang="la" n="Quattuor temporum">
+                    <equiv xml:id="Kvatri" xml:lang="ocs" n="Kvatri"/></category>
+                 <category xml:id="lit-cal-adventus-feria-quarta-quattuor-temporum" xml:lang="la" n="Adventus feria quarta quattuor temporum">
+                    <equiv xml:id="Prishastvo-v-sredu-kvatri" xml:lang="ocs" n="Prišas’tvo vsrêdu kvatri"/></category>
+                 <category xml:id="lit-cal-adventus-feria-sexta" xml:lang="la" n="Adventus feria sexta">
+                    <equiv xml:id="Prishastvo-v-peti." xml:lang="ocs" n="Prišas’tvo v’ peti."/></category>
+                 <category xml:id="lit-cal-adventus-dominica-quarta" xml:lang="la" n="Adventus dominica quarta">
+                    <equiv xml:id="Prishastvo-nedele-g." xml:lang="ocs" n="Prišas’tvo nedele g."/></category>
+                 <category xml:id="lit-cal-in-vigilia-nativitatis-Domini" xml:lang="la" n="In vigilia nativitatis Domini">
+                    <equiv xml:id="V-navecerie-rojstva-Hrstova" xml:lang="ocs" n="V navečerie roĵ’stva hrьstova"/></category>
+                 
+                 <category xml:id="lit-cal-in-nativitate-Domini-ad-primam-missam" xml:lang="la" n="In nativitate Domini ad primam missam">
+                    <equiv xml:id="Na-rojenie-Hrstovo-misa-prva" xml:lang="ocs" n="Na roĵenie Hrьstovo misa prva "/></category>
+                 <category xml:id="lit-cal-in-nativitate-Domini-ad-secundam-missam" xml:lang="la" n="In nativitate Domini ad secundam missam">
+                    <equiv xml:id="Na-rojenie-Hrstovo-misa-druga" xml:lang="ocs" n="Na roĵenie Hrьstovo misa druga"/></category>
+                 <category xml:id="lit-cal-in-nativitate-Domini-ad-tertiam-missam" xml:lang="la" n="In nativitate Domini ad tertiam missam">
+                    <equiv xml:id="Na-rojenie-Hrstovo-K-misi-velikoi-stoeche" xml:lang="ocs" n="Na roĵenie Hrьstovo k misi velikoi stoeĉe  "/></category>
+                 <category xml:id="lit-cal-sancti-Stephani-protomartyris" xml:lang="la" n="Sancti Stephani protomartyris">
+                    <equiv xml:id="Na-svetago-stepana-a.-mucenika" xml:lang="ocs" n="Na svetago Stêpana a. mučenika "/></category>
+                 <category xml:id="lit-cal-diebus-infra-octavam-nativitatis-Domini" xml:lang="la" n="Diebus infra octavam nativitatis Domini">
+                    <equiv xml:id="i-budi-spomenutie" xml:lang="ocs" n="I budi spomenutie ot roĵstva gospodna vse d’ni do .ƺ. D’ni"/></category>
+                 <category xml:id="lit-cal-octava-Sancti-Stephani" xml:lang="la" n="Octava sancti Stephani">
+                    <equiv xml:id="N-oktavu-svetago-Stipana" xml:lang="ocs" n="Nь oktavu  svetago Stipana"/></category>
+                 <category xml:id="lit-cal-sancti-Ioannis-apostoli-et-evangelistae" xml:lang="la" n="Sancti Ioannis apostoli et evangelistae">
+                    <equiv xml:id="Na-svetago-Ivana-evangelista" xml:lang="ocs" n="Na svetago Ivana evanĵelista"/></category>
+                 <category xml:id="lit-cal-sanctorum-innocentium-martyrium" xml:lang="la" n="Sanctorum innocentium martyrium">
+                    <equiv xml:id="Na-dan-svetih-mladenac" xml:lang="ocs" n="Na danь svetihь mladênacь "/></category>
+                 <category xml:id="lit-cal-sancti-Thomae-episcopi-et-martyris" xml:lang="la" n="Sancti Thomae episcopi et martyris">
+                    <equiv xml:id="Na-dan-svetago-Tomi-biskupa-i-mucenika" xml:lang="ocs" n="Na danь svetago Tomi biskupa i mučenika"/></category>
+                 <category xml:id="lit-cal-dominica-infra-octavam-Nativitatis" xml:lang="la" n="Dominica infra octavam nativitatis">
+                    <equiv xml:id="Nedela-meu-oktavou-rojenie-Hrstova" xml:lang="ocs" n="Nedêla meû oktavoû roĵeniê hrьstova"/></category>
+                 <category xml:id="lit-cal-sancti-Silvestri-papae" xml:lang="la" n="Sancti Silvestri papae">
+                    <equiv xml:id="V-dan-svetago-selvestra-papi" xml:lang="ocs" n="V’ danь svetago sel’vestra papi "/></category>
+                 <category xml:id="lit-cal-in-octavam-nativitatis-Domini" xml:lang="la" n="In octavam nativitatis Domini">
+                    <equiv xml:id="Na-oktavu-rojenie-Hrstova" xml:lang="ocs" n="Na ok’tavu roĵeniê Hrьstova"/></category>
+                 <category xml:id="lit-cal-Mariam-trans-Tiberim" xml:lang="la" n="Mariam trans Tiberim">
+                    <equiv xml:id="Marie-preko-Tiberi" xml:lang="ocs" n="Marie prêko Tiberi"/></category>
+                 <category xml:id="lit-cal-in-vigilia-epiphaniae" xml:lang="la" n="In vigilia epiphaniae">
+                    <equiv xml:id="Navecerie-epifanie" xml:lang="ocs" n="Navečerie epifanie"/></category>
+                 <category xml:id="lit-cal-in-epiphania-Domini" xml:lang="la" n="In epiphania Domini">
+                    <equiv xml:id="Na-epifaniu" xml:lang="ocs" n="Na epifaniû"/></category>
+                 <category xml:id="lit-cal-dominica-infra-octavam-epiphaniae" xml:lang="la" n="Dominica infra octavam epiphaniae">
+                    <equiv xml:id="Nedele-meu-oktabu-epifanie" xml:lang="ocs" n="Nedêle meû oktabu epifanie"/></category>
+                 <category xml:id="lit-cal-in-octavam-epiphaniae" xml:lang="la" n="In octavam epiphaniae">
+                    <equiv xml:id="Na-oktavu-epifanie" xml:lang="ocs" n="Na ok’tavu epifanie"/></category>
+                 <category xml:id="lit-cal-dominica-II-post-epiphaniam" xml:lang="la" n="Dominica II post epiphaniam">
+                    <equiv xml:id="Nedele-b.-po-epifanii" xml:lang="ocs" n="Nedêle b. po epifanii"/></category>
+                 <category xml:id="lit-cal-dominica-III-post-epiphaniam" xml:lang="la" n="Dominica III post epiphaniam">
+                    <equiv xml:id="Nedele-v.-po-epifanii" xml:lang="ocs" n="Nedêle v. po epifanii"/></category>
+                 <category xml:id="lit-cal-dominica-IV-post-epiphaniam" xml:lang="la" n="Dominica IV post epiphaniam">
+                    <equiv xml:id="Nedele-g.-po-epifanii" xml:lang="ocs" n="Nedêle g. po epifanii"/></category>
+                 <category xml:id="lit-cal-dominica-V-post-epiphaniam" xml:lang="la" n="Dominica V post epiphaniam">
+                    <equiv xml:id="Nedele-d.-po-epifanii" xml:lang="ocs" n="Nedêle d. po epifanii"/></category>
+                 
+                 <category xml:id="lit-cal-dominica-in-septuagesima" xml:lang="la" n="Dominica in septuagesima">
+                    <equiv xml:id="Nedele-v-nuze-pucaet-se-ale" xml:lang="ocs" n="Nedêla v nûže puĉaet se alê"/></category>
+                 <category xml:id="lit-cal-dominica-in-sexagesima" xml:lang="la" n="Dominica in sexagesima">
+                    <equiv xml:id="Nedele-pred-mesopustom" xml:lang="ocs" n="Nedêle prêd՚ mesopustomь "/></category>
+                 <category xml:id="lit-cal-dominica-in-quinquagesima" xml:lang="la" n="Dominica in quinquagesima">
+                    <equiv xml:id="Nedele-na-mesopust" xml:lang="ocs" n="Nedêle na mesopustь"/></category>
+                 
+                 <category xml:id="lit-cal-benedictio-cinerum" xml:lang="la" n="Benedictio cinerum">
+                    <equiv xml:id="Blagosloviti-lug" xml:lang="ocs" n="Blagosloviti lugь"/></category>
+                 <category xml:id="lit-cal-feria-quarta-cinerum" xml:lang="la" n="Feria quarta cinerum">
+                    <equiv xml:id="V-prvu-sredu" xml:lang="ocs" n="V՚ prvu srêda"/></category>
+                 <category xml:id="lit-cal-feria-quinta-cinerum" xml:lang="la" n="Feria quinta cinerum">
+                    <equiv xml:id="V-cetrtak-a." xml:lang="ocs" n="V četrtakь a."/></category>
+                 <category xml:id="lit-cal-feria-sexta-cinerum" xml:lang="la" n="Feria sexta cinerum">
+                    <equiv xml:id="V-petak-a." xml:lang="ocs" n="V petakь a."/></category>
+                 <category xml:id="lit-cal-sabbato-cinerum" xml:lang="la" n="Sabbato cinerum">
+                    <equiv xml:id="V-sobotu-a." xml:lang="ocs" n="V sobotu a."/></category>
+                 <category xml:id="lit-cal-dominica-prima-in-quadragesima" xml:lang="la" n="Dominica prima in quadragesima">
+                    <equiv xml:id="Nedele-a." xml:lang="ocs" n="Nedêle a."/></category>
+                 
+                 <category xml:id="lit-cal-feria-secunda-post-dominica-prima-in-quadragesima" xml:lang="la" n="Feria secunda post Dom. I in quadr.">
+                    <equiv xml:id="V-ponedilak-b." xml:lang="ocs" n="V ponedilakь b."/></category>
+                 <category xml:id="lit-cal-feria-tertia-post-dominica-prima-in-quadragesima" xml:lang="la" n="Feria tertia post Dom. I in quadr.">
+                    <equiv xml:id="V-utori-b." xml:lang="ocs" n="V utori b."/></category>
+                 <category xml:id="lit-cal-feria-quarta-quattuor-temporum-quadragesimae" xml:lang="la" n="Feria quarta quattuor temporum quadragesimae">
+                    <equiv xml:id="V-sredu-b." xml:lang="ocs" n="V srêdu b."/></category>
+                 <category xml:id="lit-cal-feria-quinta-post-dominica-prima-in-quadragesima" xml:lang="la" n="Feria quinta post Dom. I in quadr.">
+                    <equiv xml:id="V-cetrtak-b." xml:lang="ocs" n="V՚ četrtakь b. "/></category>
+                 <category xml:id="lit-cal-feria-sexta-quattuor-temporum-quadragesimae" xml:lang="la" n="Feria sexta quattuor temporum quadragesimae">
+                    <equiv xml:id="V-petak-b." xml:lang="ocs" n="V petak՚ b."/></category>
+                 <category xml:id="lit-cal-sabbato-quattuor-temporum-quadragesimae" xml:lang="la" n="Sabbato quattuor temporum quadragesimae">
+                    <equiv xml:id="V-sobotu-b." xml:lang="ocs" n="V sobotu b."/></category>
+                 <category xml:id="lit-cal-dominica-secunda-in-quadragesima" xml:lang="la" n="Dominica secunda in quadragesima">
+                    <equiv xml:id="Nedele-b." xml:lang="ocs" n="Nedêle b."/></category>
+                 
+                 <category xml:id="lit-cal-feria-secunda-post-dominica-secunda-in-quadragesima" xml:lang="la" n="Feria secunda post Dom. II in quadr.">
+                    <equiv xml:id="V-ponedeli-v." xml:lang="ocs" n="V ponedêli v."/></category>
+                 <category xml:id="lit-cal-feria-tertia-post-dominica-secunda-in-quadragesima" xml:lang="la" n="Feria tertia post Dom. II in quadr.">
+                    <equiv xml:id="V-utori-v." xml:lang="ocs" n="V utori v."/></category>
+                 <category xml:id="lit-cal-feria-quarta-post-dominica-secunda-in-quadragesima" xml:lang="la" n="Feria quarta post Dom. II in quadr.">
+                    <equiv xml:id="V-sredu-v." xml:lang="ocs" n="V srêdu v."/></category>
+                 <category xml:id="lit-cal-feria-quinta-post-dominica-secunda-in-quadragesima" xml:lang="la" n="Feria quinta post Dom. II in quadr.">
+                    <equiv xml:id="V-cetrtak-v." xml:lang="ocs" n="V՚ četvrtakь v. "/></category>
+                 <category xml:id="lit-cal-feria-sexta-post-dominica-secunda-in-quadragesima" xml:lang="la" n="Feria sexta post Dom. II in quadr.">
+                    <equiv xml:id="V-petak-v." xml:lang="ocs" n="V petakь v."/></category>
+                 <category xml:id="lit-cal-sabbato-post-dominica-secunda-in-quadragesima" xml:lang="la" n="Sabbato post Dom. II in quadr.">
+                    <equiv xml:id="V-sobotu-v." xml:lang="ocs" n="V’ sobotu v."/></category>
+                 <category xml:id="lit-cal-dominica-tertia-in-quadragesima" xml:lang="la" n="Dominica tertia in quadragesima">
+                    <equiv xml:id="Nedele-v." xml:lang="ocs" n="Nedêle v."/></category>
+                 
+                 <category xml:id="lit-cal-feria-secunda-post-dominica-tertia-in-quadragesima" xml:lang="la" n="Feria secunda post Dom. III in quadr.">
+                    <equiv xml:id="V-ponedeli-g." xml:lang="ocs" n="V ponedêli g."/></category>
+                 <category xml:id="lit-cal-feria-tertia-post-dominica-tertia-in-quadragesima" xml:lang="la" n="Feria tertia post Dom. III in quadr.">
+                    <equiv xml:id="V-utori-g." xml:lang="ocs" n="V utori g."/></category>
+                 <category xml:id="lit-cal-feria-quarta-post-dominica-tertia-in-quadragesima" xml:lang="la" n="Feria quarta post Dom. III in quadr.">
+                    <equiv xml:id="V-sredu-g." xml:lang="ocs" n="V srêdu g."/></category>
+                 <category xml:id="lit-cal-feria-quinta-post-dominica-tertia-in-quadragesima" xml:lang="la" n="Feria quinta post Dom. III in quadr.">
+                    <equiv xml:id="V-cetrtak-g." xml:lang="ocs" n="V četrtak g."/></category>
+                 <category xml:id="lit-cal-feria-sexta-post-dominica-tertia-in-quadragesima" xml:lang="la" n="Feria sexta post Dom. III in quadr.">
+                    <equiv xml:id="V-petak-g." xml:lang="ocs" n="V petakь g."/></category>
+                 <category xml:id="lit-cal-sabbato-post-dominica-tertia-in-quadragesima" xml:lang="la" n="Sabbato post Dom. III in quadr.">
+                    <equiv xml:id="V-sobotu-g." xml:lang="ocs" n="V sobotu g."/></category>
+                 <category xml:id="lit-cal-dominica-quarta-in-quadragesima" xml:lang="la" n="Dominica quarta in quadragesima">
+                    <equiv xml:id="Nedele-g." xml:lang="ocs" n="Nedêle g."/></category>
+                 
+                 <category xml:id="lit-cal-feria-secunda-post-dominica-quarta-in-quadragesima" xml:lang="la" n="Feria secunda post Dom. IV in quadr.">
+                    <equiv xml:id="V-ponedeli-d." xml:lang="ocs" n="V ponedêli d."/></category>
+                 <category xml:id="lit-cal-feria-tertia-post-dominica-quarta-in-quadragesima" xml:lang="la" n="Feria tertia post Dom. IV in quadr.">
+                    <equiv xml:id="V-utori-d." xml:lang="ocs" n="V utori d."/></category>
+                 <category xml:id="lit-cal-feria-quarta-post-dominica-quarta-in-quadragesima" xml:lang="la" n="Feria quarta post Dom. IV in quadr.">
+                    <equiv xml:id="V-sredu-d." xml:lang="ocs" n="V srêdu d."/></category>
+                 <category xml:id="lit-cal-feria-quinta-post-dominica-quarta-in-quadragesima" xml:lang="la" n="Feria quinta post Dom. IV in quadr.">
+                    <equiv xml:id="V-cetrtak-d." xml:lang="ocs" n="V četrtak d."/></category>
+                 <category xml:id="lit-cal-feria-sexta-post-dominica-quarta-in-quadragesima" xml:lang="la" n="Feria sexta post Dom. IV in quadr.">
+                    <equiv xml:id="V-petak-d." xml:lang="ocs" n="V petakь d."/></category>
+                 <category xml:id="lit-cal-sabbato-post-dominica-quarta-in-quadragesima" xml:lang="la" n="Sabbato post Dom. IV in quadr.">
+                    <equiv xml:id="V-sobotu-d." xml:lang="ocs" n="V sobotu d."/></category>
+                 <category xml:id="lit-cal-dominica-quinta-in-quadragesima" xml:lang="la" n="Dominica quinta in quadragesima">
+                    <equiv xml:id="Nedele-d." xml:lang="ocs" n="Nedêle d."/></category>
+                 
+                 <category xml:id="lit-cal-feria-secunda-post-dominica-quinta-in-quadragesima" xml:lang="la" n="Feria secunda post Dom. IV in quadr.">
+                    <equiv xml:id="V-ponedeli-e." xml:lang="ocs" n="V ponedêli e."/></category>
+                 <category xml:id="lit-cal-feria-tertia-post-dominica-quinta-in-quadragesima" xml:lang="la" n="Feria tertia post Dom. IV in quadr.">
+                    <equiv xml:id="V-utori-e." xml:lang="ocs" n="V utori e."/></category>
+                 <category xml:id="lit-cal-feria-quarta-post-dominica-quinta-in-quadragesima" xml:lang="la" n="Feria quarta post Dom. IV in quadr.">
+                    <equiv xml:id="V-sredu-e." xml:lang="ocs" n="V srêdu e."/></category>
+                 <category xml:id="lit-cal-feria-quinta-post-dominica-quinta-in-quadragesima" xml:lang="la" n="Feria quinta post Dom. IV in quadr.">
+                    <equiv xml:id="V-cetrtak-e." xml:lang="ocs" n="V četrtak e."/></category>
+                 <category xml:id="lit-cal-feria-sexta-post-dominica-quinta-in-quadragesima" xml:lang="la" n="Feria sexta post Dom. IV in quadr.">
+                    <equiv xml:id="V-petak-e." xml:lang="ocs" n="V petakь e."/></category>
+                 <category xml:id="lit-cal-sabbato-post-dominica-quinta-in-quadragesima" xml:lang="la" n="Sabbato post Dom. IV in quadr.">
+                    <equiv xml:id="V-sobotu-e." xml:lang="ocs" n="V sobotu e."/></category>
+                 <category xml:id="lit-cal-dominica-sexta-in-quadragesima" xml:lang="la" n="Dominica sexta in quadragesima seu in palmis">
+                    <equiv xml:id="Nedele-e." xml:lang="ocs" n="Nedêle e."/></category>
+                 <category xml:id="lit-cal-benedictio-ramorum" xml:lang="la" n="Benedictio ramorum">
+                    <equiv xml:id="blagosloviti-palme" xml:lang="ocs" n="Blagoslovitь palme"/></category>
+                 <category xml:id="lit-cal-missa-ad-s.-ioannem-in-laterano" xml:lang="la" n="Missa ad S. Ioannem in Laterano">
+                    <equiv xml:id="K-misi-stoeĉe-u-svetago-ivana-latirana" xml:lang="ocs" n="K misi stoeĉe u svetago ivana latirana"/></category>
+                 
+                 <category xml:id="lit-cal-feria-secunda-in-hebdomada-sancta" xml:lang="la" n="Feria secunda in hebdomada sancta">
+                    <equiv xml:id="V-ponedeli-veliki" xml:lang="ocs" n="V ponedêli veliki"/></category>
+                 <category xml:id="lit-cal-feria-tertia-in-hebdomada-sancta" xml:lang="la" n="Feria tertia in hebdomada sancta">
+                    <equiv xml:id="V-utori-veliki" xml:lang="ocs" n="V utori veliki"/></category>
+                 <category xml:id="lit-cal-feria-quarta-in-hebdomada-sancta" xml:lang="la" n="Feria quarta in hebdomada sancta">
+                    <equiv xml:id="V-sredu-velu" xml:lang="ocs" n="V srêdu velu"/></category>
+                 <category xml:id="lit-cal-in-cena-domini" xml:lang="la" n="In cena Domini">
+                    <equiv xml:id="V-cetvrtaki-veliki" xml:lang="ocs" n="V' četvrtakь veliki"/></category>
+                 <category xml:id="lit-cal-feria-sexta-in-hebdomada-sancta" xml:lang="la" n="Feria sexta in Parasceve">
+                    <equiv xml:id="V-petaki-veliki" xml:lang="ocs" n="V petakь veliki"/></category>
+                 <category xml:id="lit-cal-sabbato-sacnct-de-vigilia-paschali" xml:lang="la" n="Sabbato sancto de vigilia paschali">
+                    <equiv xml:id="Cini-v-svetu-sobotu" xml:lang="ocs" n="Činь v' svetu sobotu"/></category>
+                 <category xml:id="lit-cal-dominica-ressurectionis" xml:lang="la" n="Dominica resurrectionis">
+                    <equiv xml:id="Nedela-svetie-paski" xml:lang="ocs" n="Nedêla svetie paski"/></category>
+                 
+                 <category xml:id="lit-cal-feria-secunda-infra-octavam-paschae" xml:lang="la" n="Feria secunda infra octavam paschae">
+                    <equiv xml:id="V-ponedeli-a-po-pasci" xml:lang="ocs" n="V' ponedêli a po pasci"/></category>
+                 <category xml:id="lit-cal-feria-tertia-infra-octavam-paschae" xml:lang="la" n="Feria tertia infra octavam paschae">
+                    <equiv xml:id="V-utori-a-po-pasce." xml:lang="ocs" n="V utori a po pasce"/></category>
+                 <category xml:id="lit-cal-feria-quarta-infra-octavam-paschae" xml:lang="la" n="Feria quarta infra octavam paschae">
+                    <equiv xml:id="V-sredu-a-po-pasce" xml:lang="ocs" n="V srêdu a po pascê"/></category>
+                 <category xml:id="lit-cal-feria-quinta-infra-octavam-paschae" xml:lang="la" n="Feria quinta infra octavam paschae">
+                    <equiv xml:id="V-cetrtak-a-po-pasce" xml:lang="ocs" n="V čet'vr'tak a po pasce"/></category>
+                 <category xml:id="lit-cal-feria-sexta-infra-octavam-paschae" xml:lang="la" n="Feria sexta infra octavam paschae">
+                    <equiv xml:id="V-peti-po-pasce" xml:lang="ocs" n="V peti po pascê"/></category>
+                 <category xml:id="lit-cal-sabbato-in-albis" xml:lang="la" n="Sabbato in albis">
+                    <equiv xml:id="V-sobotu-po-pasce" xml:lang="ocs" n="V sobotu po pascê"/></category>
+                 <category xml:id="lit-cal-dominica-in-albis" xml:lang="la" n="Dominica in albis">
+                    <equiv xml:id="Nedela-oktavu" xml:lang="ocs" n="Nedêla oktavu"/></category>
+                 
+                 <category xml:id="lit-cal-dominica-II-post-pascha" xml:lang="la" n="Dominica II post pascha">
+                    <equiv xml:id="Nedele-b.-po-pasci" xml:lang="ocs" n="Nedêle b. po pasci"/></category>
+                 <category xml:id="lit-cal-dominica-III-post-pascha" xml:lang="la" n="Dominica III post pascha">
+                    <equiv xml:id="Nedele-v.-po-pasci" xml:lang="ocs" n="Nedêle v. po pasci"/></category>
+                 <category xml:id="lit-cal-dominica-IV-post-pascha" xml:lang="la" n="Dominica IV post pascha">
+                    <equiv xml:id="Nedele-g.-po-pasce" xml:lang="ocs" n="Nedêle g. po pascê"/></category>
+                 <category xml:id="lit-cal-dominica-V-post-pascha" xml:lang="la" n="Dominica V post pascha">
+                    <equiv xml:id="Nedele-d.-po-pasci" xml:lang="ocs" n="Nedêle d. po pasci"/></category>
+                 
+                 <category xml:id="lit-cal-in-litaniis" xml:lang="la" n="In litaniis">
+                    <equiv xml:id="letenie-velikie" xml:lang="ocs" n="Letenie velikie"/></category>
+                 
+                 <category xml:id="lit-cal-in-vigilia-ascensionis" xml:lang="la" n="In vigilia ascensionis">
+                    <equiv xml:id="V-sredu-v-naveceri-vzneseni" xml:lang="ocs" n="V srêdu v navečeri v'zneseniê"/></category>
+                 <category xml:id="lit-cal-dominica-post-ascensionem" xml:lang="la" n="Dominica post ascensionem">
+                    <equiv xml:id="Nedele-po-vzneseni" xml:lang="ocs" n="Nedêle po v'zneseni"/></category>
+                 
+                 <category xml:id="lit-cal-sabbato-in-vigilia-pentecostes" xml:lang="la" n="Sabbato in vigilia pentecostes">
+                    <equiv xml:id="V-sobotu-v-naveceri-petikosti" xml:lang="ocs" n="V sobotu v' navečeri petikostь"/></category>
+                 <category xml:id="lit-cal-nedele-svete-penticostne" xml:lang="la" n="Dominica pentecostes">
+                    <equiv xml:id="Nedele-svete-petikostne" xml:lang="ocs" n="Nedele svete petikost'ne"/></category>
+                 
+                 <category xml:id="lit-cal-feria-secunda-infra-octavam-pentecostes" xml:lang="la" n="Feria secunda infra octavam pentecostes">
+                    <equiv xml:id="V-ponedeli-po-petikosteh" xml:lang="ocs" n="V ponedêli po petikosteh"/></category>
+                 <category xml:id="lit-cal-feria-tertia-infra-octavam-pentecostes" xml:lang="la" n="Feria tertia infra octavam pentecostes">
+                    <equiv xml:id="V-utori-po-petikosteh" xml:lang="ocs" n="V utori po petikosteh"/></category>
+                 <category xml:id="lit-cal-feria-quarta-infra-octavam-pentecostes" xml:lang="la" n="Feria quarta infra octavam pentecostes">
+                    <equiv xml:id="V-sredu-po-petikosteh" xml:lang="ocs" n="V srêdu po petikosteh"/></category>
+                 <category xml:id="lit-cal-feria-quinta-infra-octavam-pentecostes" xml:lang="la" n="Feria quinta infra octavam pentecostes">
+                    <equiv xml:id="V-cetvrtak-po-petikosteh" xml:lang="ocs" n="V' četvrtak' po petikosteh"/></category>
+                 <category xml:id="lit-cal-feria-sexta-infra-octavam-pentecostes" xml:lang="la" n="Feria sexta infra octavam pentecostes">
+                    <equiv xml:id="V-peti-po-petikosteh" xml:lang="ocs" n="V' peti po petikosteh"/></category>
+                 <category xml:id="lit-cal-sabbato-quattuor-temporum-pentecostes" xml:lang="la" n="Sabbato quattuor temporum pentecostes">
+                    <equiv xml:id="V-sobotu-po-petikosteh" xml:lang="ocs" n="V obotu po petikosteh"/></category>
+                 <category xml:id="lit-cal-dominica-I-post-pentecosten" xml:lang="la" n="Dominica I post pentecosten">
+                    <equiv xml:id="V-nedelu-na-oktavu-petikosteh" xml:lang="ocs" n="V nedêlû na oktavu petikostehь"/></category>
+                 
+                 <category xml:id="lit-cal-in-festo-sanctissimi-corporis-christi" xml:lang="la" n="In festo sanctissimi corporis Christi">
+                    <equiv xml:id="V-cetvrti-prvi-po-oktavi-petikosti" xml:lang="ocs" n="V' četvr'ti pr'vi po oktavi petikostь "/></category>
+                 
+                 <category xml:id="lit-cal-dominica-III-post-pentecosten" xml:lang="la" n="Dominica III post pentecosten">
+                    <equiv xml:id="Nedele-v.-po-petikostih" xml:lang="ocs" n="Nedêle v. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-IV-post-pentecosten" xml:lang="la" n="Dominica IV post pentecosten">
+                    <equiv xml:id="Nedele-g.-po-petikostih" xml:lang="ocs" n="Nedêle g. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-V-post-pentecosten" xml:lang="la" n="Dominica V post pentecosten">
+                    <equiv xml:id="Nedele-d.-po-petikostih" xml:lang="ocs" n="Nedêle d. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-VI-post-pentecosten" xml:lang="la" n="Dominica VI post pentecosten">
+                    <equiv xml:id="Nedele-e.-po-petikostih" xml:lang="ocs" n="Nedêle e. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-VII-post-pentecosten" xml:lang="la" n="Dominica VII post pentecosten">
+                    <equiv xml:id="Nedele-ž.-po-petikostih" xml:lang="ocs" n="Nedêle ž. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-VIII-post-pentecosten" xml:lang="la" n="Dominica VIII post pentecosten">
+                    <equiv xml:id="Nedele-8.-po-petikostih" xml:lang="ocs" n="Nedêle 8. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-IX-post-pentecosten" xml:lang="la" n="Dominica IX post pentecosten">
+                    <equiv xml:id="V-nedele-z-po-petikosteh" xml:lang="ocs" n="V nedêle z po petikostehь"/></category>
+                 <category xml:id="lit-cal-dominica-X-post-pentecosten" xml:lang="la" n="Dominica X post pentecosten">
+                    <equiv xml:id="Nedele-ï.-po-petikostih" xml:lang="ocs" n="Nedêle ï. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-XI-post-pentecosten" xml:lang="la" n="Dominica XI post pentecosten">
+                    <equiv xml:id="Nedele-aï.-po-petikostih" xml:lang="ocs" n="Nedêle aï. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-XII-post-pentecosten" xml:lang="la" n="Dominica XII post pentecosten">
+                    <equiv xml:id="Nedele-bï.-petikostih" xml:lang="ocs" n="Nedêle bï. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-XIII-post-pentecosten" xml:lang="la" n="Dominica XIII post pentecosten">
+                    <equiv xml:id="Nedele-vï.-po-petikostih" xml:lang="ocs" n="Nedêle vï. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-XIV-post-pentecosten" xml:lang="la" n="Dominica XIV post pentecosten">
+                    <equiv xml:id="Nedele-gï.-po-petikostih" xml:lang="ocs" n="Nedêle gï. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-XV-post-pentecosten" xml:lang="la" n="Dominica XV post pentecosten">
+                    <equiv xml:id="Nedele-dï.-po-petikostih" xml:lang="ocs" n="Nedêle dï. po petikostih'"/></category>
+                 
+                 <category xml:id="lit-cal-feria-quarta-quattuor-temporum-septembris" xml:lang="la" n="Feria quarta quattuor temporum septembris">
+                    <equiv xml:id="V-sredu-kvatri-sektebra" xml:lang="ocs" n="V srêdu kvatri sektebra"/></category>
+                 <category xml:id="lit-cal-feria-sexta-quattuor-temporum-septembris" xml:lang="la" n="Feria sexta quattuor temporum septembris">
+                    <equiv xml:id="V-peti-kvatri-sektebra" xml:lang="ocs" n="V peti kvatri sektebra"/></category>
+                 <category xml:id="lit-cal-sabbato-quattuor-temporum-septembris" xml:lang="la" n="Sabbato quarta quattuor temporum septembris">
+                    <equiv xml:id="V-ssobotu-kvatri-sektebra" xml:lang="ocs" n="V sobotu kvatri sektebra"/></category>
+                 
+                 <category xml:id="lit-cal-dominica-XVI-post-pentecosten" xml:lang="la" n="Dominica XVI post pentecosten">
+                    <equiv xml:id="Nedele-eï.-po-petikostih" xml:lang="ocs" n="Nedêle eï. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-XVII-post-pentecosten" xml:lang="la" n="Dominica XVII post pentecosten">
+                    <equiv xml:id="Nedele-žï.-po-petikostih" xml:lang="ocs" n="Nedêle žï. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-XVIII-post-pentecosten" xml:lang="la" n="Dominica XVIII post pentecosten">
+                    <equiv xml:id="Nedele-dzï.-po-petikostih" xml:lang="ocs" n="Nedêle dzï. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-XIX-post-pentecosten" xml:lang="la" n="Dominica XIX post pentecosten">
+                    <equiv xml:id="Nedele-zï.-po-petikostih" xml:lang="ocs" n="Nedêle zï. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-XX-post-pentecosten" xml:lang="la" n="Dominica XX post pentecosten">
+                    <equiv xml:id="Nedele-i.-po-petikostih" xml:lang="ocs" n="Nedêle i. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-XXI-post-pentecosten" xml:lang="la" n="Dominica XXI post pentecosten">
+                    <equiv xml:id="Nedele-ia.-po-petikostih" xml:lang="ocs" n="Nedêle ia. po petikostih'"/></category>
+                 <category xml:id="lit-cal-dominica-XXII-post-pentecosten" xml:lang="la" n="Dominica XXII post pentecosten">
+                    <equiv xml:id="Nedele-ib.-po-petikostih" xml:lang="ocs" n="Nedêle ib. po petikostih'"/></category>
+              </taxonomy>
+              <taxonomy n="liturgical units">
+                 <category xml:id="lit-unit-dialogus" xml:lang="la" n="dialogus"></category>            <!-- not neccesary in Missale -->
+                 <category xml:id="lit-unit-evangelium" xml:lang="la" n="evangelium"><equiv xml:id="lit-unit-ocs-evangelium" n="evanĵelie" xml:lang="ocs" sameAs="#lit-unit-evangelium"></equiv></category>
+                 <category xml:id="lit-unit-gloria" xml:lang="la" n="gloria"></category> <!-- dodati ekvivalente na csl -->
+                 <category xml:id="lit-unit-introitus" xml:lang="la" n="introitus"><equiv xml:id="lit-unit-ocs-introitus" n="pêsnь" xml:lang="ocs" sameAs="#lit-unit-introitus"></equiv></category>
+                 <category xml:id="lit-unit-graduale" xml:lang="la" n="graduale"></category>
+                 <category xml:id="lit-unit-offertorium" xml:lang="la" n="offertorium"></category>
+                 <category xml:id="lit-unit-communio" xml:lang="la" n="communio"></category> <!-- dodao Kristijan, samo na latinskom -->
+                 <category xml:id="lit-unit-kyrie-eleison" xml:lang="la" n="kyrie eleison"></category>
+                 <category xml:id="lit-unit-invocatio" xml:lang="la" n="invocatio"></category>
+                 <category xml:id="lit-unit-lectio" xml:lang="la" n="lectio"><equiv xml:id="lit-unit-ocs-lectio" n="čtenie" xml:lang="ocs" sameAs="#lit-unit-lectio"></equiv></category>
+                 <category xml:id="lit-unit-oratio" xml:lang="la" n="oratio"><equiv xml:id="lit-unit-ocs-oratio" n="oraciê" xml:lang="ocs" sameAs="#lit-unit-oratio"></equiv></category>
+                 <category xml:id="lit-unit-super-oblata" xml:lang="la" n="super oblata"><equiv xml:id="lit-unit-ocs-super-oblata" n="nad prinošenie" xml:lang="ocs" sameAs="#lit-unit-super-oblata"></equiv></category>
+                 <category xml:id="lit-unit-praefatio" xml:lang="la" n="praefatio"><equiv xml:id="lit-unit-ocs-praefatio" n="profaciê" xml:lang="ocs" sameAs="#lit-unit-praefatio"></equiv></category>
+                 <category xml:id="lit-unit-post-communio" xml:lang="la" n="post communio"><equiv xml:id="lit-unit-ocs-post-communio" n="po brašanci" xml:lang="ocs" sameAs="#lit-unit-post-communio"></equiv></category>
+                 <category xml:id="lit-unit-super-populum" xml:lang="la" n="super populum"><equiv xml:id="lit-unit-ocs-super-populum" n="za plk" xml:lang="ocs" sameAs="#lit-unit-super-populum"></equiv></category>
+                 <category xml:id="lit-unit-psalmus" xml:lang="la" n="psalmus"><equiv xml:id="lit-unit-ocs-psalmus" n="stihь" xml:lang="ocs" sameAs="#lit-unit-psalmus"></equiv></category>
+                 <category xml:id="lit-unit-responsa" xml:lang="la" n="responsa"></category>
+                 <category xml:id="lit-unit-sequentia" xml:lang="la" n="sequentia"><equiv xml:id="lit-unit-ocs-sequentia" n="šekvenciê" xml:lang="ocs" sameAs="#lit-unit-sequentia"></equiv></category>
+                 <category xml:id="lit-unit-tractus" xml:lang="la" n="tractus"><equiv xml:id="lit-unit-ocs-tractus" n="trahtь" xml:lang="ocs" sameAs="#lit-unit-tractus"></equiv></category>
+                 <category xml:id="lit-unit-versiculus" xml:lang="la" n="versiculus"></category> 
+                 <category xml:id="lit-unit-rubrica-maior" xml:lang="la" n="rubrica maior"></category>
+                 <category xml:id="lit-unit-rubrica-minor" xml:lang="la" n="rubrica minor"></category>
+                 <category xml:id="lit-unit-antiphona" xml:lang="la" n="antiphona"></category> <!-- dodati crkvenoslavenski u velikom tjednu -->
+                 <category xml:id="lit-unit-responsorium" xml:lang="la" n="responsorium"></category> <!-- dodati crkvenoslavenski u velikom tjednu -->
+                 <category xml:id="lit-unit-benedictio" xml:lang="la" n="benedictio"></category>
+                 <category xml:id="lit-unit-rituale" xml:lang="la" n="rituale"></category> <!-- dodati crkvenoslavenski -->
+                 <category xml:id="lit-unit-ordo-missae" xml:lang="la" n="missae"></category>
+                 <category xml:id="lit-unit-canon-missae" xml:lang="la" n="canon missae"></category>
+                 <category xml:id="lit-unit-communicantes" xml:lang="la" n="communicantes"><equiv xml:id="lit-unit-ocs-communicantes" n="pričeĉaûĉe" xml:lang="ocs" sameAs="#lit-unit-communicantes"></equiv></category>
+                 <category xml:id="lit-unit-hymnus" xml:lang="la" n="hymnus"></category>
+                 <category xml:id="lit-unit-post-introitus" xml:lang="la" n="post introitus"></category>
+              </taxonomy>
