@@ -111,18 +111,18 @@
                                 <div class="footer-widget col-lg-4 col-md-4 col-sm-6 col-9">
                                     <div class="textwidget custom-html-widget">
                                         <p>
-                                            Croatian Academy of Science and Arts
+                                           Old Church Slavonic Institute
                                             <br/>
-                                                Trg Nikole Šubića Zrinskog 11
+                                                Demetrova 11
                                                 <br/>
                                                     10000 Zagreb
                                         </p>
                                         <p>
-                                            Central: +385 (0)1 48 95 111
+                                            Central: +385 98 305 048
                                             <br/>
-                                                Fax: +385 (0)1 48 19 979
+                                                Fax: +385 
                                                 <br/>
-                                                    E-mail: <a href="mailto:kabpred@hazu.hr">kabpred@hazu.hr</a>
+                                                    E-mail: <a href="mailto:sudec@stin.hr">sudec@stin.hr</a>
                                         </p>
                                     </div>
                                 </div>
