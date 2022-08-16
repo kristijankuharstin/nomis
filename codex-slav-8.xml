@@ -6884,8 +6884,27 @@
            <cb n="33vd" ana="#right-column"/>
            <div xml:id="ONB-slav-8-1-392" type="litrugical-unit" ana="#lit-unit-post-communio" rendition="#right-column"> 
               <ab>
-                 <lb n="1"/>Prosim՚ vs(e)mogi b(ož)e da togo 
+                 <lb n="1"/>Prosim՚ vs(e)mogi b(ož)e da togo
+                 <lb n="2"/>sp(a)s(e)niê primemь svr՚šenie . 
+                 <lb n="3" break="no"/>egože simi tainami obruče
+                 <lb n="4" xml:id="lb-8-1-392-4a" next="lb-8-1-392-4b"/>nie priêhomь . 
               </ab>
+           <div xml:id="ONB-slav-8-1-393" type="liturgical-unit" ana="#lit-unit-super-populum" rendition="#right-column">
+              <ab>
+                 <lb n="4" xml:id="lb-8-1-392-4b" next="lb-8-1-392-4a"/>z(a) plk՚ . p(o)m(o)l(imь) s(e) . Umilit . 
+                 <lb n="5"/>Da v՚zidutь k tebê g(ospod)i m(o)l(i)tvi 
+                 <lb n="6" break="no"/>n(a)še i ot cr(ê)kve tvoee vse nap
+                 <lb n="7" xml:id="lb-8-1-393-7a" next="lb-1-8-393-7b"/>asti otrini . 
+              </ab>
+           </div>
+           <div xml:id="ONB-slav-8-1-394" type="liturgical-unit" subtype="dies-liturgicus" ana="#lit-cal-feria-quarta-quattuor-temporum-quadragesimae #lit-unit-rubrica-maior" rendition="#right-column" rend="red-ink">
+              <ab>
+                 <lb n="7" xml:id="lb-8-1-393-7b" next="lb-1-8-393-7a"/>. Œ V srêdu .b. (2) 
+                 <lb n="8"/>posta stoeĉe u s(ve)te m(a)rie 
+                 <lb n="9"/>velike . k՚vatri . Pês(nь) . Pomeni 
+              </ab>
+           </div>   
+                 
            </div>
            </div>
            </div>
