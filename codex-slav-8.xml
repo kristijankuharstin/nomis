@@ -8724,8 +8724,8 @@
                  <lb n="29"/>ši i sabrane shraniši . <hi rend="red-ink">G</hi>(ospode)mь . 
               </ab>
            </div>
-           <pb n="42r"/>
-           <cb n="42ra" ana="#left-column"/>
+           <pb n="43r"/>
+           <cb n="43ra" ana="#left-column"/>
            <div xml:id="ONB-slav-8-1-509" type="liturgical-unit" subtype="dies-liturgicus" ana="#lit-cal-feria-sexta-post-dominica-secunda-in-quadragesima #lit-unit-rubrica-maior" rendition="#left-column" rend="red-ink">
               <ab>
                  <lb n="1" break="no"/>Œ V pet(a)kь <num type="ordinal" value="3">.v.</num> stoeĉe u s(veta)go vit
@@ -8740,10 +8740,14 @@
                  <lb n="5" xml:id="lb-8-1-510-5a" next="#lb-8-1-510-5b"/>Usliši g(ospod)i pr(a)vdu moû vьnmi m(o)l(i)t(a)v՚ moû . </hi>
               </ab>
            </div>
-           <div xml:id="ONB-slav-8-1-511" type="liturgical-unit" ana="#lit-unit-ocs-oratio" rendition="#left-column">
+           <div xml:id="ONB-slav-8-1-511" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
               <ab>
                  <lb n="5" xml:id="lb-8-1-510-5b" prev="#lb-8-1-510-5a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Or(a)c(iê) </seg>
-                 <lb n="6"/>
+                 <lb n="6"/><hi rend="red-ink-bold">D</hi>ai m(o)l(imь) te vs(e)m(o)gi b(ož)e da s(ve)tim(ь) ni 
+                 <lb n="7" break="no"/>poĉeniemь očiĉaûĉe čisti
+                 <lb n="8"/>mi misal՚mi k՚ s(ve)timь častemь 
+                 <lb n="9"/>greduĉimь stvoriši ni priêti
+                 <lb n="10"/>
               </ab>
            </div>
            
