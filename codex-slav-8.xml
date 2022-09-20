@@ -9466,13 +9466,31 @@
                  <lb n="26"  xml:id="lb-8-1-541-26b" prev="#lb-8-1-541-26a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Pês(nь) . </seg>
                  <lb n="27" break="no"/><hi rend="red-ink">O</hi> <hi rend="minuscule-letters">b(o)zê pohv(a)lû g(lago)lь . o g(ospod)ê pohv(a)lû s
                  <lb n="28"/>l(o)vesa na b(og)a upvaû i ne uboû se 
-                 <lb n="29"/>čto stvoritь mnê č(lovê)kь .</hi> S(ti)h . Pom(i)l(ui) me
+                    <lb n="29"/>čto stvoritь mnê č(lovê)kь .</hi> <seg type="liturgical-unit" ana="#lit-unit-psalmus"><hi rend="red-ink">S(ti)h .</hi> <hi rend="red-ink">P</hi><hi rend="minuscule-letters">om(i)l(ui) me</hi></seg>
               </ab>
            </div>
            <cb n="47rb" ana="#right-column"/>
-           <div>
+           <div xml:id="ONB-slav-8-1-542-1" type="liturgical-unit" ana="#lit-unit-introitus" rendition="#right-column">
               <ab>
-                 
+                 <lb n="1" break="no"/><seg type="liturgical-unit" ana="#lit-unit-psalmus"><hi rend="minuscule-letters">b(ož)e êko popra me č(lovê)kь . vasь d(a)nь bo
+                 <lb n="2" xml:id="lb-8-1-542-1-2a" next="#lb-8-1-542-1-2b"/>re se s tuži mi . <hi rend="red-ink">S</hi>l(a)va o(tь)cu . </hi></seg>
+              </ab>
+           </div>
+           <div xml:id="ONB-slav-8-1-543" type="liturgical-unit" ana="#lit-unit-ocs-oratio" rendition="#right-column">
+              <ab>
+                 <lb n="2" xml:id="lb-8-1-542-1-2b" prev="#lb-8-1-542-1-2a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Or(a)c(iê) .</seg>
+                 <lb n="3"/><hi rend="red-ink">S</hi>r(ьd)cemь n(a)šimь prosimь g(ospod)i m(i)l(o)st’ 
+                 <lb n="4"/>tvoû bl(a)godêtanь vlêi . 
+                 <lb n="5" break="no"/>da êkože ot êdi pl’taskih’ v’
+                 <lb n="6" break="no"/>zdr’žim’ se tako umi n(a)še ot p
+                 <lb n="7" break="no"/>akostnih’ užasti otvlêk
+                 <lb n="8" xml:id="lb-8-1-543-8a" next="#lb-8-1-543-8b"/>li bihomь ot zlednih’ . 
+              </ab>
+           </div>
+           <div xml:id="ONB-slav-8-1-544" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#right-column">
+              <ab>
+                 <lb n="8" xml:id="lb-8-1-543-8b" prev="#lb-8-1-543-8a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Čte(nie) kn(i)gь c(êsa)rskih’ . </seg>
+                 <lb n="9"/><hi rend="red-ink-uppercase">V</hi> (o)ni d(’)ni . <hi rend="red-ink">N</hi>oeman’ 
               </ab>
            </div>
     
