@@ -6,7 +6,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Missal of Count Novak</title>
+            <title>Missale of Count Novak</title>
             <title type="alternative" xml:lang="hr">Misal kneza Novaka</title>
             <respStmt>
                <resp>edited by</resp>
@@ -425,7 +425,7 @@
    <text>
      <body>
         <div xml:id="ONB-slav-8-1" type="transcription" xml:lang="ocs">
-           <pb n="2r"/>
+           <pb n="2r" facs="https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_6279761&amp;order=13&amp;view=SINGLE"/>
            <div type="liturgical-unit" rendition="#left-column" rend="red-ink" xml:id="ONB-slav-8-1-1" ana="#lit-unit-rubrica-maior #lit-cal-tempus-adventus #lit-cal-adventus-dominica-prima">
               <ab>
                  <lb n="1"/><hi rend="red-ink-bold">P</hi>očetie misala po zak

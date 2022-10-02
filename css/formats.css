@@ -17,10 +17,10 @@ p.physical-description { font-size: 12pt; text-align:left; margin-left: 20pt; }
 p.page-number { margin-left: 10pt; font-weight: bold; margin-top: 10pt; }
 p.manuscript-content { margin-left: 20pt; font-size: 12pt; margin-top: 10pt; }
 span.liturgical-agent { margin-left: 8pt; padding: 4pt; border: 1pt solid blue; color: blue; border-radius: 4pt; }
-span.liturgical-calendar { margin-left: 8pt; padding: 4pt; border: 1pt solid orange; color: orange; border-radius: 4pt; }
-span.liturgical-unit { margin-left: 8pt; padding: 4pt; border: 1pt solid green; color: green; border-radius: 4pt; }
+span.liturgical-calendar { margin-left: 8pt; margin-right: 8pt; padding: 4pt; border: 1pt solid orange; color: orange; border-radius: 4pt; }
+span.liturgical-unit { margin-left: 8pt; margin-right: 8pt; padding: 4pt; border: 1pt solid green; color: green; border-radius: 4pt; }
 span.error { margin-left: 8pt; padding: 4pt; color: red; font-weight: bold; border: 1pt solid red; border-radius: 4pt; }
-span.line-number { margin-right: 10pt; margin-left: 10pt; font-style: italic; }
+span.line-number { margin-right: 10pt; margin-left: 10pt; font-style: normal; }
 span.red-ink-bold { font-weight: bold; color: #ab5c4f; }
 span.red-ink { font-weight: normal; color: #ab5c4f; }
 span.heading { margin-left: 30pt; font-size: 16pt; }
@@ -29,3 +29,7 @@ span.liturgical-agent-inline { font-size: 12pt; margin-left: 8pt; margin-right: 
 span.liturgical-calendar-inline { font-size: 12pt; margin-left: 8pt; margin-right: 8pt; padding: 4pt; border: 1pt solid orange; color: orange; border-radius: 4pt; }
 span.liturgical-unit-inline { font-size: 12pt; margin-left: 8pt; margin-right: 8pt; padding: 4pt; border: 1pt solid green; color: green; border-radius: 4pt; }
 span.error-inline { font-size: 12pt; margin-left: 8pt; margin-right: 8pt; padding: 4pt; color: red; font-weight: bold; border: 1pt solid red; border-radius: 4pt; }
+span.hidden { display: none; }
+span.visible { display: inline; }
+span.lit-cal { color: orange; margin: 2.5pt; }
+span.lit-unit { color: green; margin: 2.5pt; }

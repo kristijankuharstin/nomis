@@ -24,6 +24,10 @@
                 </title>
                 <link rel="stylesheet" id="fundament-styles"  href="./css/fundament.min.css" type="text/css"/>
                 <link rel="stylesheet" href="./css/formats.css" type="text/css"/>
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css"/>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/js/all.min.js" integrity="sha512-LW9+kKj/cBGHqnI4ok24dUWNR/e8sUD8RLzak1mNw5Ja2JYCmTXJTF5VpgFSw+VoBfpMvPScCo2DnKTIUjrzYw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+                <script type="text/javascript" src="./js/jquery.min.js"></script>
+                <script type="text/javascript" src="./js/fundament.min.js"></script>
             </head>
             <body class="home">
                 <div class="hfeed site" id="page">
@@ -33,8 +37,8 @@
                         <nav class="navbar navbar-expand-lg navbar-light">
                             <div class="container" >
                                 <!-- Your site title as branding in the menu -->
-                                <a href="/" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="./pictures/favicon.png" class="img-fluid" alt="Missal of Count Novak Logo" itemprop="logo" style="border-radius:50%;"/></a><!-- end custom logo -->
-                                <a class="navbar-brand site-title-with-logo" rel="home" href="/" title="Missal of Count Novak" itemprop="url">Missal of Count Novak</a>
+                                <a href="/" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="./pictures/favicon.png" class="img-fluid" alt="Missale of Count Novak Logo" itemprop="logo" style="border-radius:50%;"/></a><!-- end custom logo -->
+                                <a class="navbar-brand site-title-with-logo" rel="home" href="/" title="Missal of Count Novak" itemprop="url">Missale of Count Novak</a>
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                                     <span class="navbar-toggler-icon"></span>
                                 </button>
@@ -66,8 +70,8 @@
                         </div>
                         <!-- #wrapper-hero-content -->
                         <div class="wrapper-hero-content-sub wrapper" id="wrapper-hero-content-sub" style="text-align:center;background-color:#ab5c4f;max-width:1199px;margin:0 auto;color:white;">
-                            <h1>Missal of Count Novak - Misal kneza Novaka</h1>
-                            <p>This is a page about the Missal of Count Novak. Here you find a transcription of this text in a critical and a simplified version.</p>
+                            <h1>Missale of Count Novak - Misal kneza Novaka</h1>
+                            <p>This is a page about the Missale of Count Novak. Here you find a transcription of this text in a critical and a simplified version.</p>
                         </div>
                     </div>
                     <div class="wrapper" id="index-wrapper">
@@ -102,9 +106,9 @@
                                 <i data-feather="message-circle"></i> CONTACT
                             </div>
                             <div class="row">
-                                <div class="footer-widget col-lg-1 col-md-2 col-sm-2 col-xs-6 col-3">
+                                <div class="footer-widget col-lg-3 col-md-2 col-sm-2 col-xs-6 col-3">
                                     <div class="textwidget custom-html-widget">
-                                        <a href="https://www.info.hazu.hr"><img src="./pictures/croatian-academy-logo.svg" class="image" alt="Logo" style="max-width: 100%; height: auto; background-color:#740D0D;" title="Croatian Academy Logo"/></a>
+                                        <a href="https://stin.hr/"><img src="./pictures/Logo-STIN-200.JPG" class="image" alt="Logo" style="background-color: white;" title="Old Church Slavonic Institute, Zagreb"/></a>
                                     </div>
                                 </div>
                                 <!-- .footer-widget -->
@@ -118,11 +122,9 @@
                                                     10000 Zagreb
                                         </p>
                                         <p>
-                                            Central: +385 98 305 048
-                                            <br/>
-                                                Fax: +385 
+                                            Central: +385 1 4851380
                                                 <br/>
-                                                    E-mail: <a href="mailto:sudec@stin.hr">sudec@stin.hr</a>
+                                                    E-mail: <a href="mailto:info@stin.hr">info@stin.hr</a>
                                         </p>
                                     </div>
                                 </div>
@@ -142,8 +144,6 @@
                     </div>
                 </div>
                 <!-- #page we need this extra closing tag here -->
-                <script type="text/javascript" src="./js/jquery.min.js"></script>
-                <script type="text/javascript" src="./js/fundament.min.js"></script>
             </body>
         </html>
     </xsl:template>
@@ -174,12 +174,14 @@
         <xsl:element name="p">
             <xsl:attribute name="class" select="'publisher'"/>
             <xsl:value-of select="tei:fileDesc/tei:publicationStmt/tei:publisher/text()"/>
-            <xsl:text>, </xsl:text>
+        </xsl:element>
+        <xsl:element name="p">
+            <xsl:attribute name="class" select="'publisher'"/>
             <xsl:value-of select="tei:fileDesc/tei:publicationStmt/tei:pubPlace/text()"/>
         </xsl:element>
         <xsl:element name="p">
             <xsl:attribute name="class" select="'date'"/>
-            <xsl:text>10.03.2022</xsl:text>
+            <xsl:text>03.10.2022</xsl:text>
         </xsl:element>
         <xsl:element name="p">
             <xsl:attribute name="class" select="'link-to-facsimiles'"/>
@@ -250,6 +252,12 @@
         <xsl:element name="p">
             <xsl:attribute name="class" select="'page-number'"/>
             <xsl:value-of select="@n"/>
+            <xsl:text> </xsl:text>
+            <xsl:element name="a">
+                <xsl:attribute name="href" select="@facs"/>
+                <xsl:attribute name="target" select="'_blank'"/>
+                <i class="fas fa-image" style="transform: translate(0%,10%);"/>
+            </xsl:element>
         </xsl:element>
     </xsl:template>
     
@@ -265,24 +273,51 @@
             </xsl:if>
             <xsl:text>]</xsl:text>
             <xsl:variable name="root-node" select="root()"/>
+            <xsl:variable name="identifier" select="generate-id(.)"/>
             <xsl:for-each select="tokenize(@ana,' ')">
                 <xsl:choose>
                     <xsl:when test="starts-with(substring-after(.,'#'),'lit-agent')">
-                        <xsl:element name="span">
+                        <!-- <xsl:element name="span">
                             <xsl:attribute name="class" select="'liturgical-agent'"/>
                             <xsl:value-of select="$root-node/tei:TEI/tei:teiHeader/tei:encodingDesc/tei:classDecl/tei:taxonomy/tei:taxonomy[@n = 'liturgical agent']/tei:category[@xml:id = substring-after(current(),'#')]/@n"/>
-                        </xsl:element>
+                        </xsl:element> -->
                     </xsl:when>
                     <xsl:when test="starts-with(substring-after(.,'#'),'lit-cal')">
+                        <span class="lit-cal">
+                            <xsl:attribute name="id" select="concat('click-',$identifier,position())"/>    
+                            <i class="fas fa-info-circle"></i>
+                        </span>
                         <xsl:element name="span">
-                            <xsl:attribute name="class" select="'liturgical-calendar'"/>
+                            <xsl:attribute name="class" select="'liturgical-calendar hidden'"/>
+                            <xsl:attribute name="id" select="concat($identifier,position())"/>
                             <xsl:value-of select="$root-node/tei:TEI/tei:teiHeader/tei:encodingDesc/tei:classDecl/tei:taxonomy/tei:taxonomy[@n = 'liturgical calendar']/tei:category[@xml:id = substring-after(current(),'#')]/@n"/>
+                        </xsl:element>
+                        <xsl:element name="script">
+                            <xsl:attribute name="defer" select="'defer'"/>
+                            <xsl:text>$('#</xsl:text>
+                            <xsl:value-of select="concat('click-',$identifier,position())"/>
+                            <xsl:text>').click(function(){$('#</xsl:text>
+                            <xsl:value-of select="concat($identifier,position())"/>
+                            <xsl:text>').toggleClass('visible');})</xsl:text>
                         </xsl:element>
                     </xsl:when>
                     <xsl:when test="starts-with(substring-after(.,'#'),'lit-unit')">
+                        <span class="lit-unit">
+                            <xsl:attribute name="id" select="concat('click-',$identifier,position())"/>
+                            <i class="fas fa-info-circle"></i>
+                        </span>
                         <xsl:element name="span">
-                            <xsl:attribute name="class" select="'liturgical-unit'"/>
+                            <xsl:attribute name="class" select="'liturgical-unit hidden'"/>
+                            <xsl:attribute name="id" select="concat($identifier,position())"/>
                             <xsl:value-of select="$root-node/tei:TEI/tei:teiHeader/tei:encodingDesc/tei:classDecl/tei:taxonomy/tei:taxonomy[@n = 'liturgical units']/tei:category[@xml:id = substring-after(current(),'#')]/@n"/>
+                        </xsl:element>
+                        <xsl:element name="script">
+                            <xsl:attribute name="defer" select="'defer'"/>
+                            <xsl:text>$('#</xsl:text>
+                            <xsl:value-of select="concat('click-',$identifier,position())"/>
+                            <xsl:text>').click(function(){$('#</xsl:text>
+                            <xsl:value-of select="concat($identifier,position())"/>
+                            <xsl:text>').toggleClass('visible');})</xsl:text>
                         </xsl:element>
                     </xsl:when>
                     <xsl:otherwise>
@@ -308,9 +343,7 @@
         <xsl:element name="br"/>
         <xsl:element name="span">
             <xsl:attribute name="class" select="'line-number'"/>
-            <xsl:text>(</xsl:text>
             <xsl:value-of select="@n"/>
-            <xsl:text>)</xsl:text>
             <xsl:if test="exists(@prev)">
                 <xsl:text> (cont.)</xsl:text>
             </xsl:if>
@@ -350,24 +383,51 @@
     
     <xsl:template match="tei:seg[@type = 'liturgical-unit']">
         <xsl:variable name="root-node" select="root()"/>
+        <xsl:variable name="identifier" select="generate-id(.)"/>
         <xsl:for-each select="tokenize(@ana,' ')">
             <xsl:choose>
                 <xsl:when test="starts-with(substring-after(.,'#'),'lit-agent')">
-                    <xsl:element name="span">
+                    <!-- <xsl:element name="span">
                         <xsl:attribute name="class" select="'liturgical-agent-inline'"/>
                         <xsl:value-of select="$root-node/tei:TEI/tei:teiHeader/tei:encodingDesc/tei:classDecl/tei:taxonomy/tei:taxonomy[@n = 'liturgical agent']/tei:category[@xml:id = substring-after(current(),'#')]/@n"/>
-                    </xsl:element>
+                    </xsl:element> -->
                 </xsl:when>
                 <xsl:when test="starts-with(substring-after(.,'#'),'lit-cal')">
+                    <span class="lit-cal">
+                        <xsl:attribute name="id" select="concat('click-',$identifier,position())"/>    
+                        <i class="fas fa-info-circle"></i>
+                    </span>
                     <xsl:element name="span">
-                        <xsl:attribute name="class" select="'liturgical-calendar-inline'"/>
+                        <xsl:attribute name="class" select="'liturgical-calendar-inline hidden'"/>
+                        <xsl:attribute name="id" select="concat($identifier,position())"/>
                         <xsl:value-of select="$root-node/tei:TEI/tei:teiHeader/tei:encodingDesc/tei:classDecl/tei:taxonomy/tei:taxonomy[@n = 'liturgical calendar']/tei:category[@xml:id = substring-after(current(),'#')]/@n"/>
+                    </xsl:element>
+                    <xsl:element name="script">
+                        <xsl:attribute name="defer" select="'defer'"/>
+                        <xsl:text>$('#</xsl:text>
+                        <xsl:value-of select="concat('click-',$identifier,position())"/>
+                        <xsl:text>').click(function(){$('#</xsl:text>
+                        <xsl:value-of select="concat($identifier,position())"/>
+                        <xsl:text>').toggleClass('visible');})</xsl:text>
                     </xsl:element>
                 </xsl:when>
                 <xsl:when test="starts-with(substring-after(.,'#'),'lit-unit')">
+                    <span class="lit-unit">
+                        <xsl:attribute name="id" select="concat('click-',$identifier,position())"/>
+                        <i class="fas fa-info-circle"></i>
+                    </span>
                     <xsl:element name="span">
-                        <xsl:attribute name="class" select="'liturgical-unit-inline'"/>
+                        <xsl:attribute name="class" select="'liturgical-unit-inline hidden'"/>
+                        <xsl:attribute name="id" select="concat($identifier,position())"/>
                         <xsl:value-of select="$root-node/tei:TEI/tei:teiHeader/tei:encodingDesc/tei:classDecl/tei:taxonomy/tei:taxonomy[@n = 'liturgical units']/tei:category[@xml:id = substring-after(current(),'#')]/@n"/>
+                    </xsl:element>
+                    <xsl:element name="script">
+                        <xsl:attribute name="defer" select="'defer'"/>
+                        <xsl:text>$('#</xsl:text>
+                        <xsl:value-of select="concat('click-',$identifier,position())"/>
+                        <xsl:text>').click(function(){$('#</xsl:text>
+                        <xsl:value-of select="concat($identifier,position())"/>
+                        <xsl:text>').toggleClass('visible');})</xsl:text>
                     </xsl:element>
                 </xsl:when>
                 <xsl:otherwise>
