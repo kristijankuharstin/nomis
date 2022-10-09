@@ -45,7 +45,7 @@
                                 <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                                     <!-- Your menu goes here -->
                                     <ul id="main-menu" class="navbar-nav">
-                                        <li class="nav-item active"><a title="Home" href="/" class="nav-link">Home</a></li>
+                                        <li class="nav-item active"><a title="Home" href="index.html" class="nav-link">Home</a></li>
                                         <li class="nav-item"><a title="Simplified Transcription" href="simplified-transcription.html" class="nav-link">Simplified Transcription</a></li>
                                         <li class="nav-item"><a title="About" href="about.html" class="nav-link">About</a></li>
                                     </ul>
@@ -75,7 +75,7 @@
                         </div>
                     </div>
                     <div class="wrapper" id="index-wrapper">
-                        <div class="container" id="content" tabindex="-1">
+                        <div class="container-fluid" id="content" tabindex="-1">
                             <div class="row">
                                 <!-- Do the left sidebar check and opens the primary div -->
                                 <div class="col-md-12 content-area" id="primary">
@@ -157,6 +157,10 @@
                     <xsl:text> - </xsl:text>
                 </xsl:if>
             </xsl:for-each>
+        </xsl:element>
+        <xsl:element name="p">
+            <xsl:attribute name="class" select="'title'"/>
+            <xsl:text>Simplified Version</xsl:text>
         </xsl:element>
         <xsl:element name="p">
             <xsl:attribute name="class" select="'responsibility'"/>
@@ -264,12 +268,25 @@
     <xsl:template match="tei:div[@type = 'page']">
         <xsl:element name="div">
             <xsl:attribute name="class" select="'page'"/>
-            <xsl:apply-templates select="child::node()"/>
+            <div class="row">
+                <xsl:for-each select="child::tei:div[@type = 'column']">
+                     <xsl:if test="position() = 1">
+                         <div class="col-md-6 add-padding">
+                             <xsl:apply-templates select="."/>
+                         </div>
+                     </xsl:if>
+                     <xsl:if test="position() = 2">
+                         <div class="col-md-6 add-padding">
+                             <xsl:apply-templates select="."/>
+                         </div>
+                     </xsl:if>
+                </xsl:for-each>
+            </div>
         </xsl:element>
     </xsl:template>
     
     <xsl:template match="tei:div[@type = 'column']">
-        <xsl:apply-templates select="child::node()"/>
+        <xsl:apply-templates select="child::tei:div/child::tei:ab/child::tei:lb | child::tei:div/child::tei:ab/text()"/>
     </xsl:template>
     
     <xsl:template match="tei:cb"/>
@@ -353,14 +370,14 @@
     </xsl:template>
     
     <xsl:template match="tei:lb">
-        <xsl:element name="br"/>
-        <xsl:element name="span">
-            <xsl:attribute name="class" select="'line-number'"/>
-            <xsl:value-of select="@n"/>
-            <xsl:if test="exists(@prev)">
-                <xsl:text> (cont.)</xsl:text>
-            </xsl:if>
-        </xsl:element>
+        <xsl:if test="exists(@break) and @break = 'no'"/>
+        <xsl:if test="not(exists(@break))">
+            <xsl:text> </xsl:text>
+        </xsl:if>
+    </xsl:template>
+    
+    <xsl:template match="text()">
+        <xsl:value-of select="normalize-space(.)"/>
     </xsl:template>
     
     <xsl:template match="tei:hi[@rend = 'red-ink-bold']">
@@ -382,9 +399,7 @@
     </xsl:template>
     
     <xsl:template match="tei:ex">
-        <xsl:text>(</xsl:text>
         <xsl:value-of select="text()"/>
-        <xsl:text>)</xsl:text>
     </xsl:template>
     
     <xsl:template match="tei:head">
