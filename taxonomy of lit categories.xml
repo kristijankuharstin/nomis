@@ -159,7 +159,7 @@
                  <category xml:id="lit-cal-sabbato-post-dominica-quinta-in-quadragesima" xml:lang="la" n="Sabbato post Dom. IV in quadr.">
                     <equiv xml:id="V-sobotu-e." xml:lang="ocs" n="V sobotu e."/></category>
                  <category xml:id="lit-cal-dominica-sexta-in-quadragesima" xml:lang="la" n="Dominica sexta in quadragesima seu in palmis">
-                    <equiv xml:id="Nedele-e." xml:lang="ocs" n="Nedêle e."/></category>
+                    <equiv xml:id="Nedelu-cvetnu." xml:lang="ocs" n="Nedêlû c’vêt’nu"/>
                  <category xml:id="lit-cal-benedictio-ramorum" xml:lang="la" n="Benedictio ramorum">
                     <equiv xml:id="blagosloviti-palme" xml:lang="ocs" n="Blagoslovitь palme"/></category>
                  <category xml:id="lit-cal-missa-ad-s.-ioannem-in-laterano" xml:lang="la" n="Missa ad S. Ioannem in Laterano">
