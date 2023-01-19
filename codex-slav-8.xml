@@ -849,10 +849,9 @@
                            ana="#lit-agent-populus #lit-unit-responsa"><hi rend="red-ink">V.
                               C</hi>r<ex>ê</ex>kvi tvoei.</seg>
                         <seg type="liturgical-unit" xml:id="ONB-slav-8-1-2-3"
-                           ana="#lit-agent-sacerdos #lit-unit-invocatio"><hi rend="red-ink">ili
+                           ana="#lit-unit-invocatio"><hi rend="red-ink">ili
                               B</hi><ex>ož</ex>e v <lb n="11" break="no" next="#lb-8-1-2-12b"
                               xml:id="lb-8-1-2-12a"/>sêh’ vêr’nih’ pastiru</seg>
-                        <!-- explanation needed -->
                      </ab>
                   </div>
                   <div xml:id="ONB-slav-8-1-3" type="liturgical-unit" rendition="#left-column"
@@ -20872,6 +20871,52 @@
                         <lb n="27" break="no"/>omь primite i kozliĉa i sabь
                         <lb n="28" break="no"/>lûdête do četvrtago na d
                         <lb n="29" break="no"/>este dne mê<ex>se</ex>ca sego . <hi rend="red-ink">Z</hi>ako
+                     </ab>
+                  </div>
+               </div>
+            </div>
+            <div type="page">
+               <pb n="92r"/>
+               <div type="column">
+                  <cb n="92ra" rendition="#left-column"/>
+                  <div xml:id="ONB-slav-8-1-862-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
+                     <ab>
+                        <lb n="1" break="no"/>let že i vse množastvo s(i)n(o)vь iz
+                        <lb n="2" break="no"/>(drai)levь i snidet' i pri večerê . i va
+                        <lb n="3" break="no"/>zmutь ot krvi i pomažutь na ob
+                        <lb n="4" break="no"/>oû pod'boû i na prazehь domь tê
+                        <lb n="5" break="no"/>hь v nihže êsti i vačnutь . I s'
+                        <lb n="6" break="no"/>nidetь mesa ego v' tu noĉь peče
+                        <lb n="7"/>na ognemь . <!-- MARGINAL NOTE r 7-9. r7: i oprêsnaki kruhь sa žlteniceû div'eû . R8 ne snêste že ot nego sirova ničesože .
+                        R9 ni varena va vodê . na t(a)kmo peč(e)na ogn(e)mь . -->
+                        <lb n="8"/>Gl(a)vu že s nogami ego
+                        <lb n="9"/>i utrobu sniste . i kosti ego ne
+                        <lb n="10"/>skrušite . ni ostavite ot nego
+                        <lb n="11" break="no"/>ničtože do ûtrê . Aĉe čto iz'
+                        <lb n="12" break="no"/>budetь ot nego . to ognemь sьž'
+                        <lb n="13" break="no"/>žete . Sice že sniste i . Črê
+                        <lb n="14" break="no"/>sla v(a)ša prêpoêsavše i obu
+                        <lb n="15" break="no"/>vše nogi v(a)ši . i držeĉe žaz'
+                        <lb n="16"/>li v rukah' v(a)šihь . i sniste s'
+                        <lb n="17" break="no"/>taĉaniemь . Est bo paska . ež
+                        <lb n="18" xml:id="lb-8-1-862-1-18a" next="#lb-8-1-862-1-18b"/>e estь prišastie g(ospod)ne
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-863" type="liturgical-unit" ana="#lit-unit-tractus" rendition="#left-column">
+                     <ab>
+                        <lb n="18" xml:id="lb-8-1-862-1-18b" prev="#lb-8-1-862-1-18a"/>. tr(a)htь 
+                        <lb n="19" break="no"/>Izmi me g(ospod)i ot č(lovê)ka lukava . i ot m
+                        <lb n="20" break="no"/>uža nepr(a)v(ь)dna izbavi me . Iže v'
+                        <lb n="21" break="no"/>zmisliše nepr(a)vdi v sr(ьd)ci svoe
+                        <lb n="22" break="no"/>mь vasь d(ь)nь oplčahu brani . Po
+                        <lb n="23" break="no"/>ostriše êziki svoe êko z'mie . ê
+                        <lb n="24" break="no"/>d' aspid' pod' ustnami ih' . Shr
+                        <lb n="25"/>ani me g(ospod)i ot ruki grêšniče . i ot č(lovê)kь
+                        <lb n="26" break="no"/>nepr(a)v(ь)dnih' izb(a)vi me . Iže pomis'
+                        <lb n="27" break="no"/>liše zapeti stopi moe . skr
+                        <lb n="28" break="no"/>iše grdi sêti m'nê . Uži pripe
+                        <lb n="29" break="no"/>še seti nogama moima . pri staz
+                        <lb n="30"/>ê skandêlь položiše m'nê . Rêhь .
                      </ab>
                   </div>
                </div>
