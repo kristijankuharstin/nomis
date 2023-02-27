@@ -22709,11 +22709,99 @@
                         <lb n="28" break="no"/>troit' se voda i pokrie
                         <lb n="29"/>tь eûpĉane i kolesnice 
                      </ab>
+                  </div>
+               </div>
+            </div>
+            <div type="page">
+               <pb n="103v"/>
+               <div type="column">
+                  <cb n="103vc" rendition="#left-column"/>
+                  <div xml:id="ONB-slav-8-1-880-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
+                     <ab>
+                        <lb n="1" break="no"/>ih' i vsadniki ih' . I egda pros
+                        <lb n="2" break="no"/>trê [NATPISANO: moisêi] ruku na more i ustroi se v <!-- superscript -->
+                        <lb n="3" break="no"/>oda [NATPISANO: k dnevi?] na pr'voe mêsto . Eûpĉano <!-- superscript -->
+                        <lb n="4"/>m že bêžeĉim' srêtu e vodi . 
+                        <lb n="5"/>i pokri e g(ospod)ь posrêdê vl'neniê .
+                        <lb n="6" break="no"/>I v'zvraĉše se vodi i pokriš
+                        <lb n="7" break="no"/>e kolesnice [NATPISANO: i vsadniki] vse . voi para <!-- superscript -->
+                        <lb n="8"/>onovi [PREKRIŽENO mi] . iže goreĉie vьš'li <!-- mark -->
+                        <lb n="9" break="no"/>bêhu v' more i niedinь ot nih' n
+                        <lb n="10" break="no"/>e iz'bis(tь) . S(i)nove že iz(drai)l(e)vi proi
+                        <lb n="11"/>doše po suhu posrêdê mora .
+                        <lb n="12"/>i vodi imь biše êko stêni o
+                        <lb n="13"/>desnoû i o šuû . I iz'bavi g(ospod)ь
+                        <lb n="14"/>iz(drai)le v' d(ь)nь onь ot ruki eûp'ĉanь .
+                        <lb n="15" break="no"/>i vidêv'še iz(drai)li eûpĉani m
+                        <lb n="16" break="no"/>r'tve v' krai mora i ruku vel
+                        <lb n="17" break="no"/>ikuû g(ospod)nû ûže stvori na eûp'
+                        <lb n="18" break="no"/>ĉaneh' ostru zêlo . I uboêš
+                        <lb n="19"/>e se g(ospod)a lûdi i vêrovaše g(ospod)u
+                        <lb n="20" break="no"/>i moisêû rabu ego . Tьgda v'sp
+                        <lb n="21" break="no"/>ê moisêi i s(i)n(o)ve iz(drai)l(e)vi pês(nь) si
+                        <lb n="22" break="no"/>û g(ospode)vê i rêše . pês(nь) . Poem' g(ospode)vê s
+                        <lb n="23" break="no"/>l(a)vnê bo prosl(a)vi se kone vsad'n
+                        <lb n="24" break="no"/>iki v'v'rže v' more . Pomoĉnikь i p
+                        <lb n="25" break="no"/>okrovitelь moi g(ospod)ь . i bis(tь) mnê v' s
+                        <lb n="26"/>p(a)s(e)nie Se b(og)ь moi i prosl(a)vlû i i b(og)ь
+                        <lb n="27"/>o(t)ca moego v'znesu i G(ospod)ь skrušaei
+                        <lb n="28" break="no"/>brani g(ospod)ь ime emu kolesnice pa
+                        <lb n="29" xml:id="lb-8-1-880-1-29a" next="#lb-8-1-880-1-29b"/>raone i silu ego v'vrže v' more . 
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-881" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
+                     <ab>
+                        <lb n="29" xml:id="lb-8-1-880-1-29b" prev="#lb-8-1-880-1-29a"/>or(a)c(iê) . [MARGINA] po(molimь) pr(ê)k(lonimь) . <!-- marginal -->
+                     </ab>
+                  </div>
+               </div>
+               <div type="column">
+                  <cb n="103vd" rendition="#right-column"/>
+                  <div xml:id="ONB-slav-8-1-881-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#right-column">
+                     <ab>
+                        <lb n="1"/>B(ož)e egože prid'na čudesa v'
+                        <lb n="2" break="no"/>nastoeĉi v(ê)kь bliskaûĉi s
+                        <lb n="3"/>e čuemь . da êkože pr'vie lûdi
+                        <lb n="4" break="no"/>otgoneniê eûp(a)tskago izb(a)vi d
+                        <lb n="5" break="no"/>esnice tvoee krêpostiû to
+                        <lb n="6" break="no"/>li v' sp(a)s(e)nie [NATPISANO: n'rodom'] vodoû paki po <!-- superscript -->
+                        <lb n="7"/>roĵenie tvoriši . podai da 
+                        <lb n="8"/>vь abraamlû čedь i vь iz(drai)l(e)vo
+                        <lb n="9" break="no"/>dostoênie vsego mira prêi
+                        <lb n="10" xml:id="lb-8-1-881-1-10a" next="#lb-8-1-881-1-10b"/>detь množ'stvo . g(ospode)mь 
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-882" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#right-column">
+                     <ab>
+                        <lb n="10" xml:id="lb-8-1-881-1-10b" prev="#lb-8-1-881-1-10a"/>lekciê d . (5)
+                        <lb n="11" break="no"/>Se estь dostoênie ra
+                        <lb n="12"/>bь g(ospod)nih' i pr(a)vdi ih' preda
+                        <lb n="13" break="no"/>mnoû gl(agole)tь g(ospod)ь . Vsi žeĵû
+                        <lb n="14"/>ĉei pridite k' vodamь . i 
+                        <lb n="15" break="no"/>iže ne imate srebra s
+                        <lb n="16" break="no"/>pêšite i kupite i êdi
+                        <lb n="17" break="no"/>te . Pridite i kupite b
+                        <lb n="18"/>ez' srebra i bez' v'sakoe [e PRECRTANO I NATPISANO go] <!-- superscript -->
+                        <lb n="19" break="no"/>izmê[NATPISANO ne]ni[NATPISANO ê] vino i mlêko . Vs
+                        <lb n="20"/>kuû cênite srebro v(a)še 
+                        <lb n="21" break="no"/>ne v hlêbih' . i trudom' va
+                        <lb n="22" break="no"/>šimь nasitite se . Posl
+                        <lb n="23"/>ušaite poslušaûĉei
+                        <lb n="24" break="no"/>me i blagaê z(e)mle snêst
+                        <lb n="25" break="no"/>e i nasladit se v tuko
+                        <lb n="26" break="no"/>sti d(u)ša v(a)ša . Prikloni
+                        <lb n="27"/>te uho v(a)še i pridite ka
+                        <lb n="28" break="no"/>mnê slišite i živa b
+                        <lb n="29"/>udetь d(u)ša v(a)ša . I primu
+                     </ab>
+                  </div>
+               </div>
+            </div>
          </div>
+      </body>
             
                   
          
-      </body>
             
                   
                         
