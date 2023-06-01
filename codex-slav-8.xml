@@ -32157,6 +32157,125 @@
                   <div xml:id="ONB-slav-8-1-1407-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
                      <ab>
                         <lb n="1"/>ê i r(e)če ei . ženo otpuĉena esi ot
+                        <lb n="2" break="no"/>neduga tvoego. <hi rend="red-ink">I</hi> v'zloži na n
+                        <lb n="3" break="no"/>û rucê i abie prostri se i sl(a)v'
+                        <lb n="4" break="no"/>laše b(og)a . <hi rend="red-ink">Ot</hi>veĉav že stari
+                        <lb n="5"/>šina ot sanmiĉa r(e)če negodue .
+                        <lb n="6"/>zane v sobotu cêlaše i(su)sь
+                        <lb n="7" break="no"/>i g(lago)laše narodu . <hi rend="red-ink">Š</hi>estь dni es
+                        <lb n="8" break="no"/>tь v neže podobaetь dêl
+                        <lb n="9" break="no"/>ati . <hi rend="red-ink">I</hi> v tie ubo pridite i cê
+                        <lb n="10"/>lite se a ne v' d(ь)nь sobot'ni
+                        <lb n="11" break="no"/><hi rend="red-ink">Ot</hi>veĉav že i(su)sь r(e)če emu <hi rend="red-ink">L</hi>ice
+                        <lb n="12" break="no"/>mêri edinь každo vasь v' so
+                        <lb n="13" break="no"/>botu ne otrêšit' li vola sv
+                        <lb n="14" break="no"/>oego ili osla ot êsalь v' so
+                        <lb n="15"/>botu i vedь i napaêetь . <hi rend="red-ink">S</hi>i
+                        <lb n="16"/>ûže deĉerь avraamlû ûže
+                        <lb n="17" break="no"/>sveza sotona sie osam' na d
+                        <lb n="18" break="no"/>esete lêtь ne podobaeše l
+                        <lb n="19"/>i otrêšiti û si d(ь)nь sobot'ni
+                        <lb n="20" break="no"/><hi rend="red-ink">S</hi>e že emu g(lago)lûĉu postidê
+                        <lb n="21" break="no"/>še se lûdi radovahu se o v
+                        <lb n="22"/>sêh' . êže sl(a)vno tvorahu se
+                        <lb n="23" xml:id="lb-8-1-1407-1-23a" next="#lb-8-1-1407-1-23b"/>ot nego .
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1408" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#left-column">
+                     <ab>
+                        <lb n="23" xml:id="lb-8-1-1407-1-23b" prev="#lb-8-1-1407-1-23a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> pês(nь)</seg> <hi rend="minuscule-letters"><hi rend="red-ink">G</hi>(ospod)i b(ož)e sp(a)s(e)niê moego v'
+                        <lb n="24" break="no"/>dne v'zvahь i v noĉi prêd' tob
+                        <lb n="25"/>oû . da vnidetь m(o)l(i)t(ь)vь moê prêd'
+                        <lb n="26" break="no" xml:id="lb-8-1-1408-26a" next="#lb-8-1-1408-26b"/>te g(ospod)i .</hi>
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1409" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#left-column">
+                     <ab>
+                        <lb n="26" break="no" xml:id="lb-8-1-1408-26b" prev="#lb-8-1-1408-26a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> nad </seg> Dai m(o)l(imь) te g(ospod)i vsem    <!-- superscript in red - <prinošeniemь> -->
+                        <lb n="27" break="no"/>ogi b(ož)e da očima tvoego vel
+                        <lb n="28" break="no"/>ičstviê darь prineseni i m(i)l(o)
+                     </ab>
+                  </div>
+               </div>
+               <div type="column">
+                  <cb n="148vd" rendition="#right-column"/>
+                  <div xml:id="ONB-slav-8-1-1409-1" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#right-column">
+                     <ab>
+                        <lb n="1" break="no"/>stь n(a)mь z' bož'stviê ĉedri
+                        <lb n="2" break="no"/>tь i želêniê v(ê)čn(a)go b(o)ž(a)nst'
+                        <lb n="3" xml:id="lb-8-1-1409-1-1a" next="#lb-8-1-1409-1-1b"/>viê priobrêĉetь . <hi rend="red-ink">G</hi>(ospode)mь n(a)š(imь) .
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1410" type="liturgical-unit" ana="#lit-unit-communio" rendition="#right-column">
+                     <ab>
+                        <lb n="3" xml:id="lb-8-1-1409-1-1b" prev="#lb-8-1-1409-1-1a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> pês(nь)</seg>
+                        <lb n="4"/><hi rend="minuscule-letters"><hi rend="red-ink">M</hi>iseca sed'mago prazdniki v'
+                        <lb n="5" break="no"/>začtete egda v' krovêh' prêbi
+                        <lb n="6"/>vati stvorih' s(i)ni iz(drai)l(o)vi . egda
+                        <lb n="7"/>izvedoh' vi ot z(e)mle eûpt'skie az'
+                        <lb n="8" xml:id="lb-8-1-1410-8a" next="#lb-8-1-1410-8b"/>g(ospod)ь b(og)ь v(a)šь .</hi>
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1411" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#right-column">
+                     <ab>
+                        <lb n="8" xml:id="lb-8-1-1410-8b" prev="#lb-8-1-1410-8a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> po</seg> <hi rend="red-ink">D</hi>a svršetь v' n(a)sь  <!-- superscript in red - <brašanci> -->
+                        <lb n="9"/>m(o)l(imь) te g(ospod)i tvoee taini eže ni
+                        <lb n="10" break="no"/>obdr'žetь . da eže n(i)ne upv
+                        <lb n="11" break="no"/>aniemь dêemь krasotoû i is
+                        <lb n="12" xml:id="lb-8-1-1411-12a" next="#lb-8-1-1411-12b"/>tinoû da primemь <hi rend="red-ink">G</hi>(ospode)mь
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1412" type="liturgical-unit" subtype="dies-liturgicus" ana="#lit-cal-dominica-XVI-post-pentecosten #lit-unit-rubrica-maior" rendition="#right-column" rend="red-ink">
+                     <ab>
+                        <lb n="12" xml:id="lb-8-1-1411-12b" prev="#lb-8-1-1411-12a"/>⸿ n(e)d(ê)le <num type="ordinal" value="16">.eï.</num>
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1413" type="liturgical-unit" ana="#lit-unit-introitus" rendition="#right-column">
+                     <ab>
+                        <lb n="13" break="no"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">pês(nь) .</seg> <hi rend="minuscule-letters"><hi rend="red-ink">P</hi>om(i)l(ui) (m)e g(ospod)i êko k t(e)bê v'zva
+                        <lb n="14" break="no"/>h' vasь d(ь)nь êko ti g(ospod)i bl(a)g' i kro
+                        <lb n="15" break="no"/>takь obilanь i prêm(i)l(o)st(i)vь vsê
+                        <lb n="16" break="no"/>mь prizivaûĉim te</hi> <seg type="liturgical-unit" ana="#lit-unit-psalmus"><hi rend="red-ink">s(ti)h . <hi rend="minuscule-letters">Pr</hi>iklo
+                        <lb n="17" break="no"/>ni g(ospod)i uho tvoe k mnê i usliši m
+                        <lb n="18" xml:id="lb-8-1-1413-18a" next="#lb-8-1-1413-18b"/>e êko niĉь i ubog' esamь azь .</hi></seg>
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1414" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#right-column">
+                     <ab>
+                        <lb n="18" xml:id="lb-8-1-1413-18b" prev="#lb-8-1-1413-18a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> or(a)c(iê)</seg>
+                        <lb n="19" break="no"/><hi rend="red-ink">T</hi>voê ni m(o)l(imь) te g(ospod)i m(i)l(o)stь v'
+                        <lb n="20" break="no"/>sagda da prêd'hoditь i nas
+                        <lb n="21"/>lêduetь i dobrimь dêlom'
+                        <lb n="22" break="no"/>vsagda podai biti v'nim
+                        <lb n="23" xml:id="lb-8-1-1414-23a" next="#lb-8-1-1414-18b"/>atel'nimь <hi rend="red-ink">G</hi>(ospode)mь 
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1415" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#right-column">
+                     <ab>
+                        <lb n="23" xml:id="lb-8-1-1414-23b" prev="#lb-8-1-1414-23a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">. ap(ustola) k' efesiemь</seg>
+                        <lb n="24" break="no"/>Br(a)tê m(o)lû vi da ne skončae
+                        <lb n="25"/>te se v' pečaleh' moih'
+                        <lb n="26"/>za vi . eže estь sl(a)va
+                        <lb n="27" break="no"/>vaša <hi rend="red-ink">I</hi> see radi hv(a)li pr
+                        <lb n="28"/>iklanaû kolênê moi kь
+                        <lb n="29"/>b(og)u o(t)cu g(ospod)a n(a)š(e)go is(u)h(rьst)a egože
+                     </ab>
+                  </div>
+               </div>
+            </div>
+            <div type="page">
+               <pb n="149r"/>
+               <div type="column">
+                  <cb n="149ra" rendition="#left-column"/>
+                  <div xml:id="ONB-slav-8-1-1415-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
+                     <ab>
+                        <lb n="1"/>e ot'čstvo vsakь n(a) n(e)b(e)si i na
+                        <lb n="2"/>z(e)mli nar(i)caetь . da dastь
+                        <lb n="3" break="no"/>v(a)mь po bogat'stvu m(i)l(o)st
+                        <lb n="4"/>i svoee silu potvrditi
+                        <lb n="5" break="no"/>d(u)homь ego . v nutrn'nago č(lovê)ka pr
+                        <lb n="6"/>êbivaûĉa vêroû v' sr(ьd)cih'
+                        <lb n="7" break="no"/>v(a)ših' <hi rend="red-ink">V</hi> lûbvi korenovan
                      </ab>
                   </div>
                </div>
