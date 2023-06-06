@@ -32712,7 +32712,16 @@
                </div>
                <div xml:id="ONB-slav-8-1-1442" type="liturgical-unit" subtype="dies-liturgicus" ana="#lit-cal-dominica-XIX-post-pentecosten #lit-unit-rubrica-maior" rendition="#left-column" rend="red-ink">
                   <ab>
-                     <lb n="15"/>Œ N<ex>e</ex>d<ex>ê</ex>le <num type="ordinal" value="19">zï.</num> po p<ex>e</ex>t<ex>i</ex>kost<ex>i</ex>hь Pês<ex>nь</ex> .<!-- introitus in the same row - how to solve this -->
+                     <lb n="15" xml:id="lb-8-1-1442-15a" next="#lb-8-1-1442-15b"/>Œ N<ex>e</ex>d<ex>ê</ex>le <num type="ordinal" value="19">zï.</num> po p<ex>e</ex>t<ex>i</ex>kost<ex>i</ex>hь Pês<ex>nь</ex>
+                  </ab>
+               </div>
+               <div xml:id="ONB-slav-8-1-1443" type="liturgical-unit" ana="#lit-unit-introitus" rendition="#left-column">
+                  <ab>
+                     <lb n="15" xml:id="lb-8-1-1442-15b" prev="#lb-8-1-1442-15a"/>Pês<ex>nь</ex>
+                     <lb n="16"/>Sp(a)s(e)nie lûdi az' esamь gl(agole)tь g(ospod)ь
+                     <lb n="17"/>ot koe lûbo skr'bi v'zovutь ka
+                     <lb n="18"/>mnê az' uslišu e . i budu imь
+                     
                   </ab>
                </div>
             </div>
