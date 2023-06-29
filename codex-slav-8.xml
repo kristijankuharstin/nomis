@@ -695,6 +695,11 @@
                      <equiv xml:id="Nedele-iv.-po-petikostih" xml:lang="ocs"
                         n="Nedêle iv. po petikostih'"/>
                   </category>
+                  <category xml:id="lit-cal-dominica-XXIV-post-pentecosten" xml:lang="la"
+                     n="Dominica XXIV post pentecosten">
+                     <equiv xml:id="Nedele-ig.-po-petikostih" xml:lang="ocs"
+                        n="Nedêle ig. po petikostih'"/>
+                  </category>
                </taxonomy>
                <taxonomy n="liturgical units">
                   <category xml:id="lit-unit-dialogus" xml:lang="la" n="dialogus"/>
@@ -33559,7 +33564,49 @@
                         <lb n="11" break="no"/>eže b(o)ž(ь)st'venimь priče
                         <lb n="12"/>ĉeniemь daeši radovati
                         <lb n="13" break="no"/>se č(lovêčь)skimi ne ostavi podь
-                        <lb n="14"/>ležati pagubь . <hi rend="red-ink">G</hi>(ospode)mь n(a)š(imь) .
+                        <lb n="14" xml:id="lb-8-1-1491-14a" next="#lb-8-1-1491-14b"/>ležati pagubь . <hi rend="red-ink">G</hi>(ospode)mь n(a)š(imь) .
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1492" type="liturgical-unit" subtype="dies-liturgicus" ana="#lit-cal-dominica-XXIV-post-pentecosten #lit-unit-rubrica-maior" rendition="#left-column" rend="red-ink">
+                     <ab>
+                        <lb n="14" xml:id="lb-8-1-1491-14b" prev="#lb-8-1-1491-14a"/>Œ
+                        <lb n="15" xml:id="lb-8-1-1492-15a" next="#lb-8-1-1492-15b"/>n(e)d(ê)le <num type="ordinal" value="24">.i.g.</num>
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1493" type="liturgical-unit" ana="#lit-unit-introitus" rendition="#left-column">
+                     <ab>
+                        <lb n="15" xml:id="lb-8-1-1492-15b" prev="#lb-8-1-1492-15a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> Pêsni</seg> <num type="ordinal" value="4" rend="red-ink">g.</num> <hi rend="red-ink">A</hi>zь mišlû
+                        <lb n="16" xml:id="lb-8-1-1493-16a" next="#lb-8-1-1493-16b"/>mišleniê mira <seg type="liturgical-unit" ana="#lit-unit-rubrica-maior" rend="red-ink">iĉ(i) . vse više .</seg>
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1494" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
+                     <ab>
+                        <lb n="16" xml:id="lb-8-1-1493-16b" prev="#lb-8-1-1493-16a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> or(a)c(iê) .</seg>
+                        <lb n="17"/><hi rend="red-ink-bold">V</hi>'zbudi m(o)l(imь) te g(ospod)i vêr'nihь
+                        <lb n="18" break="no"/>tvoih' vole da b(o)žiê d
+                        <lb n="19" break="no"/>êla plodь bliže postig'
+                        <lb n="20" break="no"/>nuĉe m(i)l(o)sti tvoee mazdi v
+                        <lb n="21"/>ekšie da primutь . <hi rend="red-ink">G</hi>(ospode)mь n(a)šim' .
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1495" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
+                     <ab>
+                        <lb n="22" break="no"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">k' kolasiemь .</seg> <hi rend="red-ink-bold">B</hi>r(a)t(i)ê . <hi rend="red-ink">N</hi>e prê
+                        <lb n="23" break="no"/>staemь m(o)leĉe se za v
+                        <lb n="24" break="no"/>i i proseĉe . da naplni
+                        <lb n="25"/>te se bl(a)goobraziê vole
+                        <lb n="26"/>b(o)žie <hi rend="red-ink">V</hi>ь vsakoi mudrosti
+                        <lb n="27" break="no"/>i v razumê d(u)hovnêem' da ho
+                        <lb n="28" break="no"/>dite dostoini b(og)u vь vsê
+                        <lb n="29"/>h' ugod'ni . vь vsakomь dêlê
+                     </ab>
+                  </div>
+               </div>
+               <div type="column">
+                  <cb n="155rb" rendition="#right-column"/>
+                  <div xml:id="ONB-slav-8-1-1495-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#right-column">
+                     <ab>
+                        <lb n="1"/>blazê plodeĉe i rastuĉe
                      </ab>
                   </div>
                </div>
