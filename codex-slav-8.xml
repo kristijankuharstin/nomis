@@ -795,6 +795,8 @@
                   <category xml:id="lit-unit-benedictio-lactis-in-pascha" xml:lang="la" n="benedictio lactis in pascha"/>
                   <category xml:id="lit-unit-benedictio-agni-in-pascha" xml:lang="la" n="benedictio agni in pascha"/>
                   <category xml:id="lit-unit-benedictio-casei-lactis-et-ovorum-in-pascha" xml:lang="la" n="benedictio casei lactis et ovorum in pascha"/>
+                  <category xml:id="lit-unit-crusifixio"/> <!-- this is image f 158v -->
+                  <category xml:id="lit-unit-vultus-christi"/> <!-- this is image f 159r -->
                </taxonomy>
             </taxonomy>
          </classDecl>
@@ -34094,13 +34096,120 @@
                         <lb n="7" break="no"/>Vêčni b(ož)e Êko egd
                         <lb n="8"/>a edinočedi s(i)nь
                         <lb n="9"/>tvoi v' suĉ'stvê
+                        <lb n="10" break="no"/>n(a)š(e)go semr'tiê êv
+                        <lb n="11" break="no"/>i se . novim' ni bes's
+                        <lb n="12" break="no"/>emr'tiemь svoee sv
+                        <lb n="13"/>êtlosti napravi . I sego 
+                        <lb n="14"/>radi sь anĵ(e)li i s arh(a)nĵ(e)l(i)
+                        <lb n="15" break="no"/>Propaciê počenet' se .a.(1) srê
+                        <lb n="16"/>du koriz'me i dr'žit' se v
+                        <lb n="17"/>n(e)d(ê)le i ferie do cvit'ne n(e)d(ê)le
+                        <lb n="18" break="no"/>HRUŠT Vêč'ni b(ož)e . Iže tê
+                        <lb n="19"/>lesnimь poĉeniem'
+                        <lb n="20" break="no"/>bludь niziši . a u
+                        <lb n="21" break="no"/>mь v'znosiši . krêp
+                        <lb n="22" break="no"/>ostь ĉedriši i ma
+                        <lb n="23" break="no"/>zdi . H(rьsto)mь g(ospode)mь n(a)šimь Imž
+                        <lb n="24"/>e veličstvo tvoe hv(a)let'
+                        <lb n="25"/>prof(a)ciê počenet' se v' velu
+                        <lb n="26"/>sob(o)tu . i dr'ži se do v'znes(e)niê
+                        <lb n="27"/>HRUŠT I sp(a)sit(e)lno . Tebe
+                        <lb n="28" break="no"/>ubo g(ospod)i v' vsako vr(ê)m
+                        <lb n="29"/>e . na i v si d(ь)nь sil'ni
                      </ab>
-                     
+                  </div>
+               </div>
+            </div>
+            <div type="page">
+               <pb n="158v"/>
+               <div type="column">
+                  <cb n="158vc" rendition="#left-column"/>
+                  <div xml:id="ONB-slav-8-1-1504-1" type="liturgical-unit" ana="#lit-unit-praefatio" rendition="#left-column">
+                     <ab>
+                        <lb n="1" break="no"/>prêsl(a)vno prop(o)v(ê)dati ibo pa
+                        <lb n="2"/>ska n(a)ša za ni požr'tь bis(tь) h(rьst)ь .
+                        <lb n="3"/>Ta bo istin'ni estь agnac'
+                        <lb n="4" break="no"/>iže otêtь grêhi mira . Iže s
+                        <lb n="5" break="no"/>emr'tь n(a)šu umirae razdru
+                        <lb n="6" break="no"/>ši i životь v'skr'sae ugo
+                        <lb n="7"/>tova . I sego radi sь anĵ(e)li
+                        <lb n="8"/>na v'znesenie g(ospod)ne do p(e)t(i)k(o)st' .
+                        <lb n="9" break="no"/>HRUŠT H(rьsto)mь g(ospode)mь n(a)šimь . Iže p
+                        <lb n="10"/>o vskr'seni svoemь . 
+                        <lb n="11" break="no"/>vsêmь uč(e)n(i)komь svo
+                        <lb n="12"/>imь otkr'veno êvi se .
+                        <lb n="13" break="no"/>I têmь zreĉimь v'zdv
+                        <lb n="14"/>iže se na n(e)bo da bi ni
+                        <lb n="15"/>b(o)ž(ь)stva svoego podal'
+                        <lb n="16" break="no"/>biti pričastniki . I sego r
+                        <lb n="17"/>adi s anĵ(e)li . Profaciê na
+                        <lb n="18"/>p(e)tik(o)sti d'rži se do dz.(8) dni
+                        <lb n="19" break="no"/>HRUŠT H(rьsto)mь g(ospode)mь n(a)šimь Iže v'
+                        <lb n="20"/>zašadь nad' v'sa
+                        <lb n="21" break="no"/>n(e)b(e)sa sêde že o des
+                        <lb n="22"/>noû tebe obeĉani d(u)hь
+                        <lb n="23"/>s(ve)ti d(ь)n(ь)šni d(ь)nь na s(i)ni 
+                        <lb n="24"/>s(i)novleniê izli(ti)ê . Imže
+                        <lb n="25"/>za izli(ti)e radosti vsee
+                        <lb n="26" break="no"/>vselenie z(e)m(ь)lь mirь vese
+                        <lb n="27"/>lit' se . Na i viš'nee sili
+                        <lb n="28" break="no"/>i anĵ(e)lskie v'lasti pêsa
+                        <lb n="29" break="no"/>n sl(a)vi tvoee poûtь bes' kon'
+                     </ab>
+                  </div>
+               </div>
+               <div type="column">
+                  <cb n="158vd" rendition="#right-column"/>
+                  <div xml:id="ONB-slav-8-1-1504-2" type="liturgical-unit" ana="#lit-unit-praefatio" rendition="#right-column">
+                     <ab>
+                        <lb n="1"/>ca g(lago)lûĉe . S(ve)tь S(ve)tь S(ve)tь g(ospod)ь b(og)ь
+                        <lb n="2"/>Profaciê s(ve)tie troice .
+                        <lb n="3" break="no"/>HRUŠT Vêčni b(ož)e . Iže sь e
+                        <lb n="4"/>dinočedimь s(i)nomь
+                        <lb n="5"/>tvoimь i d(u)homь s(ve)tim'
+                        <lb n="6" break="no"/>edinь esi b(og)ь edinь e
+                        <lb n="7"/>si g(ospod)ь . na ne v' edinogo
+                        <lb n="8"/>edinastvê obraza
+                        <lb n="9" break="no"/>na v' edinogo troici suĉa
+                        <lb n="10" break="no"/>stviê Eže bo o tvoei sl(a)v
+                        <lb n="11" break="no"/>ê toboû otkrivaûĉe vêru
+                        <lb n="12" break="no"/>emь . toĵe o s(i)nê tvoemь toĵ
+                        <lb n="13"/>e o d(u)sê s(ve)tê . Nerazdêl'no
+                        <lb n="14"/>smatraûĉe razumêvaem' .
+                        <lb n="15"/>da v' isp(o)v(ê)di istin'nago . i
+                        <lb n="16" break="no"/>vêčnago b(o)ž(ь)stviê . I vь ob
+                        <lb n="17" break="no"/>razêh' svoistvo . i v' vel
+                        
+                     </ab>
+                  
+                  
+                  
+                  
+                  
+                  <div xml:id="ONB-slav-8-1-1505" type="liturgical-unit" ana="#lit-unit-crusifixio" rendition="#left-column">
+                     <ab>
+                     </ab>
+                  </div>
+               </div>
+               <div type="column">
+                  <cb n="158vd" rendition="#right-column"/>
+                  <div xml:id="ONB-slav-8-1-1505-1" type="liturgical-unit" ana="#lit-unit-crusifixio" rendition="#right-column">
+                     <ab>   
+                     </ab>
+                  </div>
+               </div>
+            </div>
+            <div type="page">
+               <pb n="159"
+            
+            
+                        
+                        
+                    
 
 
             
-            
-         </div>
+          </div>   
       </body>
                    
                   
