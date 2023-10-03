@@ -797,6 +797,51 @@
                   <category xml:id="lit-unit-benedictio-casei-lactis-et-ovorum-in-pascha" xml:lang="la" n="benedictio casei lactis et ovorum in pascha"/>
                   <category xml:id="lit-unit-crusifixio"/> <!-- this is image f 158v -->
                   <category xml:id="lit-unit-vultus-christi"/> <!-- this is image f 159r -->
+                  <category xml:id="lit-cal-missa-in-honorem-angelorum" xml:lang="la"
+                     n="Missa in honorem angelorum">
+                     <equiv xml:id="misa-v-častь-anĵelomь" xml:lang="ocs"
+                     n="Misa v častь anĵelomь"/>
+                  </category>
+                  <category xml:id="lit-cal-missa-in-honorem-apostolorum-petri-et-pauli" xml:lang="la"
+                     n="Missa in honorem apostolorum Petri et Pauli">
+                     <equiv xml:id="misa-v-čьst-blaženiû-apustolu-petra-i-pavla" xml:lang="ocs"
+                     n="Misa v čьst' blaženiû apustolu Petra i Pavla"/>
+                  </category>
+                  <category xml:id="lit-cal-missa-ad-poscenda-sufragia-sanctorum" xml:lang="la"
+                     n="Missa ad poscenda sufragia sanctorum">
+                     <equiv xml:id="misa-prositi-pomoĉi-svetihь" xml:lang="ocs"
+                     n="Misa prositi pomoĉi svetihь"/>
+                  </category>
+                  <category xml:id="lit-cal-alia-missa-ad-poscenda-suffragia-sanctorum-quam-fecit-papa-Innocentius" xml:lang="la"
+                     n="Alia missa ad poscenda suffragia sanctorum quam fecit papa Innocentius">
+                     <equiv xml:id="misa-b-prositi-pomoĉi-svetihь-ûže-papa-inocencii-naredi" xml:lang="ocs"
+                     n="Misa .b. prositi pomoĉi svetihь ûže papa Inocencii naredi"/>
+                  </category>
+                  <category xml:id="lit-cal-missa-contra-persecutiones-ecclesiae" xml:lang="la"
+                     n="Missa contra persecutiones ecclesiae">
+                     <equiv xml:id="misa-za-goneĉih-v-crьkьv" xml:lang="ocs"
+                        n="Misa za goneĉih' v' crьkьv'"/>
+                  </category>
+                  <category xml:id="lit-cal-missa-pro-pace" xml:lang="la"
+                     n="Missa pro pace">
+                     <equiv xml:id="misa-mira-prositi" xml:lang="ocs"
+                        n="Misa mira prositi"/>
+                  </category>
+                  <category xml:id="lit-cal-missa-pro-papa" xml:lang="la"
+                     n="Missa pro papa">
+                     <equiv xml:id="misa-za-papu" xml:lang="ocs"
+                        n="Misa za papu"/>
+                  </category>
+                  <category xml:id="lit-cal-missa-pro-iter-agentibus" xml:lang="la"
+                     n="Missa pro iter agentibus">
+                     <equiv xml:id="misa-za-na-putь-hodeĉee" xml:lang="ocs"
+                        n="Misa za na putь hodeĉee"/>
+                  </category>
+                  <category xml:id="lit-cal-missa-pro-infirmis" xml:lang="la"
+                     n="Missa pro infirmis">
+                     <equiv xml:id="misa-za-nemoĉnie" xml:lang="ocs"
+                        n="Misa za nemoĉnie"/>
+                  </category>
                </taxonomy>
             </taxonomy>
          </classDecl>
@@ -34200,7 +34245,10 @@
                </div>
             </div>
             <div type="page">
-               <pb n="159"
+               <pb n="159"/>
+            </div>
+            
+            </div>   
             
             
                         
