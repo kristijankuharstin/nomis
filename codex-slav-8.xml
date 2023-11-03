@@ -841,6 +841,46 @@
                      <equiv xml:id="misa-za-nemoĉnie" xml:lang="ocs"
                         n="Misa za nemoĉnie"/>
                   </category>
+                  <category xml:id="lit-cal-missa-pro-tempore-synodi" xml:lang="la"
+                     n="Missa pro tempore synodi">
+                     <equiv xml:id="misa-za-lêtno-zboriĉe-biskup" xml:lang="ocs"
+                        n="Misa za lêt'no zboriĉe biskup"/>
+                  </category>
+                  <category xml:id="lit-cal-missa-pro-seipso-sacerdote" xml:lang="la"
+                     n="Missa pro seipso sacerdote">
+                     <equiv xml:id="misa-erêû-za-se" xml:lang="ocs"
+                        n="Misa erêû za se"/>
+                  </category>
+                  <category xml:id="lit-cal-missa-secunda-pro-seipso-sacerdote" xml:lang="la"
+                     n="Missa secunda pro seipso sacerdote">
+                     <equiv xml:id="misa-druga-erêû-za-se" xml:lang="ocs"
+                        n="Misa druga erêû za se"/>
+                  </category>
+                  <category xml:id="lit-cal-missa-tertia-pro-seipso-sacerdote" xml:lang="la"
+                     n="Missa tertia pro seipso sacerdote">
+                     <equiv xml:id="misa-treta-erêû-za-se" xml:lang="ocs"
+                        n="Misa treta erêû za se"/>
+                  </category>
+                  <category xml:id="lit-cal-missa-pro-sacris-ordinibus" xml:lang="la"
+                     n="Missa pro sacris ordinibus">
+                     <equiv xml:id="misa-za-v-se-redi-crьkvenie" xml:lang="ocs"
+                        n="Misa za v'se redi crьkvenie"/>
+                  </category>
+                  <category xml:id="lit-cal-missa-pro-synodo" xml:lang="la"
+                     n="Missa pro synodo">
+                     <equiv xml:id="misa-za-zboriĉe" xml:lang="ocs"
+                        n="Misa za z'boriĉe "/>
+                  </category>
+                  <category xml:id="lit-cal-missa-secunda-pro-synodo" xml:lang="la"
+                     n="Missa secunda pro synodo">
+                     <equiv xml:id="misa-druga-za-zboriĉe" xml:lang="ocs"
+                        n="Misa druga za z'boriĉe "/>
+                  </category>
+                  <category xml:id="lit-cal-missa-tertia-pro-synodo" xml:lang="la"
+                     n="Missa tertia pro synodo">
+                     <equiv xml:id="misa-treta-za-zboriĉe" xml:lang="ocs"
+                        n="Misa treta za z'boriĉe "/>
+                  </category>
                </taxonomy>
             </taxonomy>
          </classDecl>
