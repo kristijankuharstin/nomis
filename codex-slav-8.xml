@@ -35051,17 +35051,96 @@
                       <lb n="18" xml:id="lb-8-1-1524-18a" next="#lb-8-1-1524-18b"/>ot vsêh' ni pagubь hrani g(ospode)m' 
                    </ab>
                 </div>
-                
+                <div xml:id="ONB-slav-8-1-1525" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#right-column">
+                   <ab>
+                      <lb n="18" xml:id="lb-8-1-1524-18b" prev="#lb-8-1-1524-18a"/>Po (brašanci)
+                      <lb n="19"/>Priêhomь g(ospod)i n(e)b(e)skie taini
+                      <lb n="20" break="no"/>b(la)ž(e)nie m(a)rie vinu d(ê)vi i vs
+                      <lb n="21" break="no"/>êh' s(ve)tih' tvoih' pametь čt
+                      <lb n="22" break="no"/>uĉe podai m(o)l(imь) te da eže vr(ê)m
+                      <lb n="23" break="no"/>en'nê nosimь . v(ê)čnimi radost'
+                      <lb n="24"/>mi nasl(ê)dov(a)li bihomь g(ospode)mь 
                    </ab>
-                       
-                       
-                       
-      </div>
-        
-  </body>
-      
-               
-                      
+                </div>
+                <div xml:id="ONB-slav-8-1-1526" type="liturgical-unit" subtype="dies-liturgicus" ana="#lit-cal-missa-ad-poscenda-sufragia-sanctorum #lit-unit-rubrica-maior" rendition="#right-column" rend="red-ink">
+                   <ab>
+                      <lb n="25"/>misa .b.(2) prositi pomoĉi s(ve)tihь
+                      <lb n="26"/>ûže papa inocencii naredi . or(a)c(iê) .
+                   </ab>
+                </div>
+                 <div xml:id="ONB-slav-8-1-1527" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#right-column">
+                    <ab>
+                       <lb n="27"/>Ot vsêh ni m(o)l(imь) te g(ospod)i mislnih'
+                       <lb n="28" break="no"/>i têlesnih' zaĉiti pagu
+                       <lb n="29"/>bь . i m(o)leĉi prêsl(a)vnêi d(ê)vi b(ogorodi)ci
+                   </ab>
+                </div>
+             </div>
+          </div>
+          <div type="page">
+             <pb n="164v"/>
+             <div type="column">
+                <cb n="164vc" rendition="#left-column"/>
+                <div xml:id="ONB-slav-8-1-1527-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
+                   <ab>
+                      <lb n="1"/>m(a)rii s b(la)ž(e)nima ap(usto)l(o)ma tvoima
+                      <lb n="2" break="no"/>p(e)tromь i p(a)vlomь i sa v'sêmi s(ve)ti
+                      <lb n="3"/>mi tvoimi sp(a)s(e)nie n(a)mь podai
+                      <lb n="4" break="no"/>bl(a)godêtanь i mirь . da ot razdr
+                      <lb n="5"/>ušnih' protivnih' i blud'nih'
+                      <lb n="6" break="no"/>vsêhь . cr(ь)k(ь)vь tvoê bespeča
+                      <lb n="7" break="no"/>lna t(e)bê da rabotaetь svo
+                      <lb n="8" xml:id="lb-8-1-1527-1-8a" next="#lb-8-1-1527-1-8b"/>bodoû . g(ospode)m' 
+                   </ab>
+                </div>
+                <div xml:id="ONB-slav-8-1-1528" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#left-column">
+                   <ab>
+                      <lb n="8" xml:id="lb-8-1-1527-1-8b" prev="#lb-8-1-1527-1-8a" break="no"/>n(a)d (prinošenie) Usliši ni b(ož)e s
+                      <lb n="9" break="no"/>p(a)sit(e)lû n(a)šь . da see žr'tvi si
+                      <lb n="10" break="no"/>loû ot vsêh' mislnih' i têl
+                      <lb n="11" break="no"/>e(s)nih' zaĉitiši nepriêz'ni . m(i)l(o)
+                      <lb n="12" break="no"/>stь dae v' prêstoeĉemь živ
+                      <lb n="13" xml:id="lb-8-1-1528-13a" next="#lb-8-1-1528-13b"/>otê v' sl(a)vê buduĉei . g(ospode)mь
+                   </ab>
+                </div>
+                <div xml:id="ONB-slav-8-1-1529" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#left-column">
+                   <ab>
+                      <lb n="13" xml:id="lb-8-1-1528-13b" prev="#lb-8-1-1528-13a"/>Po (brašanci) .
+                      <lb n="14"/>Da očistitь i zaĉitit' ni m(o)l(imь)
+                      <lb n="15" break="no"/>te g(ospod)i b(o)ž(ь)stvenago sveĉ
+                      <lb n="16" break="no"/>eniê darь v'zdani . da m(o)leĉi b(la)ž(e)
+                      <lb n="17" break="no"/>nêi d(ê)vi b(ogo)r(odi)ci m(a)rii s b(la)ž(e)nima a
+                      <lb n="18"/>p(usto)l(o)ma tvoima petromь i p(a)vlom'
+                      <lb n="19" break="no"/>i sa vsêmi s(ve)timi tvoimi ot v
+                      <lb n="20"/>sêh' ni v'zdani ot prêvraĉenih'
+                      <lb n="21" break="no"/>očiĉeni i ot protiv'nih' ispraž'
+                      <lb n="22" xml:id="lb-8-1-1529-22a" next="#lb-8-1-1529-22b"/>d'neni . Tê(mžde) 
+                   </ab>
+                </div>
+                <div xml:id="ONB-slav-8-1-1530" type="liturgical-unit" subtype="dies-liturgicus" ana="#lit-cal-missa-contra-persecutiones-ecclesiae #lit-unit-rubrica-maior" rendition="#left-column" rend="red-ink">
+                   <ab>
+                      <lb n="22" xml:id="lb-8-1-1529-22b" prev="#lb-8-1-1529-22a"/>⸿  misa za goneĉ(i)h' v' cr(ь)k(ь)v' .
+                   </ab>
+                </div>
+                <div xml:id="ONB-slav-8-1-1531" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
+                   <ab>
+                      <lb n="23"/>or(a)c(iê) . (MARG) Cr(ь)kvi tvoei m(o)l(imь) te g(ospod)i m(o)leniê  <!-- marginal note -->
+                      <lb n="24" break="no"/>bl(a)godêtanь podai . da ot ra
+                      <lb n="25" break="no"/>zdrušnih' i protivnih' i blu
+                      <lb n="26" break="no"/>d'nih' vsêh' bespečalna t
+                      <lb n="27"/>ebê da rabotaetь svobodoû .
+                   </ab>
+                </div>
+                <div xml:id="ONB-slav-8-1-1532" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#left-column">
+                   <ab>
+                      <lb n="28" break="no"/>n(a)d (prinošenie) (MARG) Zaĉiti ni prosim' g(ospod)i tvoim
+                      <lb n="29"/>i tainami rabotaûĉee . da
+                   </ab>
+                </div>
+             </div>
+          </div>
+         </div>
+      </body>       
             
                         
          
