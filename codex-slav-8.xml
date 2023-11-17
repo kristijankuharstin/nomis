@@ -35138,6 +35138,66 @@
                    </ab>
                 </div>
              </div>
+             <div type="column">
+                <cb n="164vd" rendition="#right-column"/>
+                <div xml:id="ONB-slav-8-1-1532-1" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#right-column">
+                   <ab>
+                      <lb n="1" break="no"/>b(o)ž(ь)stvenimь veĉemь prilež
+                      <lb n="2" break="no"/>eĉe . i têlomь t(e)bê rabotal
+                      <lb n="3" xml:id="lb-8-1-1532-1-3a" next="#lb-8-1-1532-1-3b"/>i bihomь i misliû g(ospode)mь . 
+                   </ab>
+                </div>
+                <div xml:id="ONB-slav-8-1-1533" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#right-column">
+                   <ab>
+                      <lb n="3" xml:id="lb-8-1-1532-1-3b" prev="#lb-8-1-1532-1-3a"/>Po b(rašanci) .
+                      <lb n="4" break="no"/>M(olim) te g(ospod)i b(ož)e n(a)šь da eže b(o)ž(a)
+                      <lb n="5" break="no"/>stvenimь pričeĉeniem' po
+                      <lb n="6"/>daeši radovati se č(lovêča)skim'
+                      <lb n="7"/>ne ostavi pod'ležati pagub'
+                      <lb n="8" xml:id="lb-8-1-1533-8a" next="#lb-8-1-1533-8b"/>g(ospode)mь (našimь) 
+                   </ab>
+                </div>
+                <div xml:id="ONB-slav-8-1-1534" type="liturgical-unit" subtype="dies-liturgicus" ana="#lit-cal-missa-pro-pace #lit-unit-rubrica-maior" rendition="#right-column" rend="red-ink">
+                   <ab>
+                      <lb n="8" xml:id="lb-8-1-1533-8b" prev="#lb-8-1-1533-8a"/>⸿ misa mira prositi . or(a)c(iê) .
+                   </ab>
+                </div>
+                <div xml:id="ONB-slav-8-1-1535" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#right-column">
+                   <ab>
+                      <lb n="9"/>B(ož)e ot negože s(ve)ta želêniê
+                      <lb n="10"/>rêsni svêti i pr(a)v(ь)dna sutь
+                      <lb n="11"/>dêla . dai rabomь tvoim' on'
+                      <lb n="12"/>mirь . egože sa mirь ne možetь
+                      <lb n="13"/>dati da i sr(ьd)ca n(a)ša tvoimь
+                      <lb n="14"/>zap(o)v(ê)demь pod'dana i ot vragь
+                      <lb n="15" break="no"/>otêta užasti . vr(ê)mena bu
+                      <lb n="16" xml:id="lb-8-1-1535-16a" next="#lb-8-1-1535-16b"/>dite tvoimь zaĉiĉeniem' 
+                   </ab>
+                </div>
+                <div xml:id="ONB-slav-8-1-1536" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#right-column">
+                   <ab>
+                      <lb n="16" xml:id="lb-8-1-1535-16b" prev="#lb-8-1535-16a"/>tiha n(a)d (prinošenie) . 
+                      <lb n="17" break="no"/>B(ož)e iže vêruûĉei v' te lûd
+                      <lb n="18" break="no"/>i nikimi že ostavlaeši s
+                      <lb n="19" break="no"/>trepetati užasti . spod
+                      <lb n="20" break="no"/>obi m(o)leniê i žr'tvi nar(e)čeni
+                      <lb n="21"/>e t(e)bê ot lûdi tvoih' priêti .
+                      <lb n="22" break="no"/>da mirь ot tvoee m(i)l(o)sti poda
+                      <lb n="23" break="no"/>nь . krst'ên'ski prêdêli ot vs
+                      <lb n="24" break="no"/>êh' nepriêtelь stvoritь b
+                      <lb n="25" xml:id="lb-8-1-1536-25a" next="#lb-8-1-1536-25b"/>iti svobod'ni . g(ospode)mь n(a)š(imь) . 
+                   </ab>
+                </div>
+                <div xml:id="ONB-slav-8-1-1537" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#right-column">
+                   <ab>
+                      <lb n="25" xml:id="lb-8-1-1536-25b" prev="#lb-8-1-1536-25a"/>Po (brašanci) .
+                      <lb n="26" break="no"/>B(ož)e sьzdatelû mira i lû
+                      <lb n="27" break="no"/>bitelû egože znati ži
+                      <lb n="28"/>viti i emuže rabotati	
+                      <lb n="29" break="no"/>vladati estь zaĉiti pok
+                   </ab>
+                </div>
+             </div>
           </div>
          </div>
       </body>       
