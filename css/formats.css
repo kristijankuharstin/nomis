@@ -1,9 +1,8 @@
 #main-content { font-family: 'Times New Roman',Times,serif; color: black; font-size: 16pt; border: black 1pt solid; padding: 10pt; }
 #main-content-header { font-size: 14pt; border: black 1pt solid; }
 #main-content-body { font-size: 12pt; border: black 1pt solid; margin: 20pt; padding: 10pt; }
-div.page { border: 1pt black solid; padding-bottom: 10pt; }
 p.title { font-size: 24pt; text-align: center; }
-p.subtitle { font-size: 18pt; text-align: center; }
+p.subtitle { font-size: 20pt; text-align: center; }
 p.responsibility { font-size: 12pt; text-align: center; }
 p.author { font-size: 16pt; text-align: center; font-variant:small-caps; }
 p.publisher { font-size: 12pt; text-align: center; }
@@ -15,23 +14,18 @@ p.link-to-facsimiles a:hover { color: black; text-decoration: underline; }
 p.link-to-facsimiles a:active { color: black; text-decoration: underline; }
 p.link-to-facsimiles a:visited { color: black; text-decoration: underline; }
 p.physical-description { font-size: 12pt; text-align:left; margin-left: 20pt; }
-p.page-number { margin-left: 10pt; font-weight: bold; margin-top: 10pt; }
-p.manuscript-content { margin-left: 20pt; font-size: 12pt; margin-top: 12pt; margin-bottom: 5pt; }
-span.liturgical-agent { margin-left: 8pt; padding: 4pt; border: 1pt solid blue; color: blue; border-radius: 4pt; }
-span.liturgical-calendar { margin-left: 8pt; margin-right: 8pt; padding: 4pt; border: 1pt solid #ab5c4f; color: #ab5c4f; border-radius: 4pt; }
-span.liturgical-unit { margin-left: 8pt; margin-right: 8pt; padding: 4pt; border: 1pt solid #5d6c81; color: #5d6c81; border-radius: 4pt; }
+p.page-number { margin-left: 10pt; font-weight: bold; }
+p.manuscript-content { margin-left: 20pt; font-size: 12pt; }
+span.liturgical-agent { margin-left: 8pt; padding: 4pt; border: 1pt solid #5d6c81; color: #5d6c81; border-radius: 4pt; }
+span.liturgical-calendar { margin-left: 8pt; padding: 4pt; border: 1pt solid #ccb99b; color: #ccb99b; border-radius: 4pt; }
+span.liturgical-unit { margin-left: 8pt; padding: 4pt; border: 1pt solid #ab5c4f; color: #ab5c4f; border-radius: 4pt; }
 span.error { margin-left: 8pt; padding: 4pt; color: red; font-weight: bold; border: 1pt solid red; border-radius: 4pt; }
-span.line-number { margin-right: 10pt; margin-left: 10pt; font-style: normal; }
-span.red-ink-bold { font-weight: bold; color: #ab5c4f; }
-span.red-ink { font-weight: normal; color: #ab5c4f; }
+span.line-number { margin-right: 10pt; margin-left: 10pt; font-style: italic; }
+span.red-ink-bold { font-weight: bold; }
+span.red-ink { font-weight: normal; }
 span.heading { margin-left: 30pt; font-size: 16pt; }
-div.manuscript-content { margin-left: 20pt; font-size: 16pt; margin-top: -20pt; line-height: 16pt; }
-span.liturgical-agent-inline { font-size: 12pt; margin-left: 8pt; margin-right: 8pt; padding: 4pt; border: 1pt solid blue; color: blue; border-radius: 4pt; }
-span.liturgical-calendar-inline { font-size: 12pt; margin-left: 8pt; margin-right: 8pt; padding: 4pt; border: 1pt solid #ab5c4f; color: #ab5c4f; border-radius: 4pt; }
-span.liturgical-unit-inline { font-size: 12pt; margin-left: 8pt; margin-right: 8pt; padding: 4pt; border: 1pt solid #5d6c81; color: #5d6c81; border-radius: 4pt; }
+div.manuscript-content { margin-left: 20pt; font-size: 16pt; margin-top: -20pt; line-height: 90%; margin-bottom: 20pt; }
+span.liturgical-agent-inline { font-size: 12pt; margin-left: 8pt; margin-right: 8pt; padding: 4pt; border: 1pt solid #5d6c81; color: #5d6c81; border-radius: 4pt; }
+span.liturgical-calendar-inline { font-size: 12pt; margin-left: 8pt; margin-right: 8pt; padding: 4pt; border: 1pt solid #ccb99b; color: #ccb99b; border-radius: 4pt; }
+span.liturgical-unit-inline { font-size: 12pt; margin-left: 8pt; margin-right: 8pt; padding: 4pt; border: 1pt solid #ab5c4f; color: #ab5c4f; border-radius: 4pt; }
 span.error-inline { font-size: 12pt; margin-left: 8pt; margin-right: 8pt; padding: 4pt; color: red; font-weight: bold; border: 1pt solid red; border-radius: 4pt; }
-span.hidden { display: none; }
-span.visible { display: inline; }
-span.lit-cal { color: #ab5c4f; margin: 2.5pt; }
-span.lit-unit { color: #5d6c81; margin: 2.5pt; }
-div.add-padding { padding: 20pt; }
