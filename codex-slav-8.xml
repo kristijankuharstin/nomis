@@ -835,8 +835,8 @@
                      <equiv xml:id="misa-za-papu" xml:lang="ocs"
                         n="Misa za papu"/>
                   </category>
-                  <category xml:id="lit-cal-missa-pro-iter-agentibus" xml:lang="la"
-                     n="Missa pro iter agentibus">
+                  <category xml:id="lit-cal-missa-pro-peregrinantibus" xml:lang="la"
+                     n="Missa pro peregrinantibus">
                      <equiv xml:id="misa-za-na-putь-hodeĉee" xml:lang="ocs"
                         n="Misa za na putь hodeĉee"/>
                   </category>
@@ -865,8 +865,8 @@
                      <equiv xml:id="misa-treta-erêû-za-se" xml:lang="ocs"
                         n="Misa treta erêû za se"/>
                   </category>
-                  <category xml:id="lit-cal-missa-pro-sacris-ordinibus" xml:lang="la"
-                     n="Missa pro sacris ordinibus">
+                  <category xml:id="lit-cal-missa-pro-omni-gradu-ecclesiae" xml:lang="la"
+                     n="Missa pro omni gradu Ecclesiae">
                      <equiv xml:id="misa-za-v-se-redi-crьkvenie" xml:lang="ocs"
                         n="Misa za v'se redi crьkvenie"/>
                   </category>
@@ -884,7 +884,149 @@
                      n="Missa tertia pro synodo">
                      <equiv xml:id="misa-treta-za-zboriĉe" xml:lang="ocs"
                         n="Misa treta za z'boriĉe "/>
+                  <category xml:id="lit-cal-missa-pro-concordia-fratrum" xml:lang="la"
+                     n="Missa pro concordia fratrum">
+                     <equiv xml:id="misa-za-sreĵenie-brate" xml:lang="ocs"
+                        n="Misa za sreĵenie brat’e"/>  
                   </category>
+                     <category xml:id="lit-cal-missa-pro-temptatione-carnis" xml:lang="la"
+                        n="Missa pro temptatione carnis">
+                        <equiv xml:id="misa-skozi-blaženie-plti" xml:lang="ocs"
+                           n="Misa skozi blaženie plti"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-peccatis" xml:lang="la"
+                        n="Missa pro peccatis">
+                        <equiv xml:id="misa-za-grêhi" xml:lang="ocs"
+                           n="Misa za grêhi"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-secunda-pro-peccatis" xml:lang="la"
+                        n="Missa secunda pro peccatis">
+                        <equiv xml:id="misa-druga-za-grêhi" xml:lang="ocs"
+                           n="Misa druga za grêhi"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-remissione-peccatorum" xml:lang="la"
+                        n="Missa pro remissione peccatorum">
+                        <equiv xml:id="misa-vь-otpuĉenie-grêh" xml:lang="ocs"
+                           n="Misa vь otpuĉenie grêh’"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-ad-repellendas-malas-cogitationes" xml:lang="la"
+                        n="Missa ad repellendas malas cogitationes">
+                        <equiv xml:id="misa-otgnati-zle-misli" xml:lang="ocs"
+                           n="Misa otgnati zle misli"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-petitione-lacrimarum" xml:lang="la"
+                        n="Missa pro petitione lacrimarum">
+                        <equiv xml:id="misa-prositi-slz" xml:lang="ocs"
+                           n="Misa prositi slz"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-amicis" xml:lang="la"
+                        n="Missa pro amicis">
+                        <equiv xml:id="misa-za-priêtela" xml:lang="ocs"
+                           n="Misa za priêtela"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-secunda-pro-amicis" xml:lang="la"
+                        n="Missa secunda pro amicis">
+                        <equiv xml:id="misa-druga-za-priêtela" xml:lang="ocs"
+                           n="Misa druga za priêtela"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-salute-vivorum" xml:lang="la"
+                        n="Missa pro salute vivorum">
+                        <equiv xml:id="misa-za-spasenie-živih" xml:lang="ocs"
+                           n="Misa za spasenie živih"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-devotis-amicis" xml:lang="la"
+                        n="Missa pro devotis amicis">
+                        <equiv xml:id="misa-za-obêtnie-priêteli" xml:lang="ocs"
+                           n="Misa za obêtnie priêteli"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-ad-pluviam-postulandam" xml:lang="la"
+                        n="Missa ad pluviam postulandam">
+                        <equiv xml:id="misa-prositi-dažĵa" xml:lang="ocs"
+                           n="Misa prositi dažĵa"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-ad-serenitatem-petendam" xml:lang="la"
+                        n="Missa ad serenitatem petendam">
+                        <equiv xml:id="misa-prositi-vedra" xml:lang="ocs"
+                           n="Misa prositi vedra"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-ad-tempestates-repellandas" xml:lang="la"
+                        n="Missa ad tempestates repellandas">
+                        <equiv xml:id="misa-otgnati-tuču" xml:lang="ocs"
+                           n="Misa otgnati tuču"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-sancti-augustini-pro-vivis-et-mortuis" xml:lang="la"
+                        n="Missa Sancti Augustini pro vivis et mortuis">
+                        <equiv xml:id="misa-navlaĉna-svetago-avgustina-za-žive-i-mrtve" xml:lang="ocs"
+                           n="Misa navlaĉ’na svetago Avgustina za žive i mr’tve"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-secunda-sancti-augustini" xml:lang="la"
+                        n="Missa secunda Sancti Augustini">
+                        <equiv xml:id="misa-druga-navlaĉna-svetago-avgustina" xml:lang="ocs"
+                           n="Misa druga navlaĉ’na svetago Avgustina"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-contra-paganos" xml:lang="la"
+                        n="Missa contra paganos">
+                        <equiv xml:id="misa-protu-poganom" xml:lang="ocs"
+                           n="Misa protu poganom"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-qualicumque-tribulatione" xml:lang="la"
+                     n="Missa pro qualicumque tribulatione">
+                     <equiv xml:id="misa-za-ku-ljubo-skrbь" xml:lang="ocs"
+                        n="Misa za ku ljubo skrbь"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-alia-pro-qualicumque-tribulatione" xml:lang="la"
+                        n="Missa alia pro qualicumque tribulatione">
+                        <equiv xml:id="misa-druga-za-ku-ljubo-skrbь" xml:lang="ocs"
+                           n="Misa druga za ku ljubo skrbь"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-imperatore" xml:lang="la"
+                        n="Missa pro imperatore">
+                        <equiv xml:id="misa-za-cêsara" xml:lang="ocs"
+                           n="Misa za cêsara"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-rege" xml:lang="la"
+                        n="Missa pro rege">
+                        <equiv xml:id="misa-za-krala" xml:lang="ocs"
+                           n="Misa za krala"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-defensione-ab-hostibus" xml:lang="la"
+                        n="Missa pro defensione ab hostibus">
+                        <equiv xml:id="misa-za-rvače-protu-zlih-nьrod" xml:lang="ocs"
+                           n="Misa za rvače protu zlih nьrod"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-quacumque-tribulatione" xml:lang="la"
+                        n="Missa pro quacumque tribulatione">
+                        <equiv xml:id="misa-skozi-velike-tugi" xml:lang="ocs"
+                           n="Misa skozi velike tugi"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-in-tempore-belli" xml:lang="la"
+                        n="Missa in tempore belli">
+                        <equiv xml:id="misa-vь-vrême-rvane" xml:lang="ocs"
+                           n="Misa vь vrême rvane"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-quacumque-necessitate" xml:lang="la"
+                        n="Missa pro quacumque necessitate">
+                        <equiv xml:id="misa-za-ku-ljubo-potribu" xml:lang="ocs"
+                           n="Misa za ku ljubo potribu"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-ad-postulandam-sapientiam" xml:lang="la"
+                        n="Missa ad postulandam sapientiam">
+                        <equiv xml:id="misa-prositi-svete-mudrosti" xml:lang="ocs"
+                           n="Misa prositi svete mudrosti"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-ad-postulandam-fidem-spem-et-caritatem" xml:lang="la"
+                        n="Missa ad postulandam fidem, spem et caritatem">
+                        <equiv xml:id="misa-prositi-vêri-i-ljubvi" xml:lang="ocs"
+                           n="Misa prositi vêri i ljubvi"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-ad-poscendam-humilitatem" xml:lang="la"
+                        n="Missa ad poscendam humilitatem">
+                        <equiv xml:id="misa-prositi-umileniê" xml:lang="ocs"
+                           n="Misa prositi umileniê"/>  
+                     </category>
+                   
+                     
+               </category>
                </taxonomy>
             </taxonomy>
          </classDecl>
