@@ -1078,7 +1078,7 @@
             15-12-21</change>
          <change who="Thomas" when="2022"> Ammelioration of categories</change>
          <change who="Kristijan Kuhar" when="2022-03-24"> Revision of div numbers</change>
-         <change who="Kristijan Kuhar" when="2022-04-01"> Revision of litrugical units</change>
+         <change who="Kristijan Kuhar" when="2022-04-01"> Revision of liturgical units</change>
          <change who="Erich Renhart" when="2022-05-11"> Revision and update od liturgical days in
             Sanctorale</change>
          <change who="Silvio Košćak" when="2022-12-13"> Revision oh liturgical units - 
@@ -1206,7 +1206,7 @@
                            <lb n="18" break="no"/>ležeĉih’ grêh’ n<ex>a</ex>š<ex>i</ex>hь pagu <lb
                            n="19" break="no"/>bь toboû utegli bihom’ z <lb n="20" break="no"
                         />aĉiĉaûĉimь vihititi s <lb n="21"/>e . i toboû izbavlaûĉimь <lb n="22"
-                           />sp<ex>a</ex>s<ex>i</ex>ti se . <hi rend="re-ink">I</hi>že živeši i
+                           />sp<ex>a</ex>s<ex>i</ex>ti se . <hi rend="red-ink">I</hi>že živeši i
                            c<ex>êsa</ex>rs<ex>tvueši</ex>
                      </ab>
                   </div>
@@ -1282,7 +1282,7 @@
                </div>
                <div type="column">
                   <cb n="2vd" rendition="#right-column"/>
-                  <div xml:id="ONB-8-1-8-1" rendition="#right-column" rend="black-ink"
+                  <div xml:id="ONB-8-1-8-1" type="liturgical-unit" rendition="#right-column" rend="black-ink"
                      ana="#lit-unit-evangelium">
                      <ab>
                         <lb n="1" break="no"/>zrite i v’dvignite gl<ex>a</ex>vi v <lb n="2"
@@ -2042,7 +2042,7 @@
                </div>
                <div type="column">
                   <cb n="5vd" rendition="#right-column"/>
-                  <div xml:id="ONB-slav-8-1-49-1" ana="#lit-unit-oration" rendition="#right-column">
+                  <div xml:id="ONB-slav-8-1-49-1" type="liturgical-unit" ana="#lit-unit-oration" rendition="#right-column">
                      <ab>
                         <lb n="1" xml:id="lb-8-1-49-1a" next="lb-8-1-49-1b"/>bavet’ se .
                            G<ex>ospode</ex>mь . </ab>
@@ -2893,7 +2893,7 @@
                            Hv<ex>a</ex>lu g<ex>ospod</ex>nû v’z <lb n="22"/>gl<ex>agol</ex>ûtь usta
                            moê . i da bl<ex>agoslo</ex>vitь <lb n="23"/>vsaka pl’tь ime
                            s<ex>ve</ex>toe ego . <seg type="liturgical-unit" ana="#lit-unit-tractus"
-                                 ><hi rend="red-ink2">A</hi>l<ex>eluê</ex>
+                                 ><hi rend="red-ink">A</hi>l<ex>eluê</ex>
                               <num type="cardinal" value="2">.b.</num>
                               <lb n="24"/><hi rend="red-ink">P</hi>oidi g<ex>ospod</ex>i i ne kasni
                               i otpusti <lb n="25"/>grêhi lûdi tvoih’ iz<ex>drai</ex>lь . <hi
@@ -3138,7 +3138,7 @@
                         <lb n="20" xml:id="lb-8-1-100-20b" prev="#lb-1-100-20a"/><seg
                            type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">
                               N<ex>a</ex>d <ex>prinošenie</ex></seg>
-                        <lb n="21"/><hi rend="re-ink">D</hi>ai n<ex>a</ex>mь
+                        <lb n="21"/><hi rend="red-ink">D</hi>ai n<ex>a</ex>mь
                            m<ex>o</ex>l<ex>imь</ex> te vs<ex>e</ex>m<ex>o</ex>gi b<ex>ož</ex>e da
                            <lb n="22" break="no"/>êkože poklanatel’n <lb n="23" break="no"/>a
                         rožd’stva s<ex>i</ex>na tvoego ča <lb n="24"/>stiû prêd’hodimь .
@@ -3378,7 +3378,7 @@
                         prilož <lb n="11" break="no"/>i k tainê i držimo do ok <lb n="12" break="no"
                            />t<ex>a</ex>vi roĵeniê V noĉi kad <lb n="13"/>a e bilo gl<ex>agole</ex>t
                         se <hi rend="red-ink">noĉь </hi>. a n<ex>i</ex>ne <lb n="14"
-                           xml:id="lb-8-1-112-14a" next="#lb-8-1-112-14b"/>dimo <hi rend="black.ink"
+                           xml:id="lb-8-1-112-14a" next="#lb-8-1-112-14b"/>dimo <hi rend="black-ink"
                            >d’nь .</hi>
                      </ab>
                   </div>
@@ -3495,7 +3495,7 @@
                         <lb n="20"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red ink">Čte<ex>nie</ex> ep<ex>isto</ex>l<ex>ie</ex>
                               p<ex>a</ex>vl<ex>a</ex> ap<ex>usto</ex>la k titu .</seg>
-                        <lb n="21" break="no"/><hi rend="red-ink; uppercase">V</hi>z’lûbleni . <hi
+                        <lb n="21" break="no"/><hi rend="red-ink-uppercase">V</hi>z’lûbleni . <hi
                            rend="red-ink">Ê</hi>vi se bl<ex>a</ex>go <lb n="22"/>dêtь i
                            č<ex>lovêča</ex>stvo sp<ex>a</ex>s<ex>i</ex>t<ex>e</ex>la <lb n="23"
                            break="no"/>n<ex>a</ex>š<ex>e</ex>go b<ex>og</ex>a . <hi rend="red-ink"
@@ -3526,7 +3526,7 @@
                      <ab>
                         <lb n="5"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red-ink">Pês<ex>nь</ex></seg>
-                        <hi rend="red-ink">B</hi><hi rend="minuscule letters">l<ex>agoslovle</ex>nь
+                        <hi rend="red-ink">B</hi><hi rend="minuscule-letters">l<ex>agoslovle</ex>nь
                            iže pride vь ime g<ex>ospod</ex>ne . <lb n="6" break="no"/>b<ex>og</ex>ь
                            i g<ex>ospod</ex>ь pros<ex>v</ex>êti se n<ex>a</ex>mь . ot
                               g<ex>ospod</ex>a bis<ex>tь</ex> s <lb n="7"/>ie . i estь divanь vь
@@ -3546,7 +3546,7 @@
                         <lb n="10" xml:id="lb-8-1-121-10b" prev="#lb-8-1-121-10a"/><seg
                            type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">
                               s<ex>veta</ex>go e<ex>van</ex>ĵ<ex>e</ex>liê ot luki .</seg>
-                        <lb n="11"/><hi rend="red-ink; uppercase">V</hi>
+                        <lb n="11"/><hi rend="red-ink-uppercase">V</hi>
                         <ex>o</ex>no vr<ex>ê</ex>me . <hi rend="red-ink">P</hi>astiri <lb n="12"
                            break="no"/>gl<ex>agola</ex>hu meû soboû prê <lb n="13" break="no"/>idêmь
                         daže do vi <lb n="14"/>tlêoma . da vidim’ <lb n="15" break="no"/>sie
@@ -4335,7 +4335,7 @@
                         <lb n="27" xml:id="lb-8-1-157-27b" prev="#lb-8-1-157-25a"/><seg
                            type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">
                               n<ex>a</ex>d <ex>prinošenie</ex> .</seg>
-                        <lb n="28" break="no"/><hi rend="red-ink-uppercse">P</hi>rimi
+                        <lb n="28" break="no"/><hi rend="red-ink-uppercase">P</hi>rimi
                            m<ex>o</ex>l<ex>imь</ex> te g<ex>ospod</ex>i dari eže v’ n <lb n="29"
                         />ego častь t<ex>e</ex>bê prinosimь . ego </ab>
                   </div>
@@ -5244,7 +5244,7 @@
                         <lb n="27" xml:id="lb-8-1-205-27b" prev="#lb-8-1-205-27a"/><seg
                            type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Or<ex>a</ex>c<ex>iê</ex> .</seg>
-                        <hi rend="red-ink-bols">B</hi><ex>ož</ex>e iže sp<ex>a</ex>s<ex>e</ex>ni <lb
+                        <hi rend="red-ink-bold">B</hi><ex>ož</ex>e iže sp<ex>a</ex>s<ex>e</ex>ni <lb
                            n="28" break="no"/>ê v<ex>ê</ex>čn<ex>a</ex>go b<ex>la</ex>ž<ex>e</ex>nie
                            m<ex>a</ex>rie d<ex>ê</ex>vstv <lb n="29" break="no"/>a napl’neniemь rodu
                            č<ex>lovêča</ex>sku m </ab>
@@ -6001,7 +6001,7 @@
                         <lb n="26" xml:id="lb-8-1-236-26b" prev="#lb-8-1-236-26a" break="no"/>
                         <seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Pês<ex>nь</ex> .</seg><hi rend="red-ink">Č</hi><hi
-                           rend="miuscule-letters">edo čto s <lb n="27"/>tvori nama tako . se
+                           rend="minuscule-letters">edo čto s <lb n="27"/>tvori nama tako . se
                               o<ex>ta</ex>cь tvoi <lb n="28"/>i azь skr’beĉa iskahovê tebe . <lb
                               n="29" break="no"/>čto estь da me iskahota . ne v</hi>
                      </ab>
@@ -6919,7 +6919,7 @@
                            >B</hi>r<ex>a</ex>t<ex>i</ex>ê . Ne vêste li êko v <lb n="6" break="no"
                         />si tekuĉei v stad <lb n="7" break="no"/>ii . vsi ubo tekutь n <lb n="8"
                            break="no"/>a edinь priemletь vra <lb n="9" break="no"/>viû . tko tacite
-                        d <lb n="10" break="no"/>a postignete . <hi rend="red-ik">V</hi>sa <lb
+                        d <lb n="10" break="no"/>a postignete . <hi rend="red-ink">V</hi>sa <lb
                            n="11" break="no"/>ki ubo iže v’ brani s <lb n="12"/>pêšitь ot vsêh’
                         trêzvit’ <lb n="13"/>se . <hi rend="red-ink">O</hi>ni ubo da ist’lên’ni <lb
                            n="14" break="no"/>vênacь priêli bi mi že ne <lb n="15" break="no"
@@ -7171,7 +7171,7 @@
                            <lb n="22" break="no"/>iemletь aĉe kto veličit’ s <lb n="23"/>e . aĉe kto
                         po licu biet’ vi . <lb n="24" break="no"/><hi rend="red-ink">P</hi>o
                         dosaždeniû gl<ex>agolah</ex>u . zane ê <lb n="25" break="no"/>ko mi iz
-                        nemogomь o semь . <hi rend="red-in">O</hi> nemž <lb n="26" break="no"/>e aĉe
+                        nemogomь o semь . <hi rend="red-ink">O</hi> nemž <lb n="26" break="no"/>e aĉe
                         kto dr’zaetь . ne v’ mud <lb n="27" break="no"/>rosti gl<ex>agol</ex>û .
                         dr’zaû i azь . <hi rend="red-ink">E</hi>v <lb n="28"/>rêi sutь i azь . <hi
                            rend="red-ink">I</hi>z<ex>drai</ex>li sutь i <lb n="29"/>azь . <hi
@@ -7818,7 +7818,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb n="1" break="no"/>n’mi g<ex>ospod</ex>i i p<ex>o</ex>m<ex>i</ex>lui êko
-                        sagrêšihom’ t <lb n="2" break="no"/>ebê . <seg type="litrugical-unit"
+                        sagrêšihom’ t <lb n="2" break="no"/>ebê . <seg type="liturgical-unit"
                            ana="#lit-unit-psalmus"><hi rend="red-ink">P</hi><hi
                               rend="minuscule-letters">omozi n<ex>a</ex>mь b<ex>ož</ex>e
                                  sp<ex>a</ex>sit<ex>e</ex>l <lb n="3"/>û n<ex>a</ex>šь
@@ -7916,7 +7916,7 @@
                   <div xml:id="ONB-slav-8-1-322" type="liturgical-unit" ana="#lit-unit-lectio"
                      rendition="#right-column">
                      <ab>
-                        <lb n="9"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor"
+                        <lb n="9"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red-ink">Čtenie isaie proroka .</seg>
                         <lb n="10"/><hi rend="red-ink-bold">V</hi><hi rend="red-ink">S</hi>e
                            gl<ex>agole</ex>tь g<ex>ospod</ex>ь . <hi rend="red-ink">O</hi>bratite se <!-- initial first letter -->
@@ -8065,7 +8065,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb n="8" xml:id="lb-8-1-325-8b" prev="#lb-8-1-325-8a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >N<ex>a</ex>d <ex>prinosi</ex></seg>
                         <hi rend="red-ink-bold">S</hi>tvori m<ex>o</ex>l<ex>imь</ex> te <lb n="9"
                            break="no"/>g<ex>ospod</ex>i simi dari prinesenimi pr <lb n="10"/>iêt’no
@@ -8284,7 +8284,7 @@
                      rendition="#right-column">
                      <ab>
                         <lb n="21" xml:id="lb-8-1-337-1-21-b" prev="#lb-8-1-337-1-21a" break="no"
-                           /><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor"
+                           /><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red-ink">Pês<ex>nь</ex> .</seg>
                         <hi rend="red-ink">K</hi> tebê g<ex>ospod</ex>i v’zd <lb n="22" break="no"
                         />vig’ d<ex>u</ex>šu moû b<ex>ož</ex>e moi na te u <lb n="23" break="no"
@@ -8294,7 +8294,7 @@
                   <div xml:id="ONB-slav-8-1-339" type="liturgical-unit" ana="#lit-unit-super-oblata"
                      rendition="#right-column">
                      <ab>
-                        <lb n="26"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor"
+                        <lb n="26"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red-ink">N<ex>a</ex>d <ex>prinošenie</ex> .</seg>
                         <hi rend="red-ink-bold">K</hi> žr’tvamь prêstoeĉimь . <lb n="27" break="no"
                            />m<ex>o</ex>l<ex>imь</ex> te g<ex>ospod</ex>i ugodanь pospêš <lb n="28"
@@ -8326,7 +8326,7 @@
                   <div xml:id="ONB-slav-8-1-341" type="liturgical-unit"
                      ana="#lit-unit-post-communio" rendition="#left-column">
                      <ab>
-                        <lb n="3"/><hi rend="bold">N</hi><ex>e</ex>b<ex>e</ex>sk<ex>a</ex>go dara
+                        <lb n="3"/><hi rend="red-ink-bold">N</hi><ex>e</ex>b<ex>e</ex>sk<ex>a</ex>go dara
                            bl<ex>agoslovle</ex>nie priêmše <lb n="4"/>priležno te
                            m<ex>o</ex>l<ex>im</ex>ь vs<ex>e</ex>m<ex>o</ex>gi b<ex>ož</ex>e <lb
                            n="5" break="no"/>da siê n<ex>a</ex>mь budetь t’varь sv <lb n="6"
@@ -8391,7 +8391,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb n="23" xml:id="lb-8-1-345-23b" prev="#lb-8-1-345-23a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Čte<ex>nie</ex> isaie pr<ex>o</ex>r<ex>o</ex>ka</seg>
                         <lb n="24" break="no"/><hi rend="red-ink-uppercase">S</hi>e
                         gl<ex>agole</ex>tь g<ex>ospod</ex>ь b<ex>og</ex>ь . <hi rend="red-ink"
@@ -8788,7 +8788,7 @@
             <div type="page">
                <div type="column">
                   <cb n="31ra" rendition="#left-column"/>
-                  <div xml:id="ONB-slav-8-1-363" type="litrugical-unit" ana="#lit-unit-introitus"
+                  <div xml:id="ONB-slav-8-1-363" type="liturgical-unit" ana="#lit-unit-introitus"
                      rendition="#left-column">
                      <ab>
                         <lb n="1" break="no"/><seg type="liturgical-unit"
@@ -8804,7 +8804,7 @@
                                  n<ex>e</ex>b<ex>e</ex>sk<ex>a</ex>go v՚dvorit՚ se .</hi></seg>
                      </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-364" type="litrugical-unit" ana="#lit-unit-oratio"
+                  <div xml:id="ONB-slav-8-1-364" type="liturgical-unit" ana="#lit-unit-oratio"
                      rendition="#left-column">
                      <ab>
                         <lb n="6" xml:id="lb-8-1-363-6b" prev="#lb-8-1-363-6a"/><seg
@@ -8817,7 +8817,7 @@
                         ot tebe priêti v՚zdr՚ž <lb n="11"/>eĉi se želietь . to dobrimi <lb n="12"
                         />dêli naslêdovala bi . g<ex>ospode</ex>m </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-365" type="litrugical-unit" ana="#lit-unit-lectio"
+                  <div xml:id="ONB-slav-8-1-365" type="liturgical-unit" ana="#lit-unit-lectio"
                      rendition="#left-column">
                      <ab>
                         <lb n="13"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
@@ -8844,7 +8844,7 @@
                </div>
                <div type="column">
                   <cb n="30rb" rendition="#right-column"/>
-                  <div xml:id="ONB-slav-8-1-365-1" type="litrugical-unit" ana="#lit-unit-lectio"
+                  <div xml:id="ONB-slav-8-1-365-1" type="liturgical-unit" ana="#lit-unit-lectio"
                      rendition="#right-column">
                      <ab>
                         <lb n="1"/>dêêni v՚ sladosti v՚ d<ex>u</ex>sê <lb n="2" break="no"
@@ -8863,7 +8863,7 @@
                         />čtože imuĉe i vsa udrь <lb n="15" xml:id="lb-8-1-365-1-15a"
                            next="#lb-8-1-365-1-15b"/>žeĉe . </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-366" type="litrugical-unit" ana="#lit-unit-graduale"
+                  <div xml:id="ONB-slav-8-1-366" type="liturgical-unit" ana="#lit-unit-graduale"
                      rendition="#right-column">
                      <ab>
                         <lb n="15" xml:id="lb-8-1-365-1-15b" prev="#lb-8-1-365-1-15a"/><seg
@@ -8896,7 +8896,7 @@
             <div type="page">
                <div type="column">
                   <cb n="31vc" rendition="#left-column"/>
-                  <div xml:id="ONB-slav-8-1-366-1" type="litrugical-unit" ana="#lit-unit-graduale"
+                  <div xml:id="ONB-slav-8-1-366-1" type="liturgical-unit" ana="#lit-unit-graduale"
                      rendition="#left-column">
                      <ab>
                         <lb n="1"/><seg type="liturgical-unit" ana="#lit-unit-tractus"
@@ -8921,7 +8921,7 @@
                               />sp<ex>a</ex>s<ex>e</ex>nie moe </seg>
                      </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-367" type="litrugical-unit" ana="#lit-unit-evangelium"
+                  <div xml:id="ONB-slav-8-1-367" type="liturgical-unit" ana="#lit-unit-evangelium"
                      rendition="#left-column">
                      <ab>
                         <lb n="18" xml:id="lb-8-1-366-1-18b" prev="#lb-8-1-366-1-18a"/><seg
@@ -8946,7 +8946,7 @@
                </div>
                <div type="column">
                   <cb n="31vd" rendition="#right-column"/>
-                  <div xml:id="ONB-slav-8-1-367-1" type="litrugical-unit" ana="#lit-unit-evangelium"
+                  <div xml:id="ONB-slav-8-1-367-1" type="liturgical-unit" ana="#lit-unit-evangelium"
                      rendition="#right-column">
                      <ab>
                         <lb n="1" break="no"/>emь iz ustь b<ex>o</ex>žih՚ . <hi rend="red-ink"
@@ -8972,7 +8972,7 @@
                            anĵ<ex>e</ex>li b<ex>o</ex>ži pri <lb n="21" xml:id="lb-8-1-367-1-21a"
                            next="#lb-8-1-367-1-21b"/>stupiše i služahu emu </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-368" type="litrugical-unit" ana="#lit-unit-offertorium"
+                  <div xml:id="ONB-slav-8-1-368" type="liturgical-unit" ana="#lit-unit-offertorium"
                      rendition="#right-column">
                      <ab>
                         <lb n="21" xml:id="lb-8-1-367-1-21b" prev="#lb-8-1-367-1-21a"/><seg
@@ -8984,7 +8984,7 @@
                               next="#lb-8-1-368-24b"/>tomь obidet՚ te istina ego . </hi>
                      </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-369" type="litrugical-unit" ana="#lit-unit-super-oblata"
+                  <div xml:id="ONB-slav-8-1-369" type="liturgical-unit" ana="#lit-unit-super-oblata"
                      rendition="#right-column">
                      <ab>
                         <lb n="24" xml:id="lb-8-1-368-24b" prev="#lb-8-1-368-24a"/><seg
@@ -8997,7 +8997,7 @@
                            n="28" break="no"/>pl՚tnimь i ot napasti blud՚ni <lb n="29"
                            xml:id="lb-8-1-369-29a" next="#lb-8-1-369-29b"/>hь da ukrotim՚ se . </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-370" type="litrugical-unit" ana="#lit-unit-communio"
+                  <div xml:id="ONB-slav-8-1-370" type="liturgical-unit" ana="#lit-unit-communio"
                      rendition="#right-column">
                      <ab>
                         <lb n="29" xml:id="lb-8-1-369-29b" prev="#lb-8-1-369-29a" break="no"/><seg
@@ -9012,7 +9012,7 @@
             <div type="page">
                <div type="column">
                   <cb n="32ra" rendition="#left-column"/>
-                  <div xml:id="ONB-slav-8-1-370-1" type="litrugical-unit" ana="#lit-unit-communio"
+                  <div xml:id="ONB-slav-8-1-370-1" type="liturgical-unit" ana="#lit-unit-communio"
                      rendition="#left-column">
                      <ab>
                         <lb n="1"/><hi rend="minuscule-letters">a svoima osênit՚ te i pod՚ krilê <lb
@@ -9021,7 +9021,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-371" type="litrugical-unit"
+                  <div xml:id="ONB-slav-8-1-371" type="liturgical-unit"
                      ana="#lit-unit-post-communio" rendition="#left-column">
                      <ab>
                         <lb n="3" xml:id="lb-8-1-370-1-3b" prev="#lb-8-1-370-1-3a"/><seg
@@ -9043,7 +9043,7 @@
                            xml:id="lb-8-1-372-10a" next="#lb-8-1-372-10b"/>s<ex>veta</ex>go
                            p<ex>e</ex>tra . </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-373" type="litrugical-unit" ana="#lit-unit-introitus"
+                  <div xml:id="ONB-slav-8-1-373" type="liturgical-unit" ana="#lit-unit-introitus"
                      rendition="#left-column">
                      <ab>
                         <lb n="10" xml:id="lb-8-1-372-10b" prev="#lb-8-1-373-10a"/><seg
@@ -9062,7 +9062,7 @@
                                  n<ex>e</ex>b<ex>ê</ex>s<ex>i</ex>h՚ . </hi></seg>
                      </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-374" type="litrugical-unit" ana="#lit-unit-oratio"
+                  <div xml:id="ONB-slav-8-1-374" type="liturgical-unit" ana="#lit-unit-oratio"
                      rendition="#left-column">
                      <ab>
                         <lb n="15" xml:id="lb-8-1-373-15b" prev="#lb-8-1-373-15a"/><seg
@@ -9076,7 +9076,7 @@
                            next="#lb-8-1-374-19b"/>eniêmi . <hi rend="red-ink"
                         >G</hi><ex>ospode</ex>mь . </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-375" type="litrugical-unit" ana="#lit-unit-lectio"
+                  <div xml:id="ONB-slav-8-1-375" type="liturgical-unit" ana="#lit-unit-lectio"
                      rendition="#left-column">
                      <ab>
                         <lb n="19" xml:id="lb-8-1-374-19b" prev="#lb-8-1-374-19a"/><seg
@@ -9094,7 +9094,7 @@
                </div>
                <div type="column">
                   <cb n="32rb" rendition="#right-column"/>
-                  <div xml:id="ONB-slav-8-1-375-1" type="litrugical-unit" ana="#lit-unit-lectio"
+                  <div xml:id="ONB-slav-8-1-375-1" type="liturgical-unit" ana="#lit-unit-lectio"
                      rendition="#right-column">
                      <ab>
                         <lb n="1"/>v՚ d<ex>a</ex>nь oblaka i mag՚li . <hi rend="red-ink">I</hi>z՚mu
@@ -9117,7 +9117,7 @@
                            xml:id="lb-8-1-375-1-19a" next="#lb-8-1-375-19b"/>avdoû . <hi
                            rend="red-ink">R</hi><ex>e</ex>če g<ex>ospod</ex>ь vsemogi . </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-376" type="litrugical-unit" ana="#lit-unit-graduale"
+                  <div xml:id="ONB-slav-8-1-376" type="liturgical-unit" ana="#lit-unit-graduale"
                      rendition="#right-column">
                      <ab>
                         <lb n="19" xml:id="lb-8-1-375-1-19b" prev="#lb-8-1-375-1-19a"/><seg
@@ -9130,7 +9130,7 @@
                               m<ex>o</ex>l<ex>it</ex>vi rabь tvoihь . </hi>
                      </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-377" type="litrugical-unit" ana="#lit-unit-evangelium"
+                  <div xml:id="ONB-slav-8-1-377" type="liturgical-unit" ana="#lit-unit-evangelium"
                      rendition="#right-column">
                      <ab>
                         <lb n="22" xml:id="lb-8-1-376-22b" prev="#lb-8-1-376-22b"/><seg
@@ -9151,7 +9151,7 @@
             <div type="page">
                <div type="column">
                   <cb n="32vc" rendition="#left-column"/>
-                  <div xml:id="ONB-slav-8-1-377-1" type="litrugical-unit" ana="#lit-unit-evangelium"
+                  <div xml:id="ONB-slav-8-1-377-1" type="liturgical-unit" ana="#lit-unit-evangelium"
                      rendition="#left-column">
                      <ab>
                         <lb n="1" break="no"/>nь vsi narodi i razlučitь e d <lb n="2" break="no"
@@ -9185,7 +9185,7 @@
                </div>
                <div type="column">
                   <cb n="32vd" rendition="#right-column"/>
-                  <div xml:id="ONB-slav-8-1-377-2" type="litrugical-unit" ana="#lit-unit-evangelium"
+                  <div xml:id="ONB-slav-8-1-377-2" type="liturgical-unit" ana="#lit-unit-evangelium"
                      rendition="#right-column">
                      <ab>
                         <lb n="1" break="no"/>okleti vь oganь vêč՚ni . iže ugo <lb n="2" break="no"
@@ -9208,7 +9208,7 @@
                         a pra <lb n="19" xml:id="lb-8-1-377-2-19a" next="#lb-8-1-377-2-19b"/>v՚dni v
                         životь vêčni . </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-378" type="litrugical-unit" ana="#lit-unit-offertorium"
+                  <div xml:id="ONB-slav-8-1-378" type="liturgical-unit" ana="#lit-unit-offertorium"
                      rendition="#right-column">
                      <ab>
                         <lb n="19" xml:id="lb-8-1-377-19b" prev="#lb-8-1-377-19a"/><seg
@@ -9221,7 +9221,7 @@
                               zap<ex>o</ex>v<ex>ê</ex>demь tvoimь .</hi>
                      </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-379" type="litrugical-unit" ana="#lit-unit-super-oblata"
+                  <div xml:id="ONB-slav-8-1-379" type="liturgical-unit" ana="#lit-unit-super-oblata"
                      rendition="#right-column">
                      <ab>
                         <lb n="23" xml:id="lb-8-1-378-23b" prev="#lb-8-1-378-23a"/><seg
@@ -9231,10 +9231,10 @@
                         prinesenie s<ex>vê</ex>ti i n<ex>a</ex>sь ot g <lb n="25"/>rêhь našihь
                         porokь očisti . <hi rend="red-ink">G</hi><ex>ospode</ex>mь . </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-380" type="litrugical-unit" ana="#lit-unit-communio"
+                  <div xml:id="ONB-slav-8-1-380" type="liturgical-unit" ana="#lit-unit-communio"
                      rendition="#right-column">
                      <ab>
-                        <lb n="26"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor"
+                        <lb n="26"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red-ink">Pês<ex>nь</ex> .</seg>
                         <hi rend="red-ink">A</hi>m<ex>e</ex>nь gl<ex>agol</ex>û v<ex>a</ex>mь eže
                         edinomu <lb n="27"/>od man՚ših՚ moih՚ stvoriste mnê <lb n="28"/>stvoris՚te
@@ -9247,12 +9247,12 @@
             <div type="page">
                <div type="column">
                   <cb n="33ra" rendition="#left-column"/>
-                  <div xml:id="ONB-slav-8-1-380-1" type="litrugical-unit" ana="#lit-unit-communio"
+                  <div xml:id="ONB-slav-8-1-380-1" type="liturgical-unit" ana="#lit-unit-communio"
                      rendition="#left-column">
                      <ab>
                         <lb n="1"/>amь c<ex>ê</ex>sarstvo ot začela vêka . </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-381" type="litrugical-unit"
+                  <div xml:id="ONB-slav-8-1-381" type="liturgical-unit"
                      ana="#lit-unit-post-communio" rendition="#left-column">
                      <ab>
                         <lb n="2" break="no"/><hi rend="red-ink">S</hi>p<ex>a</ex>s<ex>e</ex>niê
@@ -9262,7 +9262,7 @@
                            >G</hi><ex>ospode</ex>mь n<ex>a</ex>š<ex>imь</ex>
                      </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-382" type="litrugical-unit"
+                  <div xml:id="ONB-slav-8-1-382" type="liturgical-unit"
                      ana="#lit-unit-super-populum" rendition="#left-column">
                      <ab>
                         <lb n="6"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
@@ -9284,7 +9284,7 @@
                         anastas <lb n="11" xml:id="lb-8-1-383-11a" next="#lb-8-1-383-11b"/>ie .
                      </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-384" type="litrugical-unit" ana="#lit-unit-introitus"
+                  <div xml:id="ONB-slav-8-1-384" type="liturgical-unit" ana="#lit-unit-introitus"
                      rendition="#left-column">
                      <ab>
                         <lb n="11" xml:id="lb-8-1-383-11b" prev="#lb-8-1-383-11a"/><seg
@@ -9300,11 +9300,11 @@
                                  next="#lb-8-1-384-15b"/>esi b<ex>og</ex>ь . </hi></seg>
                      </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-385" type="litrugical-unit" ana="#lit-unit-oratio"
+                  <div xml:id="ONB-slav-8-1-385" type="liturgical-unit" ana="#lit-unit-oratio"
                      rendition="#left-column">
                      <ab>
                         <lb n="15" xml:id="lb-8-1-384-15b" prev="#lb-8-1-384-15a" break="no"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Or<ex>a</ex>c<ex>iê</ex> .</seg>
                         <hi rend="red-ink">Pr</hi>izri m<ex>o</ex>l<ex>imь</ex> te g<ex>ospod</ex>i
                         na čela <lb n="16" break="no"/>dь tvoû i podai da u tebe mi <lb n="17"
@@ -9312,7 +9312,7 @@
                         />vatit՚ se . êže se plt՚nimь stu <lb n="19" xml:id="lb-8-1-385-19a"
                            next="#lb-8-1-385-19b"/>ženiemь nakazuetь . </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-386" type="litrugical-unit" ana="#lit-unit-lectio"
+                  <div xml:id="ONB-slav-8-1-386" type="liturgical-unit" ana="#lit-unit-lectio"
                      rendition="#left-column">
                      <ab>
                         <lb n="19" xml:id="lb-8-1-385-19b" prev="#lb-8-1-385-19a"/><seg
@@ -9333,7 +9333,7 @@
                </div>
                <div type="column">
                   <cb n="33rb" rendition="#right-column"/>
-                  <div xml:id="ONB-slav-8-1-386-1" type="litrugical-unit" ana="#lit-unit-lectio"
+                  <div xml:id="ONB-slav-8-1-386-1" type="liturgical-unit" ana="#lit-unit-lectio"
                      rendition="#right-column">
                      <ab>
                         <lb n="1"/>st<ex>i</ex>vь estь k՚ p<ex>o</ex>m<ex>i</ex>lovaniû . <hi
@@ -9355,7 +9355,7 @@
                            rend="red-ink">R</hi><ex>e</ex>če g<ex>ospod</ex>ь vs <lb n="19"
                            xml:id="lb-8-1-386-1-19a" next="#lb-8-1-386-19b"/>emogi . </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-387" type="litrugical-unit" ana="#lit-unit-graduale"
+                  <div xml:id="ONB-slav-8-1-387" type="liturgical-unit" ana="#lit-unit-graduale"
                      rendition="#right-column">
                      <ab>
                         <lb n="19" xml:id="lb-8-1-386-1-19b" prev="#lb-8-1-386-1-19a" break="no"
@@ -9368,7 +9368,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-388" type="litrugical-unit" ana="#lit-unit-evangelium"
+                  <div xml:id="ONB-slav-8-1-388" type="liturgical-unit" ana="#lit-unit-evangelium"
                      rendition="#right-column">
                      <ab>
                         <lb n="22" xml:id="lb-8-1-387-22b" prev="#lb-8-1-387-22a"
@@ -9388,7 +9388,7 @@
             <div type="page">
                <div type="column">
                   <cb n="33vc" rendition="#left-column"/>
-                  <div xml:id="ONB-slav-8-1-388-1" type="litrugical-unit" ana="#lit-unit-evangelium"
+                  <div xml:id="ONB-slav-8-1-388-1" type="liturgical-unit" ana="#lit-unit-evangelium"
                      rendition="#left-column">
                      <ab>
                         <lb n="1"/>ûĉee i kupuûĉee v՚ cr<ex>ê</ex>kvi . i <lb n="2" break="no"
@@ -9415,7 +9415,7 @@
                            c<ex>êsa</ex>r <lb n="21" xml:id="lb-8-1-388-1-21a"
                            next="#lb-8-1-388-1-21b"/>stvê b<ex>o</ex>ži . </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-389" type="litrugical-unit" ana="#lit-unit-offertorium"
+                  <div xml:id="ONB-slav-8-1-389" type="liturgical-unit" ana="#lit-unit-offertorium"
                      rendition="#left-column">
                      <ab>
                         <lb n="21" xml:id="lb-8-1-388-1-21b" prev="#lb-8-1-388-1-21a" break="no"
@@ -9427,7 +9427,7 @@
                               vr<ex>ê</ex>mena moê . </hi>
                      </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-390" type="litrugical-unit" ana="#lit-unit-super-oblata"
+                  <div xml:id="ONB-slav-8-1-390" type="liturgical-unit" ana="#lit-unit-super-oblata"
                      rendition="#left-column">
                      <ab>
                         <lb n="23" xml:id="lb-8-1-389-23b" prev="#lb-8-1-389-23a" break="no"/><seg
@@ -9439,7 +9439,7 @@
                            n="26" xml:id="lb-8-1-390-26a" next="#lb-8-1-390-26b"/>izbavi .
                            G<ex>ospode</ex>mь </ab>
                   </div>
-                  <div xml:id="ONB-slav-8-1-391" type="litrugical-unit" ana="#lit-unit-communio"
+                  <div xml:id="ONB-slav-8-1-391" type="liturgical-unit" ana="#lit-unit-communio"
                      rendition="#left-column">
                      <ab>
                         <lb n="26" xml:id="lb-8-1-390-26b" prev="#lb-8-1-390-26a" break="no"/><seg
@@ -9456,7 +9456,7 @@
                </div>
                <div type="column">
                   <cb n="33vd" rendition="#right-column"/>
-                  <div xml:id="ONB-slav-8-1-392" type="litrugical-unit"
+                  <div xml:id="ONB-slav-8-1-392" type="liturgical-unit"
                      ana="#lit-unit-post-communio" rendition="#right-column">
                      <ab>
                         <lb n="1"/><hi rend="red-ink-bold">P</hi>rosim՚ vs<ex>e</ex>mogi
@@ -9470,7 +9470,7 @@
                         <lb n="4" xml:id="lb-8-1-392-4b" prev="#lb-8-1-392-4a"/><seg
                            type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >z<ex>a</ex> plk՚ .</seg>
-                        <seg type="litrugical-unit" ana="#lit-unit-invocatio"><hi rend="red-ink"
+                        <seg type="liturgical-unit" ana="#lit-unit-invocatio"><hi rend="red-ink"
                                  >p<ex>o</ex>m<ex>o</ex>l<ex>imь</ex> s<ex>e</ex> . U</hi>milit
                            .</seg>
                         <lb n="5"/><hi rend="red-ink-bold">D</hi>a v՚zidutь k tebê g<ex>ospod</ex>i
@@ -9514,7 +9514,7 @@
                            rend="minuscule-letters"><seg type="rubrica"
                               ana="#lit-unit-rubrica-minor" rend="red-ink"
                                  >P<ex>o</ex>m<ex>o</ex>l<ex>imь</ex> se</seg>
-                           <seg type="litrugical-unit" ana="#lit-unit-invocatio"><hi rend="red-ink"
+                           <seg type="liturgical-unit" ana="#lit-unit-invocatio"><hi rend="red-ink"
                                  >P</hi>rêkl<ex>o</ex>n<ex>i</ex>mь kol<ex>ê</ex>na
                                  Vst<ex>anite</ex> .</seg></hi>
                         <lb n="17" break="no"/><hi rend="red-ink-bold">M</hi><ex>o</ex>leniê
@@ -9569,7 +9569,7 @@
                   <div xml:id="ONB-slav-8-1-398" type="liturgical-unit" ana="#lit-unit-graduale"
                      rendition="#left-column">
                      <ab>
-                        <lb n="17"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor"
+                        <lb n="17"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red-ink">Pês<ex>nь</ex> .</seg>
                         <hi rend="minuscule-letters">
                            <hi rend="red-ink">S</hi>kr՚bi sr<ex>dь</ex>ca moego umnožiše <lb n="18"
@@ -9641,7 +9641,7 @@
                      rendition="#right-column">
                      <ab>
                         <lb n="20" break="no" xml:id="lb-8-1-400-1-20b" prev="#lb-8-1-400-1-20a"
-                           /><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor"
+                           /><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red-ink">Pês<ex>nь</ex> .</seg>
                         <hi rend="minuscule-letters">
                            <hi rend="red-ink">O</hi>t bêdь moih՚ izmim <lb n="21" break="no"/>e
@@ -9731,7 +9731,7 @@
                   <div xml:id="ONB-slav-8-1-403" type="liturgical-unit" ana="#lit-unit-offertorium"
                      rendition="#right-column">
                      <ab>
-                        <lb n="16"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor"
+                        <lb n="16"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red-ink">Pês<ex>nь</ex> .</seg>
                         <hi rend="red-ink">P</hi><hi rend="minuscule-letters">oučah se v՚
                               zap<ex>o</ex>v<ex>ê</ex>deh՚ tvoih՚ <lb n="17"/>g<ex>ospod</ex>i eže
@@ -9744,7 +9744,7 @@
                      rendition="#right-column">
                      <ab>
                         <lb n="19" break="no" xml:id="lb-8-1-403-19b" prev="#lb-8-1-403-19a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >N<ex>a</ex>d <ex>prinošenie</ex> .</seg>
                         <hi rend="red-ink-bold">Ž</hi>r՚tvi te <lb n="20"/>bê g<ex>ospod</ex>i
                         ugoĵeniê prinosimь i da <lb n="21" break="no"/>grêhi n<ex>a</ex>še otrêšiši
@@ -9756,7 +9756,7 @@
                      rendition="#right-column">
                      <ab>
                         <lb n="22" break="no" xml:id="lb-8-1-404-22b" prev="lb-8-1-404-22a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Pês<ex>nь</ex> .</seg>
                         <hi rend="red-ink">R</hi><hi rend="minuscule-letters">a <lb n="23"
                               break="no"/>zumêi vapai moi . vanmi gl<ex>a</ex>sь
@@ -9771,7 +9771,7 @@
                      ana="#lit-unit-post-communio" rendition="#right-column">
                      <ab>
                         <lb n="25" break="no" xml:id="lb-8-1-405-25b" prev="#lb-8-1-405-25a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Po
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Po
                               <ex>brašanci</ex></seg>
                         <hi rend="red-ink-bold">T</hi>voee g<ex>ospod</ex>i žr՚ <lb n="26"
                            break="no"/>tvi priêtiemь i ot n<ex>a</ex>ših՚ da o <lb n="27" break="no"
@@ -9782,7 +9782,7 @@
                      ana="#lit-unit-super-populum" rendition="#right-column">
                      <ab>
                         <lb n="29"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
-                           rend="red-ink">za plk՚ .</seg><seg type="litrugical-unit"
+                           rend="red-ink">za plk՚ .</seg><seg type="liturgical-unit"
                            ana="#lit-unit-invocatio"><hi rend="red-ink"
                                  >P<ex>o</ex>m<ex>o</ex>l<ex>imь</ex> se . U</hi><hi
                               rend="minuscule-letters">miliše gl<ex>a</ex>vi v</hi>
@@ -9817,9 +9817,9 @@
                   <div xml:id="ONB-slav-8-1-409" type="liturgical-unit" ana="#lit-unit-introitus">
                      <ab>
                         <lb n="7" break="no" xml:id="lb-8-1-408-7b" prev="#lb-8-1-408-7a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Pês<ex>nь</ex> .</seg>
-                        <hi rend="red-ink">I</hi><hi rend="minucule-letters"
+                        <hi rend="red-ink">I</hi><hi rend="minuscule-letters"
                            >sp<ex>o</ex>v<ex>ê</ex>dan <lb n="8" break="no"/>ie i krasota pred՚ nimь
                               s<ex>ve</ex>tina i v <lb n="9" break="no"/>el՚lêpota v՚
                            s<ex>ve</ex>tili ego .</hi><seg type="liturgical-unit"
@@ -9959,7 +9959,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb break="no" xml:id="lb-8-1-413-1-20b" prev="#lb-8-1-413-1-20a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Pês<ex>nь</ex></seg>
                         <hi rend="red-ink">O</hi><hi rend="minuscule-letters">p՚ <lb n="21"/>lčit՚
                            se anĵ<ex>e</ex>lь g<ex>ospod</ex>nь oh<ex>rьst</ex>ь boeĉih se <lb
@@ -9984,7 +9984,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb n="27" xml:id="lb-8-1-415-27b" prev="#lb-8-1-415-27a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Pês<ex>nь</ex> .</seg>
                         <hi rend="red-ink">H</hi><hi rend="minuscule-letters">lêbь iže az՚ <lb
                               n="28" break="no"/>dam՚ pl՚tь moê estь ûže azь da <lb n="29"
@@ -10015,7 +10015,7 @@
                      ana="#lit-unit-super-populum" rendition="#right-column">
                      <ab>
                         <lb n="3" xml:id="lb-8-1-416-1-3b" prev="#lb-8-1-416-1-3a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">za
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">za
                            pl՚kь .</seg><seg type="liturgical-unit" ana="#lit-unit-invocatio"
                            rend="red-ink"> P<ex>o</ex>m<ex>olimь se</ex> .</seg>
                         <lb n="4" break="no"/><hi rend="red-ink-bold">D</hi>ai
@@ -10049,7 +10049,7 @@
                      rendition="#right-column">
                      <ab>
                         <lb n="11" xml:id="lb-8-1-419-11b" prev="#lb-8-1-419-8a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">
                               Or<ex>a</ex>c<ex>iê</ex> .</seg>
                         <lb n="12"/><hi rend="red-ink-bold">B</hi>liz՚ budi m<ex>o</ex>l<ex>imь</ex>
                         te g<ex>ospod</ex>i lûdem՚ <lb n="13" break="no"/>tvoimь . i eže
@@ -10060,7 +10060,7 @@
                   <div xml:id="ONB-slav-8-1-421" type="liturgical-unit" ana="#lit-unit-lectio"
                      rendition="#right-column">
                      <ab>
-                        <lb n="16"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor"
+                        <lb n="16"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red-ink">Čtenie . ezekiela pr<ex>o</ex>r<ex>o</ex>ka .</seg>
                         <lb n="17" break="no"/><hi rend="red-ink-uppercase">V</hi>se
                            gl<ex>agole</ex>tь g<ex>ospod</ex>ь b<ex>og</ex>ь . <hi rend="red-ink"
@@ -10128,7 +10128,7 @@
                      rendition="#right-column">
                      <ab>
                         <lb n="7" xml:id="lb-8-1-421-2-7b" prev="#lb-8-1-421-2-7a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Pês<ex>nь</ex> .</seg>
                         <hi rend="red-ink">S</hi><hi rend="minuscule-letters">p<ex>a</ex>si
                               g<ex>ospod</ex>i raba <lb n="8"/>tvoego b<ex>ož</ex>e moi upvaûĉago na
@@ -10141,7 +10141,7 @@
                      <ab>
                         <lb n="10"/><hi rend="red-ink-uppercase">V</hi>
                         <ex>o</ex>no vr<ex>ê</ex>me <hi rend="red-ink">B</hi>êše . <seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               ><ex>Naslêdovanie svetago evanĵelie</ex> ot iv<ex>a</ex>na</seg>
                         <lb n="11" break="no"/>d<ex>a</ex>nь prazdnikь iûdêi <lb n="12" break="no"
                         />ski vnide i<ex>su</ex>sь vь er<ex>u</ex>s<ex>o</ex>
@@ -10206,7 +10206,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb n="28" xml:id="lb-8-1-423-1-28b" prev="#lb-8-1-423-1-28a"/>
-                        <seg type="litrugical-unit" ana="#lit-unit-rubrica-minor">Pês<ex>nь</ex>
+                        <seg type="liturgical-unit" ana="#lit-unit-rubrica-minor">Pês<ex>nь</ex>
                            .</seg>
                         <hi rend="red-ink">B</hi><hi rend="minuscule-letters">l<ex>agoslo</ex>vi
                               d<ex>u</ex>še moê g<ex>ospod</ex>a i <lb n="29" break="no"/>ne zabudi
@@ -10227,7 +10227,7 @@
                      rendition="#right-column">
                      <ab>
                         <lb n="1" xml:id="lb-8-1-414-1-1b" prev="#lb-8-1-424-1-1a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rendition="#right-column"/>N<ex>a</ex>d /prinošenie/ <lb n="2" break="no"
                            /><hi rend="red-ink">P</hi>rimi m<ex>o</ex>l<ex>imь</ex> te
                            g<ex>ospod</ex>i n<ex>a</ex>ših՚ prinosi s <lb n="3" break="no"/>lužbi .
@@ -10239,7 +10239,7 @@
                      rendition="#right-column">
                      <ab>
                         <lb n="4" break="no" xml:id="lb-8-1-425-4b" prev="#lb-8-1-425-8a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor">Pês<ex>nь</ex>
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor">Pês<ex>nь</ex>
                            .</seg>
                         <hi rend="red-ink">D</hi><hi rend="minuscule-letters">a v՚vratet՚ se i sm
                               <lb n="5" break="no"/>etut՚ se i postidet՚ se zêlo v՚ <lb n="6"
@@ -10250,7 +10250,7 @@
                      ana="#lit-unit-post-communio" rendition="#right-column">
                      <ab>
                         <lb n="6" break="no" xml:id="lb-8-1-426-6b" prev="#lb-8-1-426-6a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor">Po
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor">Po
                            <ex>brašanci</ex></seg>
                         <hi rend="red-ink">S</hi>ee g<ex>ospod</ex>i dêlaniemь t <lb n="7"/>aini . i
                         grêsi n<ex>a</ex>ši da očistet՚ <lb n="8" break="no"/>se i prava želêniê da
@@ -10261,8 +10261,8 @@
                      ana="#lit-unit-super-populum" rendition="#right-column">
                      <ab>
                         <lb n="9" xml:id="lb-8-1-427-9b" prev="#lb-8-1-427-9a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor">za plk՚ .</seg><seg
-                           type="litrugical-unit" ana="#lit-unit-invocatio" rend="red-ink">
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor">za plk՚ .</seg><seg
+                           type="liturgical-unit" ana="#lit-unit-invocatio" rend="red-ink">
                               P<ex>o</ex>m<ex>o</ex>l<ex>imь se</ex> . <hi rend="red-ink"
                            >U</hi>miliše </seg>
                         <lb n="10" break="no"/><hi rend="red-ink-bold">U</hi>sliši n<ex>a</ex>sь
@@ -10284,7 +10284,7 @@
                      rendition="#right-column">
                      <ab>
                         <lb n="13" break="no" xml:id="lb-8-1-429-13b" prev="#lb-8-1-429-13a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Pês<ex>nь</ex> .</seg>
                         <hi rend="red-ink">D</hi><hi rend="minuscule-letters">a vn <lb n="14"
                               break="no"/>idetь prêd՚ te g<ex>ospod</ex>i
@@ -10299,7 +10299,7 @@
                      rendition="#right-column">
                      <ab>
                         <lb n="17" xml:id="lb-8-1-430-17b" prev="#lb-8-1-430-17a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                               >P<ex>o</ex>m<ex>o</ex>l<ex>imь</ex> s<ex>e</ex> .</seg>
                         <lb n="18"/><hi rend="red-ink"><hi rend="minuscule-letters">Pr</hi>eklonimь
                            kolêna <hi rend="red-ink">. ot V</hi>stani .</hi>
@@ -10316,12 +10316,12 @@
                      rendition="#right-column">
                      <ab>
                         <lb n="22" xml:id="lb-8-1-431-22b" prev="#lb-8-1-431-22a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Čte<ex>nie</ex> kn<ex>i</ex>g՚ deveteronomie .</seg>
                         <lb n="23"/><hi rend="red-ink-uppercase">V</hi>
                         <ex>o</ex>ni dni . <hi rend="red-ink">P</hi><ex>o</ex>m<ex>o</ex>li se
                         moisêi ka <lb n="24" break="no"/>g<ex>ospode</ex>vê g<ex>lago</ex>le . <hi
-                           rend="red-inkn">P</hi>r<ex>i</ex>zri g<ex>ospod</ex>i ot sv <lb n="25"
+                           rend="red-ink">P</hi>r<ex>i</ex>zri g<ex>ospod</ex>i ot sv <lb n="25"
                            break="no"/>êt<ex>i</ex>la s<ex>veta</ex>go tvoego . i ot vis <lb n="26"
                         />okago obitaliĉa tvoego . <lb n="27"/><hi rend="red-ink">I</hi>
                            bl<ex>agoslo</ex>vi lûdi tvoe iz<ex>ravi</ex>lь . <lb n="28" break="no"
@@ -10363,7 +10363,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb n="21" break="no" xml:id="lb-8-1-432-21b" prev="#lb-8-1-432-21a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Pês<ex>nь</ex> .</seg>
                         <hi rend="red-ink">M</hi><hi rend="minuscule-letters"
                            ><ex>i</ex>l<ex>o</ex>stivь bu <lb n="22" break="no"/>di g<ex>ospod</ex>i
@@ -10381,7 +10381,7 @@
                                  >P<ex>o</ex>m<ex>o</ex>l<ex>imь</ex> se .</hi>
                            <hi rend="red-ink">Pr</hi><hi rend="minuscule-letters"><ex>e</ex>klonimь
                               kolêna .</hi></seg>
-                        <seg type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                        <seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >or<ex>a</ex>c<ex>iê</ex> .</seg>
                         <lb n="27"/><hi rend="red-ink-bold">Z</hi>aĉit՚niče n<ex>a</ex>šь viĵь
                            b<ex>ož</ex>e da <lb n="28" break="no"/>iže zalь n<ex>a</ex>ših՚ brêmeni
@@ -10400,7 +10400,7 @@
                   <div xml:id="ONB-slav-8-1-435" type="liturgical-unit" ana="#lit-unit-lectio"
                      rendition="#right-column">
                      <ab>
-                        <lb n="3"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor"
+                        <lb n="3"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red-ink">Čt<ex>e</ex>nie knig՚ deveteronomie . </seg>
                         <lb n="4"/><hi rend="red-ink-uppercase">V</hi>
                         <ex>o</ex>ni d<ex>՚</ex>ni . <hi rend="red-ink">R</hi><ex>e</ex>če moisêi
@@ -10467,7 +10467,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb n="5" xml:id="lb-8-1-437-1-5b" prev="#lb-8-1-437-1-5a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Čte<ex>nie</ex> kn<ex>i</ex>g՚ mahabêiskih՚ </seg>
                         <lb n="6" break="no"/><hi rend="red-ink-uppercase">V</hi>
                         <ex>o</ex>ni d<ex>՚</ex>ni m<ex>o</ex>l<ex>i</ex>tvu tvor <lb n="7"/>ahu
@@ -10584,7 +10584,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb n="2" xml:id="lb-8-1-442-1-2b" prev="#lb-8-1-442-2a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-invocatio"><hi rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-invocatio"><hi rend="red-ink"
                                  >P<ex>o</ex>m<ex>olimь</ex></hi>
                            <hi rend="red-ink">Pr</hi>êklon<ex>i</ex>m՚</seg>
                         <lb n="3"/><hi rend="red-ink-bold">D</hi>êêniê n<ex>a</ex>ša
@@ -10598,7 +10598,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb n="7" xml:id="lb-8-1-443-7b" prev="#lb-8-1-443-7a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Čte<ex>nie</ex> .</seg>
                         <hi rend="red-ink">A</hi>nĵ<ex>e</ex>lь g<ex>ospod</ex>nь snide . <seg
                            type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">iĉi
@@ -10623,7 +10623,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb n="10" break="no" xml:id="lb-8-1-445-10b" prev="#lb-8-1-445-10a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >or<ex>a</ex>c<ex>i</ex>û siû bes pr <lb n="11"/>êkloneniê . obraĉ se
                            r՚ci</seg>G<hi rend="black-ink"><ex>ospod</ex>ь s v<ex>ami</ex></hi>
                         <lb n="12"/><hi rend="red-ink-bold">B</hi><ex>ož</ex>e iže trimь otrokomь
@@ -10637,7 +10637,7 @@
                   <div xml:id="ONB-slav-8-1-447" type="liturgical-unit" ana="#lit-unit-lectio"
                      rendition="#left-column">
                      <ab>
-                        <lb n="16"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor"
+                        <lb n="16"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red-ink">čte<ex>nie</ex> ep<ex>istoliê</ex>
                               b<ex>la</ex>ž<ex>enago</ex> p<ex>avla</ex> ap<ex>ustola</ex> k՚
                            tesalonikomь . </seg>
@@ -10737,7 +10737,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb n="15" xml:id="lb-8-1-449-1-15b" prev="#lb-8-1-449-1-15a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Pês<ex>nь</ex></seg>
                         <lb n="16"/><hi rend="minuscule-letters"><hi rend="red-ink"
                               >G</hi><ex>ospod</ex>i b<ex>o</ex>že sp<ex>a</ex>s<ex>e</ex>niê moego
@@ -10750,7 +10750,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb n="18" xml:id="lb-8-1-450-18b" prev="#lb-8-1-450-8a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >N<ex>a</ex>d <ex>prinošenie</ex> .</seg>
                         <lb n="19"/><hi rend="red-ink-bold">P</hi>rikazanimi žr՚tvami
                            m<ex>o</ex>l<ex>imь</ex>
@@ -10776,7 +10776,7 @@
                      ana="#lit-unit-post-communio" rendition="#left-column">
                      <ab>
                         <lb n="25" xml:id="lb-8-1-452-25b" prev="#lb-8-1-452-25a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Po
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Po
                               <ex>brašanci</ex> .</seg>
                         <lb n="26" break="no"/><hi rend="red-ink-bold">S</hi><ex>ve</ex>tbami tvoimi
                            m<ex>o</ex>l<ex>imь</ex> te v՚se <lb n="27" break="no"/>mogi
@@ -10788,7 +10788,7 @@
                      ana="#lit-unit-super-populum" rendition="#left-column">
                      <ab>
                         <lb n="29" xml:id="lb-8-1-453-29b" next="#lb-8-1-453-29a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-invocatio"><hi rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-invocatio"><hi rend="red-ink"
                                  >P<ex>o</ex>m<ex>olimь</ex> s<ex>e</ex>.</hi>
                            <hi rend="red-ink">Pr</hi>êkl<ex>onimь</ex>
                            <ex>kolêna</ex>. </seg>
@@ -10821,7 +10821,7 @@
                      rendition="#right-column">
                      <ab>
                         <lb n="7" break="no" xml:id="lb-8-1-455-7b" prev="#lb-8-1-455-8a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Pês<ex>nь</ex> .</seg>
                         <hi rend="red-ink">V</hi>spo <lb n="8" break="no"/>meni milosrdiê
                            g<ex>ospod</ex>i . i m<ex>i</ex>l<ex>o</ex>sti t <lb n="9" break="no"
@@ -10997,7 +10997,7 @@
                      rendition="#right-column">
                      <ab>
                         <lb n="13" xml:id="lb-8-1-465-13b" prev="#lb-8-1-465-13a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Pês<ex>nь</ex> .</seg>
                         <hi rend="red-ink">I</hi><hi rend="minuscule-letters">zb<ex>a</ex>vi me
                               g<ex>ospod</ex>i <lb n="14"/>i p<ex>o</ex>m<ex>i</ex>l<ex>ui</ex>
@@ -11028,7 +11028,7 @@
                      <ab>
                         <lb n="23"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red-ink">Čt<ex>e</ex>nie daniela proroka . </seg>
-                        <lb n="24"/><hi rend="red-ink-upeercase">V</hi>
+                        <lb n="24"/><hi rend="red-ink-uppercase">V</hi>
                         <ex>o</ex>ni dni . p<ex>o</ex>m<ex>o</ex>l<ex>i</ex> se danielь <lb n="25"
                            break="no"/>g<ex>lago</ex>le . <hi rend="red-ink">G</hi><ex>ospod</ex>i
                            b<ex>ož</ex>e n<ex>a</ex>šь iže izve <lb n="26"/>lь esi lûdi tvoe od
@@ -11468,7 +11468,7 @@
                      rendition="#left-column">
                      <ab>
                         <lb n="16" xml:id="lb-8-1-487-16b" prev="#lb-8-1-487-16a"/><seg
-                           type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
+                           type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"
                               >Pês<ex>anь</ex> .</seg>
                         <lb n="17" break="no"/><hi rend="red-ink">N</hi><hi rend="minuscule-letters"
                            >e ostavi me g<ex>ospod</ex>i b<ex>ož</ex>e moi ni otstu <lb n="18"/>pi
@@ -12038,7 +12038,7 @@
                         i o tai g<ex>lago</ex>lahu . <hi rend="red-ink">S</hi>e sannikь g <lb n="3"
                         />redetь . pridête da ubiemь i . <lb n="4" break="no"/>vr’žemь i v’
                         čister’nu vet’h <lb n="5"/>u . i r<ex>e</ex>čemь zvêre lûto pogl’ti i <lb
-                           n="6" break="no"/><hi rend="red-iink">I</hi> tagda êvit’ se čto prospie
+                           n="6" break="no"/><hi rend="red-ink">I</hi> tagda êvit’ se čto prospie
                            <lb n="7"/>tь emu sanь ego . <hi rend="red-ink">S</hi>lišav že sie <lb
                            n="8"/>ruvimь želiše iz’baviti i <lb n="9" break="no"/>ot rukь ih’ i
                            g<ex>lago</ex>laše . <hi rend="red-ink">N</hi>e ubiemь d<ex>u</ex>š <lb
@@ -12214,7 +12214,7 @@
                   <div xml:id="ONB-slav-8-1-521-1" type="liturgical-unit" ana="#lit-unit-introitus"
                      rendition="#right-column">
                      <ab>
-                        <lb n="1" break="no"/><hi rend="minuscule letters">d<ex>u</ex>še v’
+                        <lb n="1" break="no"/><hi rend="minuscule-letters">d<ex>u</ex>še v’
                               sv<ex>e</ex>denie g<ex>ospod</ex>ne vêr’nu umu <lb n="2" break="no"
                            />drae ml<ex>a</ex>dênce .</hi><seg type="liturgical-unit"
                            ana="#lit-unit-psalmus" rend="red-ink">S<ex>ti</ex>h .</seg><hi
@@ -12410,7 +12410,7 @@
                         <lb n="13" xml:id="lb-8-1-523-4-13b" prev="#lb-8-1-523-4-13a"/><seg
                            type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">.
                               Pês<ex>nь</ex> . </seg><hi rend="red-ink">B</hi><hi
-                           rend="minuscule letters">l<ex>a</ex>go estь isp<ex>o</ex>v<ex>ê</ex>dati
+                           rend="minuscule-letters">l<ex>a</ex>go estь isp<ex>o</ex>v<ex>ê</ex>dati
                            se <lb n="14"/>g<ex>ospode</ex>vê i pêti imeni tvoemu višni . <lb n="15"
                               /><hi rend="red-ink">V</hi>zvêĉati ûtromь m<ex>i</ex>l<ex>o</ex>stь
                            tvoû i <lb n="16" xml:id="lb-8-1-524-16a" next="#lb-8-1-524-16b"/>istinu
@@ -13362,10 +13362,10 @@
                            />mêrenie moe</hi>
                         <seg type="liturgical-unit" ana="#lit-unit-psalmus"><hi rend="red-ink">Stih
                               .</hi>
-                           <hi rend="red-ink">N</hi><hi>a te g<ex>ospod</ex>i upva <lb n="12"
+                           <hi rend="red-ink">N</hi>a te g<ex>ospod</ex>i upva <lb n="12"
                                  break="no"/>û da ne postiždû se v’ v<ex>ê</ex>kь pr <lb n="13"
                                  xml:id="lb-8-1-564-13a" next="#lb-8-1-564-13b"/>avdoû tvoeû
-                                 izb<ex>a</ex>vi me .</hi></seg>
+                                 izb<ex>a</ex>vi me .</seg>
                      </ab>
                   </div>
                   <div xml:id="ONB-slav-8-1-565" type="liturgical-unit" ana="#lit-unit-oratio"
@@ -13833,7 +13833,7 @@
                   <div xml:id="ONB-slav-8-1-586" type="liturgical-unit" ana="#lit-unit-introitus"
                      rendition="#right-column">
                      <ab>
-                        <lb n="1"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor"
+                        <lb n="1"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor"
                            rend="red-ink">Pês<ex>nь</ex> .</seg><hi rend="red-ink">S</hi><hi
                            rend="minuscule-letters">tvori g<ex>ospod</ex>i <lb n="2" break="no"/>sa
                            mnoû zn<ex>a</ex>m<ex>e</ex>nie v’ bl<ex>a</ex>go da u <lb n="3"
@@ -14744,7 +14744,7 @@
                            </div>
                            <div xml:id="ONB-slav-8-1-618" type="liturgical-unit" ana="#lit-unit-introitus" rendition="#left-column">
                               <ab>
-                                 <lb n="21" xml:id="lb-8-1-617-21b" prev="#lb-8-1-617-21a" break="no"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Pês<ex>nь</ex> .</seg>
+                                 <lb n="21" xml:id="lb-8-1-617-21b" prev="#lb-8-1-617-21a" break="no"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Pês<ex>nь</ex> .</seg>
                                  <hi rend="red-ink">B</hi><hi rend="minuscule-letters"><ex>ož</ex>e vь ime tvoe s
                                     <lb n="22"/>p<ex>a</ex>si me i v silê tvoei sudi me . <lb n="23"/>b<ex>ož</ex>e usl<ex>i</ex>ši m<ex>o</ex>l<ex>i</ex>t<ex>ь</ex>vь moû .</hi> 
                                     <seg type="liturgical-unit" ana="#lit-unit-psalmus #lit-unit-rubrica-minor">st<ex>i</ex>h .</seg>
@@ -14805,8 +14805,8 @@
                            </div>
                         </div>
                         </div>
+                     <pb n="56v"/>
                      <div type="page">
-                        <pb n="56v"/>
                         <div type="column">
                         <cb n="56vc" rendition="#left-column"/>
                         <div xml:id="ONB-slav-8-1-620-2" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">  
@@ -14859,7 +14859,7 @@
                         <div xml:id="ONB-slav-8-1-622" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#right-column">  
                            <ab>
                               <lb n="1" xml:id="lb-8-1-621-1-1b" prev="#lb-8-1-621-1-1a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"><ex>Naslêdovanie svetago evanĵeliê</ex> ot iv<ex>a</ex>na </seg>
-                              <lb n="2"/><hi rend="red-ink-upprecase">V</hi> <ex>o</ex>no vr<ex>ê</ex>me . <hi rend="red-ink">B</hi>lizь 
+                              <lb n="2"/><hi rend="red-ink-uppercase">V</hi> <ex>o</ex>no vr<ex>ê</ex>me . <hi rend="red-ink">B</hi>lizь 
                               <lb n="3"/>bêše  paska prazdnikь 
                               <lb n="4"/>iûdêiski i v’zide i<ex>su</ex>sь 
                               <lb n="5" break="no"/>vь er<ex>u</ex>s<ex>o</ex>l<ex>i</ex>mь . <hi rend="red-ink">I</hi> obrête v’ c
@@ -14891,8 +14891,8 @@
                         </div>
                         </div>
                   </div>
-               <div type="page">
-                  <pb n="57r"/>
+               <pb n="57r"/>
+               <div type="page">                 
                   <div type="column">
                      <cb n="57ra" rendition="#left-column"/>
                      <div xml:id="ONB-slav-8-1-622-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column"> 
@@ -14935,7 +14935,7 @@
                      <div xml:id="ONB-slav-8-1-625" type="liturgical-unit" ana="#lit-unit-communio" rendition="#left-column"> 
                         <ab>
                            <lb n="22"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Pês<ex>nь</ex> </seg>
-                           <hi rend="red-ink">Ot</hi> <hi rend="minusecule-letters">tainih’ moih’ očisti me 
+                           <hi rend="red-ink">Ot</hi> <hi rend="minuscule-letters">tainih’ moih’ očisti me 
                            <lb n="23"/>g<ex>ospod</ex>i i ot tuždih’ poĉedi raba 
                            <lb n="24" xml:id="lb-8-1-625-24a" next="#lb-8-1-625-24b"/>tvoego . </hi>
                         </ab>
@@ -15017,8 +15017,8 @@
                      </div>
                   </div>
                </div>
-                  <div type="page">
-                     <pb n="57v"/>
+                      <pb n="57v"/>
+                     <div type="page">
                      <div type="column">
                         <cb n="57vc" rendition="#left-column"/>
                         <div xml:id="ONB-slav-8-1-631-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -15103,8 +15103,8 @@
                         </div>
                      </div>
                   </div>
+                  <pb n="58r"/>
                   <div type="page">
-                     <pb n="58r"/>
                      <div type="column">
                         <cb n="58ra" rendition="#left-column"/>
                         <div xml:id="ONB-slav-8-1-633-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -15219,8 +15219,8 @@
                         </div>
                       </div>
                      </div>
+                  <pb n="58v"/>
                   <div type="page">
-                     <pb n="58v"/>
                        <div type="column">
                         <cb n="58vc" rendition="#left-column"/>
                          <div xml:id="ONB-slav-8-1-642" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -15316,8 +15316,8 @@
                         </div>
                      </div>
                   </div>
+               <pb n="59r"/>
                <div type="page">
-                  <pb n="59r"/>
                   <div type="column">
                      <cb n="59ra" rendition="#left-column"/>
                      <div xml:id="ONB-slav-8-1-646-1" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#left-column">
@@ -15397,8 +15397,8 @@
                      </div>
                   </div>
                </div>
+            <pb n="59v"/>
             <div type="page">
-               <pb n="59v"/>
                <div type="column">
                   <cb n="59vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-647-2" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -15477,8 +15477,8 @@
                   </div>
                </div>
             </div>
+            <pb n="60r"/>
             <div type="page">
-               <pb n="60r"/>
                <div type="column">
                   <cb n="60ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-648-1" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#left-column">
@@ -15597,8 +15597,8 @@
                   </div>
                </div>
             </div>
+            <pb n="60v"/>
             <div type="page">
-               <pb n="60v"/>
                <div type="column">
                   <cb n="60vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-656-2" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -15689,8 +15689,8 @@
                   </div>
                </div>
             </div>
+            <pb n="61r"/>
             <div type="page">
-               <pb n="61r"/>
                <div type="column">
                   <cb n="61ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-659-1" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#left-column">
@@ -15810,8 +15810,8 @@
                   </div>
                </div>
             </div>
+            <pb n="61v"/>
             <div type="page">
-               <pb n="61v"/>
                <div type="column">
                   <cb n="61vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-667-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -15895,8 +15895,8 @@
                   </div>
                </div>
             </div>
+            <pb n="63r"/>
             <div type="page">
-               <pb n="63r"/>
                <div type="column">
                   <cb n="63ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-669-2" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -15970,8 +15970,8 @@
                   </div>
                </div>
             </div>
+            <pb n="63v"/>
             <div type="page">
-               <pb n="63v"/>
                <div type="column">
                   <cb n="63vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-669-4" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -16042,7 +16042,7 @@
                      </ab>
                   </div>
                </div>
-               <div type="63v">
+               <div type="column">
                   <cb n="63vd" rendition="#right-column"/>
                   <div xml:id="ONB-slav-8-1-675-1" type="liturgical-unit" subtype="dies-liturgicus"
                      ana="#lit-cal-sabbato-post-dominica-quarta-in-quadragesima #lit-unit-rubrica-maior"
@@ -16098,8 +16098,8 @@
                   </div>
                </div>
             </div>
+            <pb n="64r"/>
             <div type="page">
-               <pb n="64r"/>
                <div type="column">
                   <cb n="64ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-678-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -16198,8 +16198,8 @@
                   </div>
                </div>
             </div>
+            <pb n="64v"/>
             <div type="page">
-               <pb n="64v"/>
                <div type="column">
                   <cb n="64vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-683-1" type="liturgical-unit" ana="#lit-unit-communio" rendition="#left-column">
@@ -16307,8 +16307,8 @@
                   </div>
                </div>
             </div>
+            <pb n="65r"/>
             <div type="page">
-               <pb n="65r"/>
                <div type="column">
                   <cb n="65ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-690-1" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#left-column">
@@ -16397,8 +16397,8 @@
                   </div>
                </div>
             </div>
+            <pb n="65v"/>
             <div type="page">
-               <pb n="65v"/>
                <div type="column">
                   <cb n="65vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-694" type="liturgical-unit" ana="#lit-unit-communio" rendition="#left-column">
@@ -16501,8 +16501,8 @@
                   </div>
                </div>
             </div>
+            <pb n="66r"/>
             <div type="page">
-               <pb n="66r"/>
                <div type="column">
                   <cb n="66ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-700-1" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#left-column">
@@ -16623,8 +16623,8 @@
                   </div>
                </div>
             </div>
+            <pb n="66v"/>
             <div type="page">
-               <pb n="66v"/>
                <div type="column">
                   <cb n="66vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-710-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -16708,8 +16708,8 @@
                   </div>
                </div>
             </div>
+            <pb n="67r"/>
             <div type="page">
-               <pb n="67r"/>
                <div type="column">
                   <cb n="67ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-712-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -16907,8 +16907,8 @@
                   </div>
                </div>
             </div>
+            <pb n="68r"/>
             <div type="page">
-               <pb n="68r"/>
                <div type="column">
                   <cb n="68ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-723-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -16947,7 +16947,7 @@
                </div>
                <div type="column">
                   <cb n="68rb" rendition="#right-column"/>
-                  <div xml:id="ONB-slav-8-1-723-2" type="liturgicl-unit" ana="#lit-unit-evangelium" rendition="#right-column">
+                  <div xml:id="ONB-slav-8-1-723-2" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#right-column">
                      <ab>
                         <lb n="1" xml:id="lb-8-1-723-2-1a" next="#lb-8-1-723-2-1b"/>vь o<ex>tь</ex>ci .
                      </ab>
@@ -17020,10 +17020,10 @@
                   </div>
                </div>
             </div>
+            <pb n="68v"/>
             <div type="page">
-               <pb n="68v"/>
-               <div type="page">
-                  <pb n="68vc" rendition="#left-column"/>
+               <div type="column">
+                  <cb n="68vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-731-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
                      <ab>
                         <lb n="1"/>a dostoênie č<ex>lovêča</ex>sk<ex>a</ex>go čina eže 
@@ -17110,8 +17110,8 @@
                   </div>
                </div>
             </div>
+            <pb n="69r"/>
             <div type="page">
-               <pb n="69r"/>
                <div type="column">
                   <cb n="69ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-734-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -17199,8 +17199,8 @@
                   </div>
                </div>
             </div>
+            <pb n="69v"/>
             <div type="page">
-               <pb n="69v"/>
                <div type="column">
                   <cb n="69vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-737-1" type="liturgical-unit" ana="#lit-unit-communio" rend="red-ink" rendition="#left-column">
@@ -17314,8 +17314,8 @@
                   </div>
                </div>
             </div>
+            <pb n="70r"/>
             <div type="page">
-               <pb n="70r"/>
                <div type="column">
                   <cb n="70ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-745-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -17437,8 +17437,8 @@
                   </div>
                </div>
             </div>
+            <pb n="70v"/>
             <div type="page">
-               <pb n="70v"/>
                <div type="column">
                   <cb n="70vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-755-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -17518,8 +17518,8 @@
                   </div>
                </div>
             </div>
+            <pb n="71r"/>
             <div type="page">
-               <pb n="71r"/>
                <div type="column">
                   <cb n="71ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-756-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -17593,8 +17593,8 @@
                   </div>
                </div>
             </div>
+            <pb n="71v"/>
             <div type="page">
-               <pb n="71v"/>
                <div type="column">
                   <cb n="71vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-756-3" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -17706,8 +17706,8 @@
                   </div>
                </div>
             </div>
+            <pb n="72r"/>
             <div type="page">
-               <pb n="72r"/>
                <div type="column">
                   <cb n="72ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-763-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -17794,8 +17794,8 @@
                   </div>
                </div>
             </div>
+            <pb n="72v"/>
             <div type="page">
-               <pb n="72v"/>
                <div type="column">
                   <cb n="72vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-765-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -17892,8 +17892,8 @@
                   </div>
                </div>
             </div>
+            <pb n="73r"/>
             <div type="page">
-               <pb n="73r"/>
                <div type="column">
                   <cb n="73ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-769-1" type="liturgical-unit" ana="#lit-unit-benedictio #lit-unit-oratio" rendition="#left-column">
@@ -17977,8 +17977,8 @@
                   </div>
                </div>
             </div>
+            <pb n="73v"/>
             <div type="page">
-               <pb n="73v"/>
                <div type="column">
                   <cb n="73vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-771-2" type="liturgical-unit" ana="#lit-unit-benedictio #lit-unit-oratio" rendition="#left-column">
@@ -18089,8 +18089,8 @@
                   </div>
                </div>
             </div>
+            <pb n="74r"/>
             <div type="page">
-               <pb n="74r"/>
                <div type="column">
                   <cb n="74r" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-779-1" type="liturgical-unit" ana="#lit-unit-benedictio #lit-unit-ocs-oratio" rendition="#left-column">
@@ -18201,8 +18201,8 @@
                   </div>
                </div>
             </div>
+            <pb n="74v"/>
             <div type="page">
-               <pb n="74v"/>
                <div type="column">
                   <cb n="74vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-787-1" type="liturgical-unit" ana="#lit-unit-rubrica-maior" rendition="#left-column">
@@ -18291,8 +18291,8 @@
                   </div>
                </div>
             </div>
+            <pb n="75r"/>
             <div type="page">
-               <pb n="75r"/>
                <div type="column">
                   <cb n="75ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-790-1" type="liturgical-unit" ana="#lit-unit-introitus" rendition="#left-column">
@@ -18391,8 +18391,8 @@
                   </div>
                </div>
             </div>
+            <pb n="75v"/>
             <div type="page">
-               <pb n="75v"/>
                <div type="column">
                   <cb n="75vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-795-1" type="liturgical-unit" ana="#lit-unit-tractus" rendition="#left-column">
@@ -18468,8 +18468,8 @@
                   </div>
                </div>
             </div>
+            <pb n="76r"/>
             <div type="page">
-               <pb n="76r"/>
                <div type="column">
                   <cb n="76ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-797-2" type="liturgical-unit" ana="#lit-unit-passio-secundum-Matthaeum" rendition="#left-column">
@@ -18543,8 +18543,8 @@
                   </div>
                </div>
             </div>
+            <pb n="76v"/>
             <div type="page">
-               <pb n="76v"/>
                <div type="column">
                   <cb n="76vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-797-4" type="liturgical-unit" ana="#lit-unit-passio-secundum-Matthaeum" rendition="#left-column">
@@ -18618,8 +18618,8 @@
                   </div>
                </div>
             </div>
+            <pb n="77r"/>
             <div type="page">
-               <pb n="77r"/>
                <div type="column">
                   <cb n="77ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-797-6" type="liturgical-unit" ana="#lit-unit-passio-secundum-Matthaeum" rendition="#left-column">
@@ -18693,8 +18693,8 @@
                   </div>
                </div>
             </div>
+            <pb n="77v"/>
             <div type="page">
-               <pb n="77v"/>
                <div type="column">
                   <cb n="77vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-797-8" type="liturgical-unit" ana="#lit-unit-passio-secundum-Matthaeum" rendition="#left-column">
@@ -18768,8 +18768,8 @@
                   </div>
                </div>
             </div>
+            <pb n="78r"/>
             <div type="page">
-               <pb n="78r"/>
                <div type="column">
                   <cb n="78ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-797-10" type="liturgical-unit" ana="#lit-unit-passio-secundum-Matthaeum" rendition="#left-column">
@@ -18843,8 +18843,8 @@
                   </div>
                </div>
             </div>
+            <pb n="78v"/>
             <div type="page">
-               <pb n="78v"/>
                <div type="column">
                   <cb n="78vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-797-12" type="liturgical-unit" ana="#lit-unit-passio-secundum-Matthaeum" rendition="#left-column">
@@ -18918,8 +18918,8 @@
                   </div>
                </div>
             </div>
+            <pb n="79r"/>
             <div type="page">
-               <pb n="79r"/>
                <div type="column">
                   <cb n="79ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-797-14" type="liturgical-unit" ana="#lit-unit-passio-secundum-Matthaeum" rendition="#left-column">
@@ -19003,8 +19003,8 @@
                   </div>
                </div>
             </div>
+            <pb n="79v"/>
             <div type="page">
-               <pb n="79v"/>
                <div type="column">
                   <cb n="79vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-800" type="liturgical-unit" ana="#lit-unit-praefatio" rendition="#left-column">
@@ -19116,8 +19116,8 @@
                   </div>
                </div>
             </div>
+            <pb n="80r"/>
             <div type="page">
-               <pb n="80r"/>
                <div type="column">
                   <cb n="80ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-809" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -19235,8 +19235,8 @@
                   </div>
                </div>
             </div>
+            <pb n="80v"/>
             <div type="page">
-               <pb n="80v"/>
                <div type="column">
                   <cb n="80vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-818-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -19312,8 +19312,8 @@
                   </div>
                </div>
             </div>
+            <pb n="81r"/>
             <div type="page">
-               <pb n="81r"/>
                   <div type="column">
                      <cb n="81ra" rendition="#left-column"/>
                      <div xml:id="ONB-slav-8-1-820-2" type="liturgical-unit" ana="#lit-unit-passio-secundum-Marcum" rendition="#left-column">
@@ -19387,8 +19387,8 @@
                   </div>
                </div>
             </div>
+            <pb n="81v"/>
             <div type="page">
-               <pb n="81v"/>
                <div type="column">
                   <cb n="81vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-820-4" type="liturgical-unit" ana="#lit-unit-passio-secundum-Marcum" rendition="#left-column">
@@ -19462,8 +19462,8 @@
                   </div>
                </div>
             </div>
+            <pb n="82r"/>
             <div type="page">
-               <pb n="82r"/>
                <div type="column">
                   <cb n="82ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-820-6" type="liturgical-unit" ana="#lit-unit-passio-secundum-Marcum" rendition="#left-column">
@@ -19537,8 +19537,8 @@
                   </div>
                </div>
             </div>
+            <pb n="82v"/>
             <div type="page">
-               <pb n="82v"/>
                <div type="column">
                   <cb n="82vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-820-8" type="liturgical-unit" ana="#lit-unit-passio-secundum-Marcum" rendition="#left-column">
@@ -19612,8 +19612,8 @@
                   </div>
                </div>
             </div>
+            <pb n="83r"/>
             <div type="page">
-               <pb n="83r"/>
                <div type="column">
                   <cb n="83ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-820-10" type="liturgical-unit" ana="#lit-unit-passio-secundum-Marcum" rendition="#left-column">
@@ -19687,8 +19687,8 @@
                   </div>
                </div>
             </div>
+            <pb n="83v"/>
             <div type="page">
-               <pb n="83v"/>
                <div type="column">
                   <cb n="84vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-820-12" type="liturgical-unit" ana="#lit-unit-passio-secundum-Marcum" rendition="#left-column">
@@ -19782,8 +19782,8 @@
                   </div>
                </div>
             </div>
+            <pb n="84r"/>
             <div type="page">
-               <pb n="84r"/>
                <div type="column">
                   <cb n="84ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-824-1" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#left-column">
@@ -19889,8 +19889,8 @@
                   </div>
                </div>
             </div>
+            <pb n="84v"/>
             <div type="page">
-               <pb n="84v"/>
                <div type="column">
                   <cb n="84vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-831-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -19968,8 +19968,8 @@
                   </div>
                </div>
             </div>
+            <pb n="85r"/>
             <div type="page">
-               <pb n="85r"/>
                <div type="column">
                   <cb n="85ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-832-2" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -20042,8 +20042,8 @@
                   </div>
                </div>
             </div>
+            <pb n="85v"/>
             <div type="page">
-               <pb n="85v"/>
                <div type="column">
                   <cb n="85vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-834-2" type="liturgical-unit" ana="#lit-unit-passio-secundum-Lucam" rendition="#left-column">
@@ -20117,8 +20117,8 @@
                   </div>
                </div>
             </div>
+            <pb n="86r"/>
             <div type="page">
-               <pb n="86r"/>
                <div type="column">
                   <cb n="86ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-834-4" type="liturgical-unit" ana="#lit-unit-passio-secundum-Lucam" rendition="#left-column">
@@ -20192,8 +20192,8 @@
                   </div>
                </div>
             </div>
+            <pb n="86v"/>
             <div type="page">
-               <pb n="86v"/>
                <div type="column">
                   <cb n="86vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-834-6" type="liturgical-unit" ana="#lit-unit-passio-secundum-Lucam" rendition="#left-column">
@@ -20267,8 +20267,8 @@
                   </div>
                </div>
             </div>
+            <pb n="87r"/>
             <div type="page">
-               <pb n="87r"/>
                <div type="column">
                   <cb n="87ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-834-8" type="liturgical-unit" ana="#lit-unit-passio-secundum-Lucam" rendition="#left-column">
@@ -20342,8 +20342,8 @@
                   </div>
                </div>
             </div>
+            <pb n="87v"/>
             <div type="page">
-               <pb n="87v"/>
                <div type="column">
                   <cb n="87vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-834-10" type="liturgical-unit" ana="#lit-unit-passio-secundum-Lucam" rendition="#left-column">
@@ -20417,8 +20417,8 @@
                </div>
             </div>
             </div>
+            <pb n="88r"/>
             <div type="page">
-               <pb n="88r"/>
                <div type="column">
                   <cb n="88ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-834-12" type="liturgical-unit" ana="#lit-unit-passio-secundum-Lucam" rendition="#left-column">
@@ -20511,8 +20511,8 @@
                   </div>
                </div>
             </div>
+            <pb n="88v"/>
             <div type="page">
-               <pb n="88v"/>
                <div type="column">
                   <cb n="88vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-838-1" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#left-column">
@@ -20614,8 +20614,8 @@
                   </div>
                </div>
             </div>
+            <pb n="89r"/>
             <div type="page">
-               <pb n="89r"/>
                <div type="column">
                   <cb n="89ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-844-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -20699,8 +20699,8 @@
                   </div>
                </div>
             </div>
+            <pb n="89v"/>
             <div type="page">
-               <pb n="89v"/>
                <div type="column">
                   <cb n="89vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-846-2" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -20802,8 +20802,8 @@
                   </div>
                </div>
             </div>
+            <pb n="90r"/>
             <div type="page">
-               <pb n="90r"/>
                <div type="column">
                   <cb n="90ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-852-1" type="liturgical-unit" ana="#lit-unit-rubrica-maior" rendition="#left-column" rend="red-ink">
@@ -20839,7 +20839,7 @@
                   </div>
                   <div xml:id="ONB-slav-8-1-854" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#left-column">
                      <ab>
-                        <lb n="22" break="no" xml:id="lb-8-1-853-22b" prev="#lb-8-1-853-22a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> po /brašanci/</seg> <hi rend="red-ink-bolf">N</hi>asiĉen
+                        <lb n="22" break="no" xml:id="lb-8-1-853-22b" prev="#lb-8-1-853-22a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> po /brašanci/</seg> <hi rend="red-ink-bold">N</hi>asiĉen
                         <lb n="23"/>i život’nago pitêniê m<ex>o</ex>l<ex>imь</ex> te 
                         <lb n="24" break="no"/>g<ex>ospod</ex>i b<ex>ož</ex>e n<ex>a</ex>šь . da eže vr<ex>ê</ex>m<ex>e</ex>nnê se
                         <lb n="25" break="no"/>mr’tiê n<ex>a</ex>š<ex>e</ex>go naslêduemь . be
@@ -20897,8 +20897,8 @@
                   </div>
                </div>
             </div>
+            <pb n="90v"/>
             <div type="page">
-               <pb n="90v"/>
                <div type="column">
                   <cb n="90vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-856-1" type="liturgical-unit" ana="#lit-unit-antiphona" rendition="#left-column">
@@ -20972,8 +20972,8 @@
                   </div>
                </div>
             </div>
+            <pb n="91r"/>
             <div type="page">
-               <pb n="91r"/>
                <div type="column">
                   <cb n="90ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-856-3" type="liturgical-unit" ana="#lit-unit-antiphona" rendition="#left-column">
@@ -20988,7 +20988,7 @@
                         <lb n="8"/>vi imiti vačnete meû soboû .</hi>
                         <lb n="9" break="no"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">An<ex>tifonь</ex> .</seg> <hi rend="red-ink">Pr</hi><hi rend="minuscule-letters">êbudetь v v<ex>a</ex>sь vêra upva
                         <lb n="10" break="no"/>nie lûbi troe sie vekša že si
-                        <lb n="11" break="no"/>h’ estь lûbi .</hi><seg type="liturgical-unit" ana="#lit-unit-psalmus"><hi rend="red-ink"> V<ex>e</ex>rš N</hi><hi rend="minuscule-letter"><ex>i</ex>ne že prêbiva
+                           <lb n="11" break="no"/>h’ estь lûbi .</hi><seg type="liturgical-unit" ana="#lit-unit-psalmus"><hi rend="red-ink"> V<ex>e</ex>rš N</hi><hi rend="minuscule-letters"><ex>i</ex>ne že prêbiva
                         <lb n="12"/>etь vêra up’vanie lûbvi siê
                         <lb n="13" break="no"/>tri .</hi></seg> <seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">An<ex>tifonь</ex> .</seg> <hi rend="red-ink">B</hi><hi rend="minuscule-letters">l<ex>agoslovle</ex>no budi s<ex>ve</ex>to troistv
                         <lb n="14" break="no"/>o oĉe že i neraz’dêlno edinas
@@ -21061,8 +21061,8 @@
                   </div>
                </div>
             </div>
+            <pb n="90v"/>
             <div type="page">
-               <pb n="90v"/>
                <div type="column">
                   <cb n="90vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-859-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -21149,8 +21149,8 @@
                   </div>
                </div>
             </div>
+            <pb n="92r"/>
             <div type="page">
-               <pb n="92r"/>
                <div type="column">
                   <cb n="92ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-862-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -21228,8 +21228,8 @@
                   </div>
                </div>
               </div>
+            <pb n="92v"/>
               <div type="page">
-                 <pb n="92v"/>
                  <div type="column">
                     <cb n="92vc" rendition="#left-column"/>
                     <div xml:id="ONB-slav-8-1-864-1" type="liturgical-unit" ana="#lit-unit-passio-secundum-Ioannem" rendition="#left-column">
@@ -21303,8 +21303,8 @@
                     </div>
                  </div>
               </div>
+            <pb n="93r"/>
             <div type="page">
-               <pb n="93r"/>
                <div type="column">
                   <cb n="93ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-864-3" type="liturgical-unit" ana="#lit-unit-passio-secundum-Ioannem" rendition="#left-column">
@@ -21378,8 +21378,8 @@
                   </div>
                </div>
             </div>
+            <pb n="93v"/>
             <div type="page">
-               <pb n="93v"/>
                <div type="column">
                   <cb n="93vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-864-5" type="liturgical-unit" ana="#lit-unit-passio-secundum-Ioannem" rendition="#left-column"> 
@@ -21453,8 +21453,8 @@
                   </div>
                </div>
             </div>
+            <pb n="94r"/>
             <div type="page">
-               <pb n="94r"/>
                <div type="column">
                   <cb n="94ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-864-7" type="liturgical-unit" ana="#lit-unit-passio-secundum-Ioannem" rendition="#left-column">
@@ -21528,8 +21528,8 @@
                   </div>
                </div>
             </div>
+            <pb n="94v"/>
             <div type="page">
-               <pb n="94v"/>
                <div type="column">
                   <cb n="94vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-864-9" type="liturgical-unit" ana="#lit-unit-passio-secundum-Ioannem" rendition="#left-column">
@@ -21614,8 +21614,8 @@
                   </div>
                </div>
             </div>
+            <pb n="95r"/>
             <div type="page">
-               <pb n="95r"/>
                <div type="column">
                   <cb n="95ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-866-1" type="liturgical-unit" ana="#lit-unit-orationes-solemnes" rendition="#left-column">
@@ -21689,8 +21689,8 @@
                   </div>
                </div>
             </div>
+            <pb n="95v"/>
             <div type="page">
-               <pb n="95v"/>
                <div type="column">
                   <cb n="95vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-866-3" type="liturgical-unit" ana="#lit-unit-orationes-solemnes" rendition="#left-column">
@@ -21764,8 +21764,8 @@
                   </div>
                </div>
             </div>
+            <pb n="96r"/>
             <div type="page">
-               <pb n="96r"/>
                <div type="column">
                  <cb n="9ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-866-5" type="liturgical-unit" ana="#lit-unit-orationes-solemnes" rendition="#left-column">
@@ -21846,8 +21846,8 @@
                   </div>
                </div>
             </div>
+            <pb n="96v"/>
             <div type="page">
-               <pb n="96v"/>
                <div type="column">
                   <cb n="96vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-867-2" type="liturgical-unit" ana="#lit-unit-adoratio-crucis" rendition="#left-column">
@@ -21941,8 +21941,8 @@
                   </div>
                </div>
             </div>
+            <pb n="97r"/>
             <div type="page">
-               <pb n="97r"/>
                <div type="column">
                   <cb n="97ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-867-4" type="liturgical-unit" ana="#lit-unit-adoratio-crucis" rendition="#left-column">
@@ -22016,8 +22016,8 @@
                   </div>
                </div>
             </div>
+            <pb n="96v"/>
             <div type="page">
-               <pb n="96v"/>
                <div type="column">
                   <cb n="96vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-867-6" type="liturgical-unit" ana="#lit-unit-adoratio-crucis" rendition="#left-column">
@@ -22096,8 +22096,8 @@
                   </div>
                </div>
             </div>
+            <pb n="98r"/>
             <div type="page">
-               <pb n="98r"/>
                <div type="column">
                   <cb n="98ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-868-2" type="liturgical-unit" ana="#lit-unit-ritus-communionis" rendition="#left-column">
@@ -22180,11 +22180,11 @@
                   </div>
                </div>
             </div>
+            <pb n="98v"/>
             <div type="page">
-               <pb n="98v"/>
                <div type="column">
                   <cb n="98vc" rendition="#left-column"/>
-                  <div xml:id="ONB-slav-8-1-870-2" type="liturgicl-unit" ana="#lit-unit-benedictio-novi-ignis" rendition="#left-column">
+                  <div xml:id="ONB-slav-8-1-870-2" type="liturgical-unit" ana="#lit-unit-benedictio-novi-ignis" rendition="#left-column">
                      <ab>
                         <lb n="1" break="no"/><seg type="liturgical-unit" ana="#lit-unit-oratio">prosvatilь esi moisêû t
                         <lb n="2"/>ako prosv<ex>a</ex>ti umi i sr<ex>ьd</ex>ca n<ex>a</ex>ša
@@ -22265,8 +22265,8 @@
                   </div>
                </div>
             </div>
+            <pb n="99r"/>
             <div type="page">
-               <pb n="99r"/>
                <div type="column">
                   <cb n="99ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-872-1" type="liturgical-unit" ana="#lit-unit-praeconium-paschale" rendition="#left-column">
@@ -22340,8 +22340,8 @@
                   </div>
                </div>
             </div>
+            <pb n="99v"/>
             <div type="page">
-               <pb n="99v"/>
                <div type="column">
                   <cb n="99vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-872-3" type="liturgical-unit" ana="#lit-unit-praeconium-paschale" rendition="#left-column">
@@ -22415,8 +22415,8 @@
                   </div>
                </div>
             </div>
+            <pb n="100r"/>
             <div type="page">
-               <pb n="100r"/>
                <div type="column">
                   <cb n="100ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-872-5" type="liturgical-unit" ana="#lit-unit-praeconium-paschale" rendition="#left-column">
@@ -22500,8 +22500,8 @@
                   </div>
                </div>
             </div>
+            <pb n="100v"/>
             <div type="page">
-               <pb n="100v"/>
                <div type="column">
                   <cb n="100vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-874-2" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -22575,8 +22575,8 @@
                   </div>
                </div>
             </div>
+            <pb n="101r"/>
             <div type="page">
-               <pb n="101r"/>
                <div type="column">
                   <cb n="101ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-874-4" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -22610,7 +22610,7 @@
                   </div>
                   <div xml:id="ONB-slav-8-1-875" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
                      <ab>
-                        <lb n="26" break="no"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> or<ex>a</ex>c<ex>iê</ex> .</seg> [NA MARGINI: pom<ex>o</ex>l<ex>imь</ex> pr<ex>ê</ex>k<ex>lonimь</ex>] . 
+                        <lb n="26" break="no"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> or<ex>a</ex>c<ex>iê</ex> .</seg> [NA MARGINI: pom<ex>o</ex>l<ex>imь</ex> pr<ex>ê</ex>k<ex>lonimь</ex>] . 
                         <hi rend="red-ink">B</hi><ex>ož</ex>e iže čud'no sazd <!-- marginal note -->
                         <lb n="27" break="no"/>a č<ex>lovê</ex>ka i čud'nêe izbaci da
                         <lb n="28" break="no"/>i n<ex>a</ex>mь m<ex>o</ex>leĉim' ti se protivu n
@@ -22661,8 +22661,8 @@
                   </div>
                </div>
             </div>
+            <pb n="101v"/>
             <div type="page">
-               <pb n="101v"/>
                <div type="column">
                   <cb n="101vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-876-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -22736,8 +22736,8 @@
                   </div>
                </div>
             </div>
+            <pb n="102r"/>
             <div type="page">
-               <pb n="102r"/>
                <div type="column">
                   <cb n="102ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-876-3" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -22812,8 +22812,8 @@
                   </div>
                </div>
             </div>
+            <pb n="102v"/>
             <div type="page">
-               <pb n="102v"/>
                <div type="column">
                   <cb n="102vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-876-5" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -22830,7 +22830,7 @@
                   </div>
                   <div xml:id="ONB-slav-8-1-877" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
                      <ab>
-                        <lb n="8" xml:id="lb-8-1-876-5-8b" prev="#lb-8-1-876-5-8a"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">or<ex>a</ex>ciê</seg>
+                        <lb n="8" xml:id="lb-8-1-876-5-8b" prev="#lb-8-1-876-5-8a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">or<ex>a</ex>ciê</seg>
                         <lb n="9" break="no"/><hi rend="red-ink">B</hi><ex>ož</ex>e neiz'mêr'naê silo . [NATPISANO: i] s<ex>vê</ex>tlo <!-- superscript -->
                         <lb n="10" break="no"/>sti v<ex>ê</ex>čnaê prizri m<ex>i</ex>l<ex>o</ex>st<ex>i</ex>vь n
                         <lb n="11"/>a vse cr<ex>ь</ex>kve tvoee div'nuû
@@ -22896,8 +22896,8 @@
                   </div>
                </div>
             </div>
+            <pb n="103r"/>
             <div type="page">
-               <pb n="103r"/>
                <div type="column">
                   <cb n="103ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-878-2" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -22964,7 +22964,7 @@
                   </div>
                   <div xml:id="ONB-slav-8-1-880" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#right-column">
                      <ab>
-                        <lb n="16" xml:id="lb-8-1-879-16b" prev="#lb-8-1-879-16a"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">lek'ciê</seg> 
+                        <lb n="16" xml:id="lb-8-1-879-16b" prev="#lb-8-1-879-16a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">lek'ciê</seg> 
                         <num type="ordinal" value="4" rend="red-ink">. g .</num>
                         <lb n="17"/><hi rend="red-ink">V</hi> <ex>o</ex>ni dni <hi rend="red-ink">V</hi>ьzrêvь g<ex>ospod</ex>ь na plk'
                         <lb n="18" break="no"/>eûp<ex>a</ex>tski egda bis<ex>tь</ex> v' stra
@@ -22983,8 +22983,8 @@
                   </div>
                </div>
             </div>
+            <pb n="103v"/>
             <div type="page">
-               <pb n="103v"/>
                <div type="column">
                   <cb n="103vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-880-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -23024,7 +23024,7 @@
                   </div>
                   <div xml:id="ONB-slav-8-1-881" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
                      <ab>
-                        <lb n="29" xml:id="lb-8-1-880-1-29b" prev="#lb-8-1-880-1-29a"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">or<ex>a</ex>c<ex>iê</ex> .</seg> 
+                        <lb n="29" xml:id="lb-8-1-880-1-29b" prev="#lb-8-1-880-1-29a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">or<ex>a</ex>c<ex>iê</ex> .</seg> 
                         [MARGINA] po<ex>molimь</ex> pr<ex>ê</ex>k<ex>lonimь</ex> . <!-- marginal -->
                      </ab>
                   </div>
@@ -23072,8 +23072,8 @@
                   </div>
                </div>
             </div>
+            <pb n="104r"/>
             <div type="page">
-               <pb n="104r"/>
                <div type="column">
                   <cb n="104ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-882-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -23159,8 +23159,8 @@
                   </div>
                </div>
             </div>
+            <pb n="104v"/>
             <div type="page">
-               <pb n="104v"/>
                <div type="column">
                   <cb n="104vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-884-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -23234,8 +23234,8 @@
                   </div>
                </div>
             </div>
+            <pb n="105r"/>
             <div type="page">
-               <pb n="105r"/>
                <div type="column">
                   <cb n="105ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-884-3" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -23327,8 +23327,8 @@
                   </div>
                </div>
             </div>
+            <pb n="105v"/>
             <div type="page">
-               <pb n="105v"/>
                <div type="column">
                   <cb n="105vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-887-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -23430,8 +23430,8 @@
                    </div>
                   </div>
                </div>
+            <pb n="106r"/>
             <div type="page">
-               <pb n="106r"/>
                <div type="column">
                   <cb n="106ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-892-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -23527,8 +23527,8 @@
                   </div>
                </div>
             </div>
+            <pb n="106v"/>
             <div type="page">
-               <pb n="106v"/>
                <div type="column">
                   <cb n="106vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-896-1" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#left-column">
@@ -23611,8 +23611,8 @@
                   </div>
                </div>
             </div>
+            <pb n="107r"/>
             <div type="page">
-               <pb n="107r"/>
                <div type="column">
                   <cb n="107ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-898-2" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -23686,8 +23686,8 @@
                   </div>
                </div>
             </div>
+            <pb n="107v"/>
             <div type="page">
-               <pb n="107v"/>
                <div type="column">
                   <cb n="107vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-898-4" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -23776,8 +23776,8 @@
                   </div>
                </div>
             </div>
+            <pb n="108r"/>
             <div type="page">
-               <pb n="108r"/>
                <div type="column">
                   <cb n="108ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-901-1" type="liturgical-unit" ana="#lit-unit-benedictio-fontium" rendition="#left-column">
@@ -23851,8 +23851,8 @@
                   </div>
                </div>
             </div>
+            <pb n="108v"/>
             <div type="page">
-               <pb n="108v"/>
                <div type="column">
                   <cb n="108vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-901-3" type="liturgical-unit" ana="#lit-unit-benedictio-fontium" rendition="#left-column">
@@ -23950,8 +23950,8 @@
                   </div>
                </div>
             </div>
+            <pb n="109r"/>
             <div type="page">
-               <pb n="109r"/>
                <div type="column">
                   <cb n="109ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-906-1" type="liturgical-unit" ana="#lit-unit-tractus" rendition="#left-column">
@@ -24049,8 +24049,8 @@
                   </div>
                </div>
             </div>
+            <pb n="109v"/>
             <div type="page">
-               <pb n="109v"/>
                <div type="column">
                   <cb n="109vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-911-1" type="liturgical-unit" ana="#lit-unit-communicantes" rendition="#left-column">
@@ -24139,8 +24139,8 @@
                   </div>
                </div>
             </div>
+            <pb n="110r"/>
             <div type="page">
-               <pb n="110r"/>
                <div type="column">
                   <cb n="110ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-915-1" type="liturgical-unit" ana="#lit-unit-rubrica-maior" rendition="#left-column">
@@ -24214,8 +24214,8 @@
                   </div>
                </div>
             </div>
+            <pb n="110v"/>
             <div type="page">
-               <pb n="110v"/>
                <div type="column">
                   <cb n="110vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-915-3" type="liturgical-unit" ana="#lit-unit-rubrica-maior" rendition="#left-column" rend="red-ink">
@@ -24307,8 +24307,8 @@
                   </div>
                </div>
             </div>
+            <pb n="111r"/>
             <div type="page">
-               <pb n="111r"/>
                <div type="column">
                   <cb n="111ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-919-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -24406,8 +24406,8 @@
                   </div>
                </div>
             </div>
+            <pb n="111v"/>
             <div type="page">
-               <pb n="111v"/>
                <div type="column">
                   <cb n="111vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-924-1" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#left-column">
@@ -24514,8 +24514,8 @@
                   </div>
                </div>
             </div>
+            <pb n="112r"/>
             <div type="page">
-               <pb n="112r"/>
                <div type="column">
                   <cb n="112ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-931-1" type="liturgical-unit" ana="#lit-unit-benedictio-casei-lactis-et-ovorum-in-pascha" rendition="#left-column">
@@ -24614,8 +24614,8 @@
                   </div>
                </div>
             </div>
+            <pb n="112v"/>
             <div type="page">
-               <pb n="112v"/>
                <div type="column">
                <cb n="112vc" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-936-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -24700,8 +24700,8 @@
                  </div>
                </div>
             </div>
-          <div type="page">
             <pb n="113r"/>
+          <div type="page">
               <div type="column">
                 <cb n="113ra" rendition="#left-column"/>
                  <div xml:id="ONB-slav-8-1-938-2" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -24814,8 +24814,8 @@
                 </div>
              </div>
           </div>
+            <pb n="113v"/>
           <div type="page">
-             <pb n="113v"/>
              <div type="column">
                 <cb n="113vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-946-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -24899,8 +24899,8 @@
                 </div>
              </div>
           </div>
+            <pb n="114r"/>
           <div type="page">
-             <pb n="114r"/>
              <div type="column">
                 <cb n="114ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-948-2" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -25012,8 +25012,8 @@
                 </div>
              </div>
           </div>
+            <pb n="114v"/>
           <div type="page">
-             <pb n="114v"/>
              <div type="column">
                 <cb n="114vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-956-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -25102,8 +25102,8 @@
                 </div>
              </div>
           </div>
+            <pb n="115r"/>
           <div type="page">
-             <pb n="115r"/>
              <div type="column">
                 <cb n="115ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-959-1" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#left-column">
@@ -25178,7 +25178,7 @@
                 <cb n="115rb" rendition="#right-column"/>
                 <div xml:id="ONB-slav-8-1-966-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#right-column">
                    <ab>
-                      <lb n="1"/><hi rend="red-ink-uppercae">V</hi> <ex>o</ex>ni dni . <hi rend="red-ink">A</hi>nĵ<ex>e</ex>lь g<ex>ospodь</ex>nь g<ex>lago</ex>la
+                      <lb n="1"/><hi rend="red-ink-uppercase">V</hi> <ex>o</ex>ni dni . <hi rend="red-ink">A</hi>nĵ<ex>e</ex>lь g<ex>ospodь</ex>nь g<ex>lago</ex>la
                       <lb n="2" break="no"/>k' pilipu reki . V'sta
                       <lb n="3"/>ni i idi na polu dnьe 
                       <lb n="4"/>na putь iže ishoditь
@@ -25211,8 +25211,8 @@
                 </div>
              </div>
           </div>
+            <pb n="115v"/>
           <div type="page">
-             <pb n="115v"/>
              <div type="column">
                 <cb n="115vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-966-2" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -25298,8 +25298,8 @@
                 </div>
              </div>
           </div>
+            <pb n="116r"/>
           <div type="page">
-             <pb n="116r"/>
              <div type="column">
                 <cb n="116ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-968-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -25413,8 +25413,8 @@
                 </div>
              </div>
           </div>
+            <pb n="116v"/>
           <div type="page">
-             <pb n="116v"/>
              <div type="column">
                 <cb n="116vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-976-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -25539,8 +25539,8 @@
                 </div>
              </div>
           </div>
+            <pb n="117r"/>
           <div type="page">
-             <pb n="117r"/>
              <div type="column">
                 <cb n="117ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-986-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -25630,8 +25630,8 @@
                 </div>
              </div>
           </div>
+            <pb n="117v"/>
           <div type="page">
-             <pb n="117v"/>
              <div type="column">
                 <cb n="117vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-989-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -25647,7 +25647,7 @@
                 <div xml:id="ONB-slav-8-1-990" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#left-column">
                    <ab>
                       <lb n="7" break="no"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Pês<ex>nь</ex> .</seg>
-                      <hi rend="red-ink">B</hi><hi rend=",inuscule-letters">l<ex>agoslovle</ex>nь iže pride v ime g<ex>ospod</ex>ne b
+                      <hi rend="red-ink">B</hi><hi rend="minuscule-letters">l<ex>agoslovle</ex>nь iže pride v ime g<ex>ospod</ex>ne b
                       <lb n="8" break="no"/>l<ex>agoslo</ex>vihom' vi iz' domu g<ex>ospod</ex>na b<ex>og</ex>ь g<ex>ospod</ex>ь pros
                          <lb n="9" xml:id="lb-8-1-990-9a" next="#lb-8-1-990-9b"/>vatê se namь <hi rend="red-ink">a</hi>l<ex>elu</ex>ê <hi rend="red-ink">a</hi>l<ex>elu</ex>ê . </hi>
                    </ab>
@@ -25748,8 +25748,8 @@
                 </div>
              </div>
           </div>
+            <pb n="118r"/>
           <div type="page">
-             <pb n="118r"/>
              <div type="column">
                 <cb n="118ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-998-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -25838,8 +25838,8 @@
                 </div>
              </div>
           </div>
+            <pb n="118v"/>
           <div type="page">
-             <pb n="118v"/>
              <div type="column">
                 <cb n="118vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1002" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#left-column">
@@ -25956,8 +25956,8 @@
                 </div>
              </div>
           </div>
+            <pb n="119r"/>
           <div type="page">
-             <pb n="119r"/>
              <div type="column">
                 <cb n="119ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1010-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -26073,8 +26073,8 @@
                 </div>
              </div>
           </div>
+            <pb n="119v"/>
           <div type="page">
-             <pb n="119v"/>
              <div type="column">
                 <cb n="119vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1018-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -26198,8 +26198,8 @@
                 </div>
              </div>
           </div>
+            <pb n="120r"/>
           <div type="page">
-             <pb n="120r"/>
              <div type="column">
                 <cb n="120ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1027-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -26292,8 +26292,8 @@
                 </div>
              </div>
           </div>
+            <pb n="120v"/>
           <div type="page">
-             <pb n="120v"/>
              <div type="column">
                 <cb n="120vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1031-1" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#left-column">
@@ -26405,8 +26405,8 @@
                 </div>
              </div>
           </div>
+            <pb n="121r"/>
           <div type="page">
-             <pb n="121r"/>
              <div type="column">
                 <cb n="121ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1039-1" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#left-column">
@@ -26523,8 +26523,8 @@
                 </div>
              </div>
           </div>
+            <pb n="121v"/>
           <div type="page">
-             <pb n="121v"/>
              <div type="column">
                 <cb n="121vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1048-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -26617,8 +26617,8 @@
                 </div>
              </div>
           </div>
+            <pb n="122r"/>
           <div type="page">
-             <pb n="122r"/>
              <div type="column">
                 <cb n="122ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1052-1" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#left-column">
@@ -26734,8 +26734,8 @@
                 </div>
              </div>
           </div>
+            <pb n="122v"/>
           <div type="page">
-             <pb n="122v"/>
              <div type="column">
                 <cb n="122vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1060-1" type="liturgical-unit" ana="#lit-unit-introitus" rendition="#left-column">
@@ -26827,8 +26827,8 @@
                 </div>
              </div>
           </div>
+            <pb n="123r"/>
           <div type="page">
-             <pb n="123r"/>
              <div type="column">
                 <cb n="123ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1064-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -26949,8 +26949,8 @@
                 </div>
              </div>
           </div>
+            <pb n="123v"/>
           <div type="page">
-             <pb n="123v"/>
              <div type="column">
                 <cb n="123vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1074-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -27065,8 +27065,8 @@
                 </div>
              </div>
           </div>
+            <pb n="124r"/>
           <div type="page">
-             <pb n="124r"/>
              <div type="column">
                 <cb n="124ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1082-1" type="liturgical-unit" ana="#lit-unit-rubrica-maior" rend="red-ink" rendition="#left-column">
@@ -27184,8 +27184,8 @@
                 </div>
              </div>
           </div>
+            <pb n="124v"/>
           <div type="page">
-             <pb n="124v"/>
              <div type="column">
                 <cb n="124vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1090-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -27306,8 +27306,8 @@
                 </div>
              </div>
           </div>
+            <pb n="125r"/>
           <div type="page">
-             <pb n="125r"/>
              <div type="column">
                 <cb n="125ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1099-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -27413,8 +27413,8 @@
                 </div>
              </div>
           </div>
+            <pb n="125v"/>
           <div type="page">
-             <pb n="125v"/>
              <div type="column">
                 <cb n="125vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1105-1" type="liturgical-unit" ana="#lit-unit-communicantes" rendition="#left-column">
@@ -27518,8 +27518,8 @@
                 </div>
              </div>
           </div>
+            <pb n="126r"/>
           <div type="page">
-             <pb n="126r"/>
              <div type="column">
                 <cb n="126ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1111-2" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -27644,8 +27644,8 @@
                 </div>
              </div>
           </div>
+            <pb n="126v"/>
           <div type="page">
-             <pb n="126v"/>
              <div type="column">
                 <cb n="126vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1121-1" type="liturgical-unit" ana="#lit-unit-rubrica-maior" rendition="#left-column">
@@ -27752,8 +27752,8 @@
                 </div>
              </div>
           </div>
+            <pb n="127r"/>
           <div type="page">
-             <pb n="127r"/>
              <div type="column">
                 <cb n="127ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1127-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -27810,7 +27810,7 @@
                       <lb n="18"/>šee . al<ex>elu</ex>ê hv<ex>a</ex>li v'zdaûĉe . b<ex>og</ex>u . <hi rend="red-ink">a</hi>l<ex>elu</ex>ê . 
                       <lb n="19"/>iže vi v' c<ex>êsar</ex>stvo n<ex>e</ex>b<ex>e</ex>skoe v'zva . <hi rend="red-ink">a</hi><ex>lelu</ex>ê</hi>
                       <lb n="20" break="no"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">s<ex>ti</ex>h .</seg>
-                      <seg type="liturgical-unit" ana="#lit-unit-psalmus"><hi rend="red-ink">V</hi><hi rend="minusuclle-letters">nemlite lûdi moi zakonь moi i pr
+                      <seg type="liturgical-unit" ana="#lit-unit-psalmus"><hi rend="red-ink">V</hi><hi rend="minuscule-letters">nemlite lûdi moi zakonь moi i pr
                       <lb n="21" xml:id="lb-8-1-1133-21a" next="#lb-8-1-1133-21b"/>iklonite uho v<ex>a</ex>še v gl<ex>as</ex>i ust' moihь </hi></seg>
                    </ab>
                 </div>
@@ -27884,8 +27884,8 @@
                 </div>
              </div>
           </div>
+            <pb n="127v"/>
           <div type="page">
-             <pb n="127v"/>
              <div type="column">
                 <cb n="127vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1138-2" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -28010,9 +28010,9 @@
                 </div>
              </div>
           </div>
+            <pb n="128r"/>
           <div type="page">
-             <pb n="128r"/>
-             <div type="colum">
+             <div type="column">
                 <cb n="128ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1148-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
                    <ab>
@@ -28109,8 +28109,8 @@
                 </div>
              </div>
           </div>
+            <pb n="128v"/>
           <div type="page">
-             <pb n="128v"/>
              <div type="column">
                 <cb n="128vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1153-1" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#left-column">
@@ -28229,8 +28229,8 @@
                 </div>
              </div>
           </div>
+            <pb n="129r"/>
           <div type="page">
-             <pb n="129r"/>
              <div type="column">
                 <cb n="129ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1162-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -28314,8 +28314,8 @@
                 </div>
              </div>
           </div>
+            <pb n="129v"/>
           <div type="page">
-             <pb n="129v"/>
              <div type="column">
                 <cb n="129vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1164-2" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -28444,8 +28444,8 @@
                    </div>
                 </div>
              </div>
+            <pb n="130r"/>
              <div type="page">
-                <pb n="130r"/>
                 <div type="column">
                    <cb n="130ra" rendition="#left-column"/>
                    <div xml:id="ONB-slav-8-1-1174-1" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#left-column">
@@ -28542,8 +28542,8 @@
                    </div>
                 </div>
              </div>
+            <pb n="130v"/>
              <div type="page">
-                <pb n="130v"/>
                 <div type="column">
                    <cb n="130vc" rendition="#left-column"/>
                    <div xml:id="ONB-slav-8-1-1179-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -28643,8 +28643,8 @@
                    </div>
                 </div>
              </div>
+            <pb n="131r"/>
              <div type="page">
-                <pb n="131r"/>
                 <div type="column">
                   <cb n="131ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1184-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -28774,8 +28774,8 @@
                    </div>
                 </div>
              </div>
+            <pb n="131v"/>
              <div type="page">
-                <pb n="131v"/>
                 <div type="column">
                    <cb n="131vc" rendition="#left-column"/>
                    <div xml:id="ONB-slav-8-1-1195-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -28845,7 +28845,7 @@
                    <div xml:id="ONB-slav-8-1-1199" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#right-column">
                       <ab>
                          <lb n="9"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">pês<ex>nь</ex> .</seg>
-                         <hi rend="red-ink">B</hi><hi rend="minuscele-letters">l<ex>agoslovle</ex>nь budi b<ex>og</ex>ь o<ex>ta</ex>cь v'semogi
+                         <hi rend="red-ink">B</hi><hi rend="minuscule-letters">l<ex>agoslovle</ex>nь budi b<ex>og</ex>ь o<ex>ta</ex>cь v'semogi
                          <lb n="10"/>i edinočedi s<ex>i</ex>nь b<ex>o</ex>ži i s<ex>ve</ex>ti ubo
                          <lb n="11" xml:id="lb-8-1-1199-11a" next="#lb-8-1-1199-11b"/>d<ex>u</ex>hь êko stvori s nami m<ex>i</ex>l<ex>o</ex>stь svoû </hi>
                       </ab>
@@ -28897,8 +28897,8 @@
                    </div>
                 </div>
              </div>
+            <pb n="132r"/>
              <div type="page">
-                <pb n="132r"/>
                 <div type="column">
                    <cb n="132ra" rendition="#left-column"/>
                    <div xml:id="ONB-slav-8-1-1204-1" type="liturgical-unit" ana="#lit-unit-rubrica-maior" rendition="#left-column" rend="red-ink">
@@ -28994,8 +28994,8 @@
                       </div>
                    </div>
                 </div>
+                <pb n="132v"/>
                 <div type="page">
-                   <pb n="132v"/>
                    <div type="column">
                       <cb n="132vc" rendition="#left-column"/>
                       <div xml:id="ONB-slav-8-1-1208-2" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -29107,8 +29107,8 @@
                       </div>
                    </div>
                 </div>
+               <pb n="133r"/>
                 <div type="page">
-                   <pb n="133r"/>
                    <div type="column">
                       <cb n="133ra" rendition="#left-column"/>
                       <div xml:id="ONB-slav-8-1-1215-1" type="liturgical-unit" subtype="dies-liturgicus" ana="#lit-cal-in-festo-sanctissimi-corporis-christi #lit-unit-rubrica-maior" rendition="#left-column" rend="red-ink">
@@ -29211,8 +29211,8 @@
                       </div>
                    </div>
                 </div>
+                <pb n="133v"/>
                 <div type="page">
-                   <pb n="133v"/>
                    <div type="column">
                       <cb n="133vc" rendition="#left-column"/>
                       <div xml:id="ONB-slav-8-1-1220-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -29332,8 +29332,8 @@
                       </div>
                    </div>
                 </div>
+               <pb n="134r"/>
                 <div type="page">
-                   <pb n="134r"/>
                    <div type="column">
                       <cb n="134ra" rendition="#left-column"/>
                       <div xml:id="ONB-slav-8-1-1229-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -29441,8 +29441,8 @@
                       </div>
                    </div>
                 </div>
+                <pb n="134v"/>
                 <div type="page">
-                   <pb n="134v"/>
                    <div type="column">
                       <cb n="134vc" rendition="#left-column"/>
                       <div xml:id="ONB-slav-8-1-1235-1" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#left-column">
@@ -29463,7 +29463,7 @@
                             <lb n="4"/>dinočedь i niĉь es<ex>ь</ex>mь azь viĵ'
                             <lb n="5" break="no"/>smêrenie moe i trudь moi i otp
                             <lb n="6"/>usti vse grêhi moe b<ex>ož</ex>e moi <seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">s<ex>ti</ex>h</seg>
-                            <lb n="7"/><seg type="litrugical-unit" ana="#lit-unit-psalmus"><hi rend="red-ink">K</hi> t<ex>e</ex>bê g<ex>ospod</ex>i v'zvdvig' d<ex>u</ex>šu moû b<ex>ož</ex>e moi na
+                            <lb n="7"/><seg type="liturgical-unit" ana="#lit-unit-psalmus"><hi rend="red-ink">K</hi> t<ex>e</ex>bê g<ex>ospod</ex>i v'zvdvig' d<ex>u</ex>šu moû b<ex>ož</ex>e moi na
                             <lb n="8"/>te upvah' da ne postiĵû se v<ex>ь</ex> v<ex>ê</ex>k'</seg></hi>
                          </ab>
                       </div>
@@ -29545,8 +29545,8 @@
                       </div>
                    </div>
                 </div>
+                <pb n="135r"/>
                 <div type="page">
-                   <pb n="135r"/>
                    <div type="column">
                       <cb n="135ra" rendition="#left-column"/>
                       <div xml:id="ONB-slav-8-1-1241-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -29659,8 +29659,8 @@
                       </div>
                    </div>
                 </div>
+                <pb n="135v"/>
                 <div type="page">
-                   <pb n="135v"/>
                    <div type="column">
                       <cb n="135vc" rendition="#left-column"/>
                       <div xml:id="ONB-slav-8-1-1249-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -29744,8 +29744,8 @@
                       </div>
                    </div>
                 </div>
+               <pb n="136r"/>
                 <div type="page">
-                   <pb n="136r"/>
                    <div type="column">
                       <cb n="136ra" rendition="#left-column"/>
                       <div xml:id="ONB-slav-8-1-1251-2" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -29858,8 +29858,8 @@
                       </div>
                    </div>
                 </div>
+            <pb n="136v"/>
             <div type="page">
-               <pb n="136v"/>
                <div type="column">
                   <cb n="136vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1259-1" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#left-column">
@@ -29971,8 +29971,8 @@
                   </ab>
                </div>
             </div>
+            <pb n="137r"/>
             <div type="page">
-               <pb n="137r"/>
                <div type="column">
                   <cb n="137ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1267-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -30060,8 +30060,8 @@
                   </div>
                </div>
             </div>
+            <pb n="137v"/>
             <div type="page">
-               <pb n="137v"/>
                <div type="column">
                   <cb n="137vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1270-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -30179,8 +30179,8 @@
                   </div>
                </div>
             </div>
+            <pb n="138r"/>
             <div type="page">
-               <pb n="138r"/>
                <div type="column">
                   <cb n="138ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1279-1" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#left-column">
@@ -30227,7 +30227,7 @@
                      </ab>
                   </div>
                </div>
-               <div type="columb">
+               <div type="column">
                   <cb n="138rb" rendition="#right-column"/>
                   <div xml:id="ONB-slav-8-1-1281-1" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#right-column">
                      <ab>
@@ -30292,8 +30292,8 @@
                   </div>
                </div>
             </div>
+            <pb n="138v"/>
             <div type="page">
-               <pb n="138v"/>
                <div type="column">
                   <cb n="138vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1287-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -30381,8 +30381,8 @@
                   </div>
                </div>
             </div>
+            <pb n="139r"/>
             <div type="page">
-               <pb n="139r"/>
                <div type="column">
                   <cb n="139ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1290-2" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -30490,8 +30490,8 @@
                   </div>
                </div>
             </div>
+            <pb n="139v"/>
             <div type="page">
-               <pb n="139v"/>
                <div type="column">
                   <cb n="139vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1298-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -30612,8 +30612,8 @@
                   </div>
                </div>
             </div>
+            <pb n="140r"/>
             <div type="page">
-               <pb n="140r"/>
                <div type="column">
                   <cb n="140ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1308-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -30700,8 +30700,8 @@
                   </div>
              </div>
             </div>
+            <pb n="140v"/>
             <div type="page">
-               <pb n="140v"/>
                <div type="column">
                   <cb n="140vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1311-1" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#left-column">
@@ -30815,8 +30815,8 @@
                   </div>
                </div>
             </div>
+            <pb n="141r"/>
             <div type="page">
-               <pb n="141r"/>
                <div type="column">
                   <cb n="141ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1319-1" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#left-column">
@@ -30886,7 +30886,7 @@
                   </div>
                   <div xml:id="ONB-slav-8-1-1323" type="liturgical-unit" ana="#lit-unit-communio" rendition="#right-column">
                      <ab>
-                        <lb n="10" xml:id="lb-8-1-1322-10b" prev="#lb-8-1-1322-10a"/><seg type="litrugical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">pês<ex>nь</ex></seg> 
+                        <lb n="10" xml:id="lb-8-1-1322-10b" prev="#lb-8-1-1322-10a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">pês<ex>nь</ex></seg> 
                         <hi rend="red-ink">Č</hi><hi rend="minuscule-letters">to g<ex>ospod</ex>a ot tvoego
                         <lb n="11" break="no"/>suĉastviê i pr'vini plodь tvo
                         <lb n="12"/>ihь da napl'net' se kliti tvoe
@@ -30933,8 +30933,8 @@
                   </div>
                </div>
             </div>
+            <pb n="141v"/>
             <div type="page">
-               <pb n="141v"/>
                <div type="column">
                   <cb n="141vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1327-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -31024,8 +31024,8 @@
                   </div>
                </div>
             </div>
+            <pb n="142r"/>
             <div type="page">
-               <pb n="142r"/>
                <div type="column">
                   <cb n="142ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1330-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -31139,8 +31139,8 @@
                   </div>
                </div>
             </div>
+            <pb n="142v"/>
             <div type="page">
-               <pb n="142v"/>
                <div type="column">
                   <cb n="142vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1338-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -31225,8 +31225,8 @@
                   </div>
                </div>
             </div>
+            <pb n="143r"/>
             <div type="page">
-               <pb n="143r"/>
                <div type="column">
                   <cb n="143ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1340-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -31347,8 +31347,8 @@
                   </div>
                </div>
             </div>
+            <pb n="143v"/>
             <div type="page">
-               <pb n="143v"/>
                <div type="column">
                   <cb n="143vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1349-1" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#left-column">
@@ -31450,8 +31450,8 @@
                   </div>
                </div>
             </div>
+            <pb n="144r"/>
             <div type="page">
-               <pb n="144r"/>
                <div type="column">
                   <cb n="144ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1354-1" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#left-column">
@@ -31556,8 +31556,8 @@
                   </div>
                </div>
             </div>
+            <pb n="144v"/>
             <div type="page">
-               <pb n="144v"/>
                <div type="column">
                   <cb n="144vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1360-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -31670,8 +31670,8 @@
                   </div>
                </div>
             </div>
+            <pb n="145r"/>
             <div type="page">
-               <pb n="145r"/>
                <div type="column">
                   <cb n="145ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1368-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -31687,11 +31687,11 @@
                   <div xml:id="ONB-slav-8-1-1369" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#left-column">
                      <ab>
                         <lb n="6" xml:id="lb-8-1-1368-1-6b" prev="#lb-8-1-1368-1-6a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">pês(nь)</seg>
-                        <hi rend="red-ink">K</hi><hi rend="minusucle-letters">to êko g(ospod)ь b(og)ь
+                        <hi rend="red-ink">K</hi><hi rend="minuscule-letters">to êko g(ospod)ь b(og)ь
                         <lb n="7" break="no"/>n(a)šь živei na visokih' i na smêre
                            <lb n="8" break="no"/>niê prizirae n(a) n(e)b(e)si i na z(e)mli . <hi rend="red-ink">V</hi>z'
                         <lb n="9" break="no"/>d'vizae ot z(e)mle niĉa . i ot gnoiĉa v'z
-                           <lb n="10" xml:id="lb-8-1-1389-10a" next="#lb-8-1-1369-10b"/>nose uboga .<seg type="litrugical-unit" ana="#lit-unit-dialogus"> <hi rend="red-ink">G</hi>(ospod)ь s v(a)mi <hi rend="red-ink">I</hi> z d(u)hom' tv(oimь) .</seg> </hi>
+                           <lb n="10" xml:id="lb-8-1-1389-10a" next="#lb-8-1-1369-10b"/>nose uboga .<seg type="liturgical-unit" ana="#lit-unit-dialogus"> <hi rend="red-ink">G</hi>(ospod)ь s v(a)mi <hi rend="red-ink">I</hi> z d(u)hom' tv(oimь) .</seg> </hi>
                      </ab>
                   </div>
                   <div xml:id="ONB-slav-8-1-1370" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -31767,8 +31767,8 @@
                   </div>
                </div>
             </div>
+            <pb n="144v"/>
             <div type="page">
-               <pb n="144v"/>
                <div type="column">
                   <cb n="145vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1372-1" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#left-column">
@@ -31855,7 +31855,7 @@
                   <div xml:id="ONB-slav-8-1-1376" type="liturgical-unit" ana="#lit-unit-communio" rendition="#right-column">
                      <ab>
                         <lb n="25" xml:id="lb-8-1-1375-25b" prev="#lb-8-1-1375-25a" break="no"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">pês<ex>nь</ex> .</seg>
-                        <hi rend="red-ink">Ê</hi><hi rend="minusucle-letters">di
+                        <hi rend="red-ink">Ê</hi><hi rend="minuscule-letters">di
                         <lb n="26" break="no"/>te tučnaê i piite mastь i d
                         <lb n="27" break="no"/>adite čestь têmь iže ne ugot
                         <lb n="28"/>ovaše sebê s<ex>ve</ex>t bo estь d<ex>ь</ex>nь g<ex>ospodь</ex>nь
@@ -31864,8 +31864,8 @@
                   </div>
                </div>
             </div>
+            <pb n="146r"/>
             <div type="page">
-               <pb n="146r"/>
                   <div type="column">
                      <cb n="146ra" rendition="#left-column"/>
                      <div xml:id="ONB-slav-8-1-1376-1" type="liturgical-unit" ana="#lit-unit-communio" rendition="#left-column">
@@ -31891,7 +31891,7 @@
                      <div xml:id="ONB-slav-8-1-1379" type="liturgical-unit" ana="#lit-unit-introitus" rendition="#left-column">
                         <ab>
                            <lb n="7" xml:id="lb-8-1-1378-7b" prev="#lb-8-1-1378-7a" break="no"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">pês<ex>nь</ex> .</seg>
-                           <hi rend="red-ink">D</hi><hi rend="minusucle-letters">a ve
+                           <hi rend="red-ink">D</hi><hi rend="minuscule-letters">a ve
                            <lb n="8" break="no"/>selit' se sr<ex>ьd</ex>ce iskuĉih' g<ex>ospod</ex>a . iĉit
                            <lb n="9"/>e g<ex>ospod</ex>a i utvrdite se iĉite lica ego
                            <lb n="10" break="no"/>vinu . <seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">s<ex>ti</ex>h .</seg>
@@ -31954,7 +31954,7 @@
                   <div xml:id="ONB-slav-8-1-1382" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#right-column">
                      <ab>
                         <lb n="17" xml:id="lb-8-1-1381-1-17b" prev="#lb-8-1-1381-1-17a" break="no"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">pês<ex>nь</ex></seg>
-                        <hi rend="red-ink">O</hi><hi rend="minusucle-letters">brati se g<ex>ospod</ex>i dokl
+                        <hi rend="red-ink">O</hi><hi rend="minuscule-letters">brati se g<ex>ospod</ex>i dokl
                            <lb n="18" break="no"/>ê um<ex>i</ex>lenь budi na rabi tvoe <hi rend="red-ink">G</hi><ex>ospod</ex>i pri
                         <lb n="19" xml:id="lb-8-1-1382-19a" next="#lb-8-1-1382-19b"/>bêžiĉe bis<ex>tь</ex> n<ex>a</ex>mь ot roda v rodь . </hi>
                      </ab>
@@ -31969,7 +31969,7 @@
                   <div xml:id="ONB-slav-8-1-1384" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#right-column">
                      <ab>
                         <lb n="21" xml:id="lb-8-1-1383-21b" prev="#lb-8-1-1383-21a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">pês<ex>nь</ex></seg>
-                        <lb n="22" break="no"/><hi rend="red-ink">B</hi><hi rend="minusucule-letters">l<ex>agoslo</ex>vi d<ex>u</ex>še moê g<ex>ospod</ex>a i ne zabudi v'
+                        <lb n="22" break="no"/><hi rend="red-ink">B</hi><hi rend="minuscule-letters">l<ex>agoslo</ex>vi d<ex>u</ex>še moê g<ex>ospod</ex>a i ne zabudi v'
                         <lb n="23"/>sêh' v'zdani ego i obnovit' se êko
                         <lb n="24" xml:id="lb-8-1-1384-24a" next="#lb-8-1-1384-24b"/>or'la ûnostь tvoê </hi>
                      </ab>
@@ -31987,8 +31987,8 @@
                   </div>
                </div>
             </div>
+            <pb n="146v"/>
             <div type="page">
-               <pb n="146v"/>
                <div type="column">
                   <cb n="146vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1386" type="liturgical-unit" ana="#lit-unit-communio" rendition="#left-column">
@@ -32105,8 +32105,8 @@
                   </div>
                </div>
             </div>
+            <pb n="147r"/>
             <div type="page">
-               <pb n="147r"/>
                <div type="column">
                   <cb n="147ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1394-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -32149,7 +32149,7 @@
                      </ab>
                   </div>
                </div>
-               <div>
+               <div type="column">
                   <cb n="147rb" rendition="#right-column"/>
                   <div xml:id="ONB-slav-8-1-1395-1" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#right-column">
                      <ab>
@@ -32206,8 +32206,8 @@
                   </div>
                </div>
             </div>
+            <pb n="147v"/>
             <div type="page">
-               <pb n="147v"/>
                <div type="column">
                   <cb n="147vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1399-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -32309,8 +32309,8 @@
                   </div>
                </div>
             </div>
+            <pb n="148r"/>
             <div type="page">
-               <pb n="148r"/>
                <div type="column">
                   <cb n="148ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1405-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -32394,8 +32394,8 @@
                   </div>
                </div>
             </div>
+            <pb n="148v"/>
             <div type="page">
-               <pb n="148v"/>
                <div type="column">
                   <cb n="148vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1407-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -32507,8 +32507,8 @@
                   </div>
                </div>
             </div>
+            <pb n="149r"/>
             <div type="page">
-               <pb n="149r"/>
                <div type="column">
                   <cb n="149ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1415-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -32592,8 +32592,8 @@
                   </div>
                </div>
             </div>
+            <pb n="149v"/>
             <div type="page">
-               <pb n="149v"/>
                <div type="column">
                   <cb n="149vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1417-2" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -32714,8 +32714,8 @@
                   </div>
                </div>
             </div>
+            <pb n="150r"/>
             <div type="page">
-               <pb n="150r"/>
                <div type="column">
                   <cb n="150ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1427-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -32822,8 +32822,8 @@
                   </div>
                </div>
             </div>
+            <pb n="150v"/>
             <div type="page">
-               <pb n="150v"/>
                <div type="column">
                   <cb n="150vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1434-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -32921,8 +32921,8 @@
                   </div>
                </div>
             </div>
+            <pb n="151r"/>
             <div type="page">
-               <pb n="151r"/>
                <div type="column">
                   <cb n="151ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1439-1" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#left-column">
@@ -33019,7 +33019,7 @@
                <div xml:id="ONB-slav-8-1-1446" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#right-column">
                   <ab>
                      <lb n="21" xml:id="lb-8-1-1445-1-21b" prev="#lb-8-1-1445-1-21a" break="no"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Pês<ex>nь</ex> .</seg>
-                     <hi rend="red-ink">D</hi><hi rend="minusucule-letters">a se ispra
+                     <hi rend="red-ink">D</hi><hi rend="minuscule-letters">a se ispra
                      <lb n="22" break="no"/>vitь m<ex>o</ex>lit<ex>ь</ex>vь moê êko i kad
                      <lb n="23" break="no"/>ilo prêd' toboû g<ex>ospod</ex>i . <hi rend="red-ink">V</hi>z'd
                      <lb n="24" break="no"/>ênie ruku moeû žr'tva v
@@ -33037,8 +33037,8 @@
                   </ab>
                </div>
             </div>
-         <div type="page">
             <pb n="151v"/>
+         <div type="page">
             <div type="column">
                <cb n="151vc" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-1447-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -33100,7 +33100,7 @@
                <div xml:id="ONB-slav-8-1-1448" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#right-column">
                   <ab>
                      <lb n="16" xml:id="lb-8-1-1447-2-16b" prev="#lb-8-1-1447-2-16a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">Pês<ex>nь</ex> .</seg>
-                     <hi rend="red-ink">A</hi><hi rend="minusucle-letters">ĉe poidu 
+                     <hi rend="red-ink">A</hi><hi rend="minuscule-letters">ĉe poidu 
                      <lb n="17"/>posrêdê skr'bi živiši me i na
                      <lb n="18" xml:id="lb-8-1-1448-18a" next="#lb-8-1-1448-18b"/>gnêvь vrag' moih' pro<ex>s</ex>tri ruku tvoû . </hi>
                   </ab>
@@ -33134,8 +33134,8 @@
                </div>
             </div>
          </div>
-         <div type="page">
             <pb n="152r"/>
+         <div type="page">
             <div type="column">
                <cb n="152ra" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-1451-1" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#left-column">
@@ -33241,8 +33241,8 @@
                </div>
             </div>
          </div>
-         <div type="page">
             <pb n="152v"/>
+         <div type="page">
             <div type="column">
                <cb n="152vc" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-1457-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -33311,14 +33311,14 @@
                </div>
             </div>
          </div>
-         <div type="page">
             <pb n="152v"/>
+         <div type="page">
             <div type="column">
                <cb n="152vd" rendition="#right-column"/>
                <div xml:id="ONB-slav-8-1-1463-1" type="liturgical-unit" ana="#lit-unit-introitus" rendition="#right-column">
                   <ab>
                      <lb n="1" break="no"/><hi rend="minuscule-letters">g<ex>ospod</ex>ь vsêh' ti esi <seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">s<ex>ti</ex>h .</seg>
-                     <seg type="litrugical-unit" ana="#lit-unit-psalmus"><hi rend="red-ink">B</hi><ex>la</ex>ž<ex>e</ex>ni nepo<ex>ro</ex>
+                     <seg type="liturgical-unit" ana="#lit-unit-psalmus"><hi rend="red-ink">B</hi><ex>la</ex>ž<ex>e</ex>ni nepo<ex>ro</ex>
                      <lb n="2"/>čni v' puti hodeĉe v z<ex>a</ex>k<ex>o</ex>ni g<ex>ospod</ex>ni</seg></hi>
                   </ab>
                </div>
@@ -33361,8 +33361,8 @@
                </div>
             </div>
          </div>
-         <div type="page">
             <pb n="153r"/>
+         <div type="page">
             <div type="column">
                <cb n="153ra" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-1465-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -33451,8 +33451,8 @@
                </div>
             </div>
          </div>
-         <div type="page">
             <pb n="153v"/>
+         <div type="page">
             <div type="column">
                <cb n="153vc" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-1468-1" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#left-column">
@@ -33560,8 +33560,8 @@
                </div>
             </div>
          </div>
-         <div type="page">
             <pb n="154r"/>
+         <div type="page">
             <div type="column">
                <cb n="154ra" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-1476-1" type="liturgical-unit" ana="#lit-unit-graduale" rendition="#left-column">
@@ -33674,8 +33674,8 @@
                </div>
             </div>
          </div>
-         <div type="page">
             <pb n="154v"/>
+         <div type="page">
             <div type="column">
                <cb n="154vc" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-1485-1" type="liturgical-unit" ana="#lit-unit-lectio" rendition="#left-column">
@@ -33764,8 +33764,8 @@
                </div>
             </div>
          </div>
+            <pb n="155r"/>
             <div type="page">
-               <pb n="155r"/>
                <div type="column">
                   <cb n="155ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1488-1" type="liturgical-unit" ana="#lit-unit-offertorium" rendition="#left-column">
@@ -33877,8 +33877,8 @@
                   </div>
                </div>
             </div>
+            <pb n="155v"/>
             <div type="page">
-               <pb n="155v"/>
                <div type="column">
                   <cb n="155vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1496-1" type="liturgical-unit" ana="#lit-unit-evangelium" rendition="#left-column">
@@ -33961,8 +33961,8 @@
                   </div>
                </div>
             </div>
+            <pb n="156r"/>
             <div type="page">
-               <pb n="156r"/>
                <div type="column">
                   <cb n="156ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1499" type="liturgical-unit" ana="#lit-unit-orationes-ante-missam" rendition="#left-column">
@@ -34034,8 +34034,8 @@
                   </div>
                </div>
             </div>
+            <pb n="156v"/>
             <div type="page">
-               <pb n="156v"/>
                <div type="column">
                   <cb n="156vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1500" type="liturgical-unit" ana="#lit-unit-ordo-missae" rendition="#left-column">
@@ -34109,8 +34109,8 @@
                   </div>
                </div>
             </div>
+            <pb n="157r"/>
             <div type="page">
-               <pb n="157r"/>
                <div type="column">
                   <cb n="157ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1500-2" type="liturgical-unit" ana="#lit-unit-ordo-missae" rendition="#left-column">
@@ -34184,8 +34184,8 @@
                   </div>
                </div>
             </div>
+            <pb n="157v"/>
             <div type="page">
-               <pb n="157v"/>
                <div type="column">
                   <cb n="157vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1500-4" type="liturgical-unit" ana="#lit-unit-ordo-missae" rendition="#left-column">
@@ -34259,8 +34259,8 @@
                   </div>
                </div>
             </div>
+            <pb n="158r"/>
             <div type="page">
-               <pb n="158r"/>
                <div type="column">
                   <cb n="158ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1500-6" type="liturgical-unit" ana="#lit-unit-ordo-missae" rendition="#left-column">
@@ -34351,8 +34351,8 @@
                   </div>
                </div>
             </div>
+            <pb n="158v"/>
             <div type="page">
-               <pb n="158v"/>
                <div type="column">
                   <cb n="158vc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1504-1" type="liturgical-unit" ana="#lit-unit-praefatio" rendition="#left-column">
@@ -34426,8 +34426,8 @@
                   </div>
                </div>
             </div>
+            <pb n="159r"/>
             <div type="page">
-               <pb n="159r"/>
                <div type="column">
                   <cb n="159ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1504-3" type="liturgical-unit" ana="#lit-unit-praefatio" rendition="#left-column">
@@ -34501,9 +34501,9 @@
                   </div>
                </div>
             </div>
+            <pb n="159v"/>
             <div type="page">
-               <pb n="159v"/>
-               <div n="column">
+               <div type="column">
                   <cb n="159vc"/>
                   <div xml:id="ONB-slav-8-1-1505" type="liturgical-unit" ana="#lit-unit-crusifixio" rendition="#left-column">
                      <ab>
@@ -34518,8 +34518,8 @@
                   </div>
                </div>
             </div>
+            <pb n="160r"/>
             <div type="page">
-               <pb n="160r"/>
                <div type="column">
                   <cb n="160ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1506" type="liturgical-unit" ana="#lit-unit-vultus-christi" rendition="#left-column">
@@ -34535,8 +34535,8 @@
                   </div>
                </div>
                </div>
+            <pb n="160v"/>
             <div type="page">
-               <pb n="160v"/>
                <div type="column">
                   <cb n="160rc" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1507" type="liturgical-unit" ana="#lit-unit-rubrica-maior" rendition="#left-column">
@@ -34614,8 +34614,8 @@
                </div>
                </div>
             </div>
+            <pb n="161r"/>
            <div type="page">
-             <pb n="161r"/>
                <div type="column">
                  <cb n="161ra" rendition="#left-column"/>
                   <div xml:id="ONB-slav-8-1-1508-2" type="liturgical-unit" ana="#lit-unit-canon-missae" rendition="#left-column">
@@ -34689,10 +34689,10 @@
                   </div>
                </div>
            </div>
+            <pb n="161v"/>
            <div type="page">
-              <pb n="161c"/>
               <div type="column">
-                 <cb n="161va" rendition="#left-column"/>
+                 <cb n="161vc" rendition="#left-column"/>
                  <div xml:id="ONB-slav-8-1-1508-4" type="liturgical-unit" ana="#lit-unit-canon-missae" rendition="#left-column">
                     <ab>
                        <lb n="1" break="no"/>† S(ve)ti žiz'ni vêčnie . I ča
@@ -34764,8 +34764,8 @@
                  </div>
               </div>
            </div>
+            <pb n="162r"/>
            <div type="page">
-              <pb n="162r"/>
               <div type="column">
                  <cb n="162ra" rendition="#left-column"/>
                  <div xml:id="ONB-slav-8-1-1508-6" type="liturgical-unit" ana="#lit-unit-canon-missae" rendition="#left-column">
@@ -34844,8 +34844,8 @@
                  </div>
               </div>
            </div>
+            <pb n="162v"/>
            <div type="page">
-              <pb n="162v"/>
               <div type="column">
                  <cb n="162vc" rendition="#left-column"/>
                  <div xml:id="ONB-slav-8-1-1509-2" type="liturgical-unit" ana="#lit-unit-ritus-communionis" rendition="#left-column">
@@ -34919,8 +34919,8 @@
                  </div>
               </div>
            </div>
+            <pb n="163r"/>
            <div type="page">
-              <pb n="163r"/>
               <div type="column">
                  <cb n="163ra" rendition="#left-column"/>
                  <div xml:id="ONB-slav-8-1-1509-4" type="liturgical-unit" ana="#lit-unit-ritus-communionis" rendition="#left-column">
@@ -34999,8 +34999,8 @@
                  </div>
               </div>
            </div>
+            <pb n="163v"/>
            <div type="page">
-              <pb n="163v"/>
               <div type="column">
                  <cb n="163vc" rendition="#left-column"/>
                  <div xml:id="ONB-slav-8-1-1510-2" type="liturgical-unit" ana="#lit-unit-ritus-conclusionis" rendition="#left-column">
@@ -35085,8 +35085,8 @@
                  </div>
               </div>
            </div>
+            <pb n="164r"/>
           <div type="page">
-             <pb n="164r"/>
              <div type="column">
                 <cb n="164ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1514" type="liturgical-unit" subtype="dies-liturgicus" ana="#lit-cal-missa-in-honorem-angelorum #lit-unit-rubrica-maior" rendition="#left-column" rend="red-ink">
@@ -35220,8 +35220,8 @@
                 </div>
              </div>
           </div>
+            <pb n="164v"/>
           <div type="page">
-             <pb n="164v"/>
              <div type="column">
                 <cb n="164vc" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1527-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -35342,8 +35342,8 @@
                 </div>
              </div>
           </div>
+            <pb n="165r"/>
           <div type="page">
-             <pb n="165r"/>
              <div type="column">
                 <cb n="165ra" rendition="#left-column"/>
                 <div xml:id="ONB-slav-8-1-1537-1" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#left-column">
@@ -35464,8 +35464,8 @@
                 </div>
              </div>
           </div>
-         <div type="page">
             <pb n="165v"/>
+         <div type="page">
             <div type="column">
                <cb n="165vc" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-1548-1" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#left-column">
@@ -35581,8 +35581,8 @@
                </div>
             </div>
          </div>
-         <div type="page">
             <pb n="166r"/>
+         <div type="page">
             <div type="column">
                <cb n="166ra" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-1557-1" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#left-column">
@@ -35687,8 +35687,8 @@
                </div>
             </div>
          </div>
-         <div type="page">
             <pb n="166v"/>
+         <div type="page">
             <div type="column">
                <cb n="166vc" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-1565-1" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#left-column">
@@ -35828,8 +35828,8 @@
                </div>
             </div>
          </div>
-         <div type="page">
             <pb n="167r"/>
+         <div type="page">
             <div type="column">
                <cb n="167ra" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-1579-1" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
@@ -35944,8 +35944,8 @@
                </div>
             </div>
          </div>
-         <div type="page">
             <pb n="167v"/>
+         <div type="page">
             <div type="column">
                <cb n="167vc" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-1588-1" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#left-column">
@@ -36088,8 +36088,8 @@
                </div>
             </div>
          </div>
-         <div type="page">
             <pb n="168r"/>
+         <div type="page">
             <div type="column">
                <cb n="168ra" rendition="#left-column"/>
                <div xml:id="ONB-slav-8-1-1604" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#left-column">
