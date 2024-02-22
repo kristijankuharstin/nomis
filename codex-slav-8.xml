@@ -1153,7 +1153,97 @@
                      <category xml:id="lit-cal-missa-pro-defunctis" xml:lang="la"
                         n="Missa pro defunctis">
                         <equiv xml:id="misa-siê-vsagda-za-mrtvih" xml:lang="ocs"
-                           n="Misa siê vsagda za mr’tvih’ "/>  
+                           n="Misa siê vsagda za mr’tvih’"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-in-die-tertio-septimo-trigesimo-vel-quadragesimo-depositionis-defuncti" xml:lang="la"
+                        n="Missa in die tertio, septimo, trigesimo vel quadragesimo depositionis defuncti">
+                        <equiv xml:id="misa-treti-danь-ili-·ž·-ili-·ĵ·-ili-·k·-ni-nizloženiê-umrvših" xml:lang="ocs"
+                           n="Misa treti danь ili ·ž˜· ili ·ĵ˜· ili ·k˜· ni nizloženiê umr’vših’"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-defuncto-episcopo" xml:lang="la"
+                        n="Missa pro defuncto episcopo">
+                        <equiv xml:id="misa-za-umrvšago-biskupa" xml:lang="ocs"
+                           n="Misa za umr’všago biskupa"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-defuncto-episcopo-seu-sacerdote" xml:lang="la"
+                        n="Missa pro defuncto episcopo seu sacerdote">
+                        <equiv xml:id="misa-za-dušu-umrvšago-biskupa-ili-erêê" xml:lang="ocs"
+                           n="Misa za dušu umr’všago biskupa ili erêê"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-defuncto-sacerdote" xml:lang="la"
+                        n="Missa pro defuncto sacerdote">
+                        <equiv xml:id="misa-za-popi-umrvšee" xml:lang="ocs"
+                           n="Misa za popi umr’všee"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-uno-defuncto" xml:lang="la"
+                        n="Missa pro uno defuncto">
+                        <equiv xml:id="misa-za-dušu-ednogo-umrvšago" xml:lang="ocs"
+                           n="Misa za d(u)šu ednogo umr’všago"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-una-defuncta" xml:lang="la"
+                        n="Missa pro una defuncta">
+                        <equiv xml:id="misa-za-ženu-umrvših" xml:lang="ocs"
+                           n="Misa za ženu umr’vših’"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-defunctis-fratribus" xml:lang="la"
+                        n="Missa pro defunctis fratribus">
+                        <equiv xml:id="misa-za-bratiju-umrvšu" xml:lang="ocs"
+                           n="Misa za bratiju umr’v’šu"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-in-coemeterio-cantanda" xml:lang="la"
+                        n="Missa in coemeterio cantanda">
+                        <equiv xml:id="misa-za-duše-počivajuĉih-v-cimiteri" xml:lang="ocs"
+                           n="Misa za duše počivajuĉih’ v’ cimiteri"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-in-anniversario" xml:lang="la"
+                        n="Missa in anniversario">
+                        <equiv xml:id="misa-vь-ophodni-danь-lêta" xml:lang="ocs"
+                           n="Misa vь ophodni danь lêta"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-patre-et-matre" xml:lang="la"
+                        n="Missa pro patre et matre">
+                        <equiv xml:id="misa-za-dušu-otьca-i-matere" xml:lang="ocs"
+                           n="Misa za d(u)šu o(tь)ca i matere"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-omnibus-defunctis" xml:lang="la"
+                        n="Missa pro omnibus defunctis">
+                        <equiv xml:id="misa-za-vse-umrvšee" xml:lang="ocs"
+                           n="Misa za vse umr’všee"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-generalis-pro-omnibus-fidelibus-defunctis" xml:lang="la"
+                        n="Missa generalis pro omnibus fidelibus defunctis">
+                        <equiv xml:id="misa-nьvlaĉna-za-vse-vêrniê-umrvšee" xml:lang="ocs"
+                           n="Misa nьvlaĉna za v’se vêr’niê umrvšee"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-alia-pro-omnibus-defunctis" xml:lang="la"
+                        n="Missa alia pro omnibus defunctis">
+                        <equiv xml:id="misa-·b·-za-vse-umrvšee" xml:lang="ocs"
+                           n="Misa ·b˜· za v’se umr’všee"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-tertia-pro-pluribus-defunctis" xml:lang="la"
+                        n="Missa tertia pro pluribus defunctis">
+                        <equiv xml:id="misa-·v·-za-mnogo-umrvšihь" xml:lang="ocs"
+                           n="Misa ·v˜· za mnogo umr’všihь"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-alia-pro-pluribus-defunctis" xml:lang="la"
+                        n="Missa alia pro pluribus defunctis">
+                        <equiv xml:id="misa-·b·-za-mnoge-umrvšee" xml:lang="ocs"
+                           n="Misa ·b˜· (=2) za mnoge umr’všee"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-defuncto-nuper-baptizato" xml:lang="la"
+                        n="Missa pro defuncto nuper baptizato">
+                        <equiv xml:id="misa-za-umrvšago-treti-danь-krĉena" xml:lang="ocs"
+                           n="Misa za umr’všago treti d(a)nь kr’ĉena"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-desiderantibus-penitentiam" xml:lang="la"
+                        n="Missa pro desiderantibus penitentiam">
+                        <equiv xml:id="misa-za-želêjuĉih-pokore" xml:lang="ocs"
+                           n="Misa za želêjuĉih’ pokore"/>  
+                     </category>
+                     <category xml:id="lit-cal-missa-pro-cuius-anima-dubitatur" xml:lang="la"
+                        n="Missa pro cuius anima dubitatur">
+                        <equiv xml:id="misa-za-dušu-ot-koga-dvoit-se-ot-spaseniê" xml:lang="ocs"
+                           n="Misa za dušu ot koga d’voit’ se ot spaseniê"/>  
                      </category>
                    
                      
