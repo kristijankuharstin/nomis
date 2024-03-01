@@ -10,13 +10,17 @@
             <title>Missale of Count Novak</title>
             <title type="alternative" xml:lang="hr">Misal kneza Novaka</title>
             <respStmt>
-               <resp>edited by</resp>
-               <name>Kristijan Kuhar</name>
+               <resp>transcribed by</resp>
                <name>Ivan Botica</name>
-               <name>Silvio Košćak</name>
                <name>Sandra Požar</name>
                <name>Andrea Radošević</name>
+            </respStmt>
+            <respStmt>
+               <resp>edited by</resp>
+               <name>Kristijan Kuhar</name>
+               <name>Silvio Košćak</name>
                <name>Erich Renhart</name>
+               <name>Thomas Klampfl</name>
                <!-- add names of team for transcription and team for encoding -->
             </respStmt>
          </titleStmt>
@@ -1270,7 +1274,7 @@
                replacementPattern="http://www.bibelwissenschaft.de/bibelstelle/$2$3,$4/$1">
                <p>References in relation to the biblical book, chapter, verse, sc. Gn:1:1; or
                   Gn:1:1-3; or Gn:1:1.3 for verses which are following but not consecutively. </p>
-               <p>we are using the following abbreviations for the biblic    al books – according to
+               <p>we are using the following abbreviations for the biblical books – according to
                   the Vulgata text: Gn, Ex, Lv, Nm, Dt, Ios, Idc, Rt, 1Sm <ex>=1Rg</ex>, 2Sm
                      <ex>=2Rg</ex>, 3Rg, 4Rg, 1Par, 2Par, 1Esr, 2Esr</p>
             </cRefPattern>

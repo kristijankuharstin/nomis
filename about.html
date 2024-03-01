@@ -13,6 +13,8 @@
     <title>Missal of Duke Novak</title>
     <link rel="stylesheet" id="fundament-styles"  href="./css/fundament.min.css" type="text/css"/>
 	<link rel="stylesheet" href="./css/formats.css" type="text/css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/js/all.min.js" integrity="sha512-LW9+kKj/cBGHqnI4ok24dUWNR/e8sUD8RLzak1mNw5Ja2JYCmTXJTF5VpgFSw+VoBfpMvPScCo2DnKTIUjrzYw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   </head>
   <body class="home">
     <div class="hfeed site" id="page">
@@ -30,8 +32,25 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
               <!-- Your menu goes here -->
               <ul id="main-menu" class="navbar-nav">
-                <li class="nav-item active"><a title="Home" href="./index.html" class="nav-link">Home</a></li>
-                <li class="nav-item"><a title="Simplified Transcription" href="simplified-transcription.html" class="nav-link">Simplified Transcription</a></li>
+                <li class="nav-item active"><a title="Home" href="index.html" class="nav-link">Home</a></li>
+                <li class="nav-item dropdown">
+                  <a title="Transcriptions" href="critical-transcription.html" data-toggle="dropdown" class="nav-link dropdown-toggle">Transcriptions <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li class="nav-item dropdown-submenu">
+                      <a title="Critical Transcription" href="critical-transcription.html" class="nav-link">Critical Transcription</a>
+                      <a title="Simplified Transcription" href="simplified-transcription.html" class="nav-link">Simplified Transcription</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="nav-item dropdown">
+                  <a title="Analysis" href="liturgical-calendar.html" data-toggle="dropdown" class="nav-link dropdown-toggle">Analysis <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li class="nav-item dropdown-submenu">
+                      <a title="Liturgical Calendar" href="liturgical-calendar.html" class="nav-link">Liturgical Calendar</a>
+                      <a title="Liturgical Units" href="liturgical-units.html" class="nav-link">Liturgical Units</a>
+                    </li>
+                  </ul>
+                </li>
                 <li class="nav-item"><a title="About" href="about.html" class="nav-link">About</a></li>
               </ul>
               <form class="form-inline my-2 my-lg-0 navbar-search-form" method="get" action="/" role="search">
@@ -56,7 +75,8 @@
         <!-- #wrapper-hero-content -->
 		<div class="wrapper-hero-content-sub wrapper" id="wrapper-hero-content-sub" style="text-align:center;background-color:#ab5c4f;max-width:1199px;margin:0 auto;color:white;">
 			<h1>Missal of Duke Novak - Misal kneza Novaka</h1>
-			<p>This is a page about the Missal of Duke Novak. Here you find a transcription of this text in a critical and a simplified version.</p>
+		  <p class="set-margin-header">This is a page about the Missale of Count Novak. Here you find a transcription of
+		    this text in a critical and a simplified version. Furthermore, you can navigate through the text by liturgical units and according to the liturgical calendar.</p>
 		</div>
       </div>
       <div class="wrapper" id="index-wrapper">
@@ -70,6 +90,26 @@
             <p class="title">About</p>
          </div>
          <div id="main-content-body" style="font-size:16pt;">
+           <p class="subtitle">Team</p>
+           <p class="main-content-body-paragraph"><span class="literature-author">Kristijan Kuhar</span></p>
+           <p class="main-content-body-subparagraph">Content</p>
+           <p class="main-content-body-paragraph"><span class="literature-author">Ivan Botica</span></p>
+           <p class="main-content-body-subparagraph">Content</p>
+           <p class="main-content-body-paragraph"><span class="literature-author">Silvio Košćak</span></p>
+           <p class="main-content-body-subparagraph">Content</p>
+           <p class="main-content-body-paragraph"><span class="literature-author">Sandra Požar</span></p>
+           <p class="main-content-body-subparagraph">Content</p>
+           <p class="main-content-body-paragraph"><span class="literature-author">Andrea Radošević</span></p>
+           <p class="main-content-body-subparagraph">Content</p>
+           <p class="main-content-body-paragraph"><span class="literature-author">Erich Renhart</span></p>
+           <p class="main-content-body-subparagraph">Content</p>
+           <p class="main-content-body-paragraph"><span class="literature-author">Thomas Klampfl</span></p>
+           <p class="main-content-body-subparagraph">Mag. theol. Thomas Klampfl BSc supported the project by creating of the homepage and of the transformations of the underlying data.</p>
+           <p class="main-content-body-subparagraph">Homepage: <a href="https://www.oeaw.ac.at/acdh/team/current-team/thomas-klampfl" title="Homepage Thomas Klampfl"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+           <p class="subtitle">Sources</p>
+           <p class="main-content-body-paragraph">The sources of the project are available on Github: <a href="https://github.com/kristijankuharstin/nomis" title="Sources on Github"><i class="fa-solid fa-arrow-up-right-from-square"></i></a></p>
+           <p class="subtitle">Funding</p>
+           <p class="main-content-body-paragraph">The project was funded by ...</p>
          </div>
                 </div>
               </main>
@@ -90,37 +130,36 @@
             <i data-feather="message-circle"></i> CONTACT
           </div>
           <div class="row">
-            <div class="footer-widget col-lg-1 col-md-2 col-sm-2 col-xs-6 col-3">
-              <div class="textwidget custom-html-widget">
-                <a href="https://www.info.hazu.hr"><img src="./pictures/croatian-academy-logo.svg" class="image" alt="Logo" style="max-width: 100%; height: auto; background-color:#740D0D;" title="Croatian Academy Logo"></a>
-              </div>
+            <div class="footer-widget col-lg-3 col-md-2 col-sm-2 col-xs-6 col-3">
+              <div class="textwidget custom-html-widget"><a href="https://stin.hr/"><img src="./pictures/stin-logo.png" class="image" alt="Logo" style="background-color: white;" title="Old Church Slavonic Institute, Zagreb"/></a></div>
             </div>
-            <!-- .footer-widget -->
-            <div class="footer-widget col-lg-4 col-md-4 col-sm-6 col-9">
+            <div class="footer-widget col-lg-3 col-md-2 col-sm-2 col-xs-6 col-3">
               <div class="textwidget custom-html-widget">
                 <p>
-					Croatian Academy of Science and Arts
-					<br>
-					Trg Nikole Šubića Zrinskog 11
-					<br>
-					10000 Zagreb
-				</p>
-				<p>
-					Central: +385 (0)1 48 95 111
-					<br>
-					Fax: +385 (0)1 48 19 979
-					<br>
-					E-mail: <a href="mailto:kabpred@hazu.hr">kabpred@hazu.hr</a>
+                  Old Church Slavonic Institute
+                  <br/>
+                  Demetrova 11
+                  <br/>
+                  10000 Zagreb
                 </p>
+                <p>
+                  Central: +385 1 4851380
+                  <br/>
+                  E-mail: <a href="mailto:info@stin.hr">info@stin.hr</a></p>
               </div>
             </div>
-            <!-- .footer-widget -->
-            <div class="footer-widget col-lg-3 col-md-4 col-sm-4 ml-auto">
+            <div class="footer-widget col-lg-3 col-md-2 col-sm-2 col-xs-6 col-3">
+              <div class="textwidget custom-html-widget"><a href="https://vestigia.uni-graz.at"><img src="./pictures/vestigia-logo.jpg" class="image" alt="Logo" title="Vestigia Manuscript Research Centre"/></a></div>
+            </div>
+            <div class="footer-widget col-lg-3 col-md-2 col-sm-2 col-xs-6 col-3">
               <div class="textwidget custom-html-widget">
-                <a href="https://vestigia.uni-graz.at"><img src="./pictures/vestigia-logo.jpg" class="image" alt="Logo" style="max-width: 50%; height: auto;" title="Vestigia Manuscript Research Centre"></a>
+                <p>
+                  VESTIGIA - Zentrum für die Erforschung des Buch- und Schrifterbes
+                </p>
+                <p>
+                  E-mail: <a href="mailto:birgit.roth@uni-graz.at">birgit.roth@uni-graz.at</a></p>
               </div>
             </div>
-            <!-- .footer-widget -->
           </div>
         </div>
       </div>

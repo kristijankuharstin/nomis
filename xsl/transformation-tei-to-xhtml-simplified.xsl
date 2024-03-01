@@ -46,7 +46,24 @@
                                     <!-- Your menu goes here -->
                                     <ul id="main-menu" class="navbar-nav">
                                         <li class="nav-item active"><a title="Home" href="index.html" class="nav-link">Home</a></li>
-                                        <li class="nav-item"><a title="Simplified Transcription" href="simplified-transcription.html" class="nav-link">Simplified Transcription</a></li>
+                                        <li class="nav-item dropdown">
+                                            <a title="Transcriptions" href="critical-transcription.html" data-toggle="dropdown" class="nav-link dropdown-toggle">Transcriptions <span class="caret"></span></a>
+                                            <ul class="dropdown-menu" role="menu">
+                                                <li class="nav-item dropdown-submenu">
+                                                    <a title="Critical Transcription" href="critical-transcription.html" class="nav-link">Critical Transcription</a>
+                                                    <a title="Simplified Transcription" href="simplified-transcription.html" class="nav-link">Simplified Transcription</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a title="Analysis" href="liturgical-calendar.html" data-toggle="dropdown" class="nav-link dropdown-toggle">Analysis <span class="caret"></span></a>
+                                            <ul class="dropdown-menu" role="menu">
+                                                <li class="nav-item dropdown-submenu">
+                                                    <a title="Liturgical Calendar" href="liturgical-calendar.html" class="nav-link">Liturgical Calendar</a>
+                                                    <a title="Liturgical Units" href="liturgical-units.html" class="nav-link">Liturgical Units</a>
+                                                </li>
+                                            </ul>
+                                        </li>
                                         <li class="nav-item"><a title="About" href="about.html" class="nav-link">About</a></li>
                                     </ul>
                                     <form class="form-inline my-2 my-lg-0 navbar-search-form" method="get" action="/" role="search">
@@ -71,7 +88,8 @@
                         <!-- #wrapper-hero-content -->
                         <div class="wrapper-hero-content-sub wrapper" id="wrapper-hero-content-sub" style="text-align:center;background-color:#ab5c4f;max-width:1199px;margin:0 auto;color:white;">
                             <h1>Missale of Count Novak - Misal kneza Novaka</h1>
-                            <p>This is a page about the Missale of Count Novak. Here you find a transcription of this text in a critical and a simplified version.</p>
+                            <p class="set-margin-header">This is a page about the Missale of Count Novak. Here you find a transcription of
+                                this text in a critical and a simplified version. Furthermore, you can navigate through the text by liturgical units and according to the liturgical calendar.</p>
                         </div>
                     </div>
                     <div class="wrapper" id="index-wrapper">
@@ -107,34 +125,35 @@
                             </div>
                             <div class="row">
                                 <div class="footer-widget col-lg-3 col-md-2 col-sm-2 col-xs-6 col-3">
-                                    <div class="textwidget custom-html-widget">
-                                        <a href="https://stin.hr/"><img src="./pictures/Logo-STIN-200.JPG" class="image" alt="Logo" style="background-color: white;" title="Old Church Slavonic Institute, Zagreb"/></a>
-                                    </div>
+                                    <div class="textwidget custom-html-widget"><a href="https://stin.hr/"><img src="./pictures/stin-logo.png" class="image" alt="Logo" style="background-color: white;" title="Old Church Slavonic Institute, Zagreb"/></a></div>
                                 </div>
-                                <!-- .footer-widget -->
-                                <div class="footer-widget col-lg-4 col-md-4 col-sm-6 col-9">
+                                <div class="footer-widget col-lg-3 col-md-2 col-sm-2 col-xs-6 col-3">
                                     <div class="textwidget custom-html-widget">
                                         <p>
-                                           Old Church Slavonic Institute
+                                            Old Church Slavonic Institute
                                             <br/>
-                                                Demetrova 11
-                                                <br/>
-                                                    10000 Zagreb
+                                            Demetrova 11
+                                            <br/>
+                                            10000 Zagreb
                                         </p>
                                         <p>
                                             Central: +385 1 4851380
-                                                <br/>
-                                                    E-mail: <a href="mailto:info@stin.hr">info@stin.hr</a>
-                                        </p>
+                                            <br/>
+                                            E-mail: <a href="mailto:info@stin.hr">info@stin.hr</a></p>
                                     </div>
                                 </div>
-                                <!-- .footer-widget -->
-                                <div class="footer-widget col-lg-3 col-md-4 col-sm-4 ml-auto">
+                                <div class="footer-widget col-lg-3 col-md-2 col-sm-2 col-xs-6 col-3">
+                                    <div class="textwidget custom-html-widget"><a href="https://vestigia.uni-graz.at"><img src="./pictures/vestigia-logo.jpg" class="image" alt="Logo" title="Vestigia Manuscript Research Centre"/></a></div>
+                                </div>
+                                <div class="footer-widget col-lg-3 col-md-2 col-sm-2 col-xs-6 col-3">
                                     <div class="textwidget custom-html-widget">
-                                        <a href="https://vestigia.uni-graz.at"><img src="./pictures/vestigia-logo.jpg" class="image" alt="Logo" style="max-width: 50%; height: auto;" title="Vestigia Manuscript Research Centre"/></a>
+                                        <p>
+                                            VESTIGIA - Zentrum für die Erforschung des Buch- und Schrifterbes
+                                        </p>
+                                        <p>
+                                            E-mail: <a href="mailto:birgit.roth@uni-graz.at">birgit.roth@uni-graz.at</a></p>
                                     </div>
                                 </div>
-                                <!-- .footer-widget -->
                             </div>
                         </div>
                     </div>
@@ -162,19 +181,21 @@
             <xsl:attribute name="class" select="'title'"/>
             <xsl:text>Simplified Version</xsl:text>
         </xsl:element>
-        <xsl:element name="p">
-            <xsl:attribute name="class" select="'responsibility'"/>
-            <xsl:value-of select="tei:fileDesc/tei:titleStmt/tei:respStmt/tei:resp/text()"/>
-        </xsl:element>
-        <xsl:element name="p">
-            <xsl:attribute name="class" select="'author'"/>
-            <xsl:for-each select="tei:fileDesc/tei:titleStmt/tei:respStmt/tei:name">
-                <xsl:value-of select="./text()"/>
-                <xsl:if test="position() != last()">
-                    <xsl:text> / </xsl:text>
-                </xsl:if>
-            </xsl:for-each>
-        </xsl:element>
+        <xsl:for-each select="tei:fileDesc/tei:titleStmt/tei:respStmt">
+            <xsl:element name="p">
+                <xsl:attribute name="class" select="'responsibility'"/>
+                <xsl:value-of select="./tei:resp/text()"/>
+            </xsl:element>
+            <xsl:element name="p">
+                <xsl:attribute name="class" select="'author'"/>
+                <xsl:for-each select="./tei:name">
+                    <xsl:value-of select="./text()"/>
+                    <xsl:if test="position() != last()">
+                        <xsl:text> / </xsl:text>
+                    </xsl:if>
+                </xsl:for-each>
+            </xsl:element>
+        </xsl:for-each>
         <xsl:element name="p">
             <xsl:attribute name="class" select="'publisher'"/>
             <xsl:value-of select="tei:fileDesc/tei:publicationStmt/tei:publisher/text()"/>
@@ -185,7 +206,7 @@
         </xsl:element>
         <xsl:element name="p">
             <xsl:attribute name="class" select="'date'"/>
-            <xsl:text>09.10.2022</xsl:text>
+            <xsl:text>01.03.2024</xsl:text>
         </xsl:element>
         <xsl:element name="p">
             <xsl:attribute name="class" select="'link-to-facsimiles'"/>

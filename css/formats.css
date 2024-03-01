@@ -9,6 +9,11 @@ p.author { font-size: 16pt; text-align: center; font-variant:small-caps; }
 p.publisher { font-size: 12pt; text-align: center; }
 p.license { font-size: 12pt; text-align: center; }
 p.date { font-size: 12pt; text-align: center; }
+p.main-content-body-paragraph { font-size: 14pt; text-align: justify; }
+p.main-content-body-subparagraph { margin-left: 20pt; font-size: 14pt; }
+p.set-margin-header { margin-left: 20pt; margin-right: 20pt; }
+span.literature-author { font-variant: small-caps; }
+span.literature-title { font-style: italic; }
 p.link-to-facsimiles { font-size: 12pt; text-align: left; margin-left: 20pt; }
 p.link-to-facsimiles a:link { color: black; text-decoration: underline; }
 p.link-to-facsimiles a:hover { color: black; text-decoration: underline; }
