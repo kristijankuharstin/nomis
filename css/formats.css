@@ -54,7 +54,7 @@ p.content-liturgical-units a:link { color: black; text-decoration: underline; }
 p.content-liturgical-units a:hover { color: #5d6c81; text-decoration: underline; }
 p.content-liturgical-units a:active { color: black; text-decoration: underline; }
 p.content-liturgical-units a:visited { color: black; text-decoration: underline; }
-.set-offset-for-anchors { display: block; position: relative; top: -90px; visibility: hidden; }
+.set-offset-for-anchors { display: inline; position: relative; top: -120px; visibility: hidden; }
 #go-to-top-button {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
