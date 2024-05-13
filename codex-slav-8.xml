@@ -807,6 +807,7 @@
                   <category xml:id="lit-unit-missae-votivae" xml:lang="la" n="missae votivae"/>
                   <category xml:id="lit-unit-oratio-ad-mariam-virginem-pro-defunctis" xml:lang="la" n="oratio ad mariam virginem pro defunctis"/>
                   <category xml:id="lit-unit-oratio-secunda-ad-mariam-virginem-pro-defunctis" xml:lang="la" n="oratio secunda ad mariam virginem pro defunctis"/>
+                  <category xml:id="lit-unit-oratio-ad-mariam-virginem-pro-desiderantibus-penitentiam" xml:lang="la" n="oratio ad mariam virginem pro desiderantibus penitentiam"/>
                   <category xml:id="lit-cal-missa-in-honorem-angelorum" xml:lang="la"
                      n="Missa in honorem angelorum">
                      <equiv xml:id="misa-v-častь-anĵelomь" xml:lang="ocs"
@@ -40312,6 +40313,7 @@
                         <lb n="27" xml:id="lb-8-1-1925-27b" prev="#lb-8-1-1935-27a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> Po (brašanci) .</seg>
                         <lb n="28"/><hi rend="red-ink">B</hi>(ož)e iže v'dihaeši č(lovêčь)skomu
                         <lb n="29" break="no"/>sr(ьd)cu vse eže bl(a)go estь po
+                        <lb n="30"/>
                      </ab>
                   </div>
                </div>
