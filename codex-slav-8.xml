@@ -40313,7 +40313,71 @@
                         <lb n="27" xml:id="lb-8-1-1925-27b" prev="#lb-8-1-1935-27a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> Po (brašanci) .</seg>
                         <lb n="28"/><hi rend="red-ink">B</hi>(ož)e iže v'dihaeši č(lovêčь)skomu
                         <lb n="29" break="no"/>sr(ьd)cu vse eže bl(a)go estь po
-                        <lb n="30"/>
+                        <lb n="30"/>po brašan(ci) <!-- from lb30 to the end of column - MARGIN -->
+                        <lb n="31" break="no"/><hi rend="red-ink">D</hi>a snidut k tebe g(ospo)di . molit
+                        <lb n="32"/>vi ; naše i hodataistvom : b(la)ženie .
+                        <lb n="33"/>vsagda devi marie dušu raba
+                        <lb n="34"/>tvoego . <hi rend="red-ink">N</hi> . radost primet . večnuû .
+                        <lb n="35" break="no"/>da koga stvori umešĉenie . pričes
+                        <lb n="36" break="no"/>tnika : tvoego nasledovania pove
+                        <lb n="37"/>liši ga priložiti k družbe _ _ _
+                        <lb n="38"/>Gospodinom _ _ _
+                     </ab>
+                  </div>
+               </div>
+               <div type="column">
+                  <cb n="184rb" rendition="#right-column"/>
+                  <div xml:id="ONB-slav-8-1-1936-1" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#right-column">
+                     <ab>
+                        <lb n="1" break="no"/>dai siû s(ve)tbu ûže priêhom' da êk
+                        <lb n="2" break="no"/>ože d(u)ši raba tvoego <seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">im(e) r(ekь)</seg> pokor
+                        <lb n="3"/>u hoditi darovalь esi . t(a)ko
+                        <lb n="4" break="no"/>i otpuĉenie želitel'noe da po
+                        <lb n="5" xml:id="lb-8-1-1936-1-5a" next="#lb-8-1-1936-1-5b"/>daši m(i)l(o)srdь .
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1937" type="liturgical-unit" subtype="dies-liturgicus" ana="#lit-cal-missa-pro-cuius-anima-dubitatur #lit-unit-rubrica-maior" rendition="#right-column" rend="red-ink">
+                     <ab>
+                        <lb n="5" xml:id="lb-8-1-1936-1-5b" prev="#lb-8-1-1936-1-5a"/> Œ misa za d(u)šu
+                        <lb n="6" xml:id="lb-8-1-1937-6a" next="#lb-8-1-1937-6b"/>ot koga d'voit' se ot sp(a)s(e)niê .
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1938" type="liturgical-unit" ana="#lit-unit-oratio" rendition="#right-column">
+                     <ab>
+                        <lb n="6" xml:id="lb-8-1-1937-6b" prev="#lb-8-1-1937-6a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> or(a)c(iê) .</seg>
+                        <lb n="7" break="no"/><hi rend="red-ink-bold">V</hi>s(e)m(o)gi i m(i)l(o)srdi b(ož)e prikloni m(o)l(imь) t
+                        <lb n="8" break="no"/>e čьst'ni uši tvoi na male m(o)l(i)
+                        <lb n="9" break="no"/>tvi n(a)še eže prêd' zrakom' vel
+                        <lb n="10" break="no"/>ičstviê tvoego za d(u)šu raba i t <!-- "a" in "raba" and "i" after superscript -->
+                        <lb n="11"/>voego e <seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">im(e) r(ekь)</seg> umileno izlivaem' êk(o) <!-- "go" in voego" and "e" after superscript -->
+                        <lb n="12" break="no"/>ot dobrote života ego ne up'va
+                        <lb n="13"/>em' se na ot obiliê m(i)l(o)sti tvoee
+                        <lb n="14" break="no"/>da utêšim' se . i aĉe pl'nago p(o)m(i)lo
+                        <lb n="15" break="no"/>vaniê d(u)ša ego e imêti ne može <!-- "go"  in "ego" and "e" after superscript-->
+                        <lb n="16" break="no"/>tь poni meû simi mukami eže e
+                        <lb n="17" break="no"/>da tr'pitь hlad' ot obiliê p(o)m(i)lo
+                        <lb n="18" xml:id="lb-8-1-1938-18a" next="#lb-8-1-1938-18b"/>vani tvoih' da učuetь .
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1939" type="liturgical-unit" ana="#lit-unit-super-oblata" rendition="#right-column">
+                     <ab>
+                        <lb n="18" xml:id="lb-8-1-1938-18b" prev="#lb-8-1-1938-18a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> n(a)d (prinošeniemь) .</seg>
+                        <lb n="19"/><hi rend="red-ink">Pr</hi>imi m(i)l(o)st(i)vi o(t)če za m(i)l(o)st(i)vo
+                        <lb n="20"/>v'spominanie raba i tvoego e <seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink">im(e) r(ekь)</seg> . <!-- "a" in "raba" and "i" after, "go" in "tvoego" and "e" after superscript-->
+                        <lb n="21" break="no"/>ž'rtvu ugoĵeniê i hv(a)li da žr'
+                        <lb n="22" break="no"/>tvi prêstoeĉee v'zdane v' hla
+                        <lb n="23" break="no"/>dь d(u)ši ego toboû m(i)luûĉim' da pr
+                        <lb n="24" xml:id="lb-8-1-1939-24a" next="#lb-8-1-1939-24b"/>idutь
+                     </ab>
+                  </div>
+                  <div xml:id="ONB-slav-8-1-1940" type="liturgical-unit" ana="#lit-unit-post-communio" rendition="#right-column">
+                     <ab>
+                        <lb n="24" xml:id="lb-8-1-1939-24b" prev="#lb-8-1-1939-24a"/><seg type="liturgical-unit" ana="#lit-unit-rubrica-minor" rend="red-ink"> po (brašanci) .</seg> <hi rend="red-ink-bold">Pr</hi>iêhom' g(ospod)i têlese i
+                        <lb n="25" break="no"/>kr'vi tvoee z'božnie taini t
+                        <lb n="26"/>voego velič'stviê m(i)l(o)st' m(o)leĉe
+                        <lb n="27" break="no"/>da i živim' budutь v' zaĉiĉen
+                        <lb n="28"/>ie . i umr'všumu ei rabu i tvoemu ei im(e) r(ekь) .<!--"umu" in "umr'všumu" and "ei" after, "u" in "rabu" and "i" after, "mu" in "tvoemu" and "ei" after superscript  -->
+                        <lb n="29"/>podadutь p(o)m(i)lovanie . <hi rend="red-ink">g</hi>(ospode)mь n(a)š(imь) .
                      </ab>
                   </div>
                </div>
