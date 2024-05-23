@@ -86,6 +86,7 @@
                   <category xml:id="Tempus-liturgicus" xml:lang="la"/>
                   <category xml:id="Dies-liturgicus" xml:lang="la"/>
                   <category xml:id="Missae-votivae" xml:lang="la"/>
+                  <category xml:id="Sanctorale" xml:lang="la"/>
                      <!-- must add categories for sanctorale -->
 
 
@@ -1257,9 +1258,161 @@
                         <equiv xml:id="misa-za-dušu-ot-koga-dvoit-se-ot-spaseniê" xml:lang="ocs"
                            n="Misa za dušu ot koga d’voit’ se ot spaseniê"/>  
                      </category>
-                   
                      
-               </category>
+                     <category xml:id="lit-cal-sanctorale" xml:lang="la"
+                        n="Sanctorale">
+                     </category>
+                     <category xml:id="lit-cal-in-vigilia-s-andreae-apostoli" xml:lang="la"
+                        n="In vigilia s. Andreae apostoli">
+                     </category>
+                  </category>
+                  <category xml:id="lit-cal-s-saturnini" xml:lang="la"
+                     n="S. Saturnini Mart.">
+                  </category>
+                  <category xml:id="lit-cal-s-andreae-apostoli" xml:lang="la"
+                     n="S. Andreae apostoli">
+                  </category>
+                  <category xml:id="lit-cal-s-nicolai" xml:lang="la"
+                     n="S. Nicolai Ep. et Conf.">
+                  </category>   
+                  <category xml:id="lit-cal-s-damasi" xml:lang="la"
+                     n="S. Damasi I Papae et Conf.">
+                  </category>   
+                  <category xml:id="lit-cal-s-luciae" xml:lang="la"
+                     n="S. Luciae Virg. et Mart.">
+                  </category>
+                  <category xml:id="lit-cal-s-thomae-apostoli" xml:lang="la"
+                     n="S. Thomae apostoli">
+                  </category>
+                  <category xml:id="lit-cal-s-felicis" xml:lang="la"
+                     n="S. Felicis Presb. et. Mart.">
+                  </category>
+                  <category xml:id="lit-cal-s-marcelli" xml:lang="la"
+                     n="S. Marcelli I Papae et Mart.">
+                  </category>
+                  <category xml:id="lit-cal-s-priscae" xml:lang="la"
+                     n="S. Priscae Virg. et Mart.">
+                  </category>
+                  <category xml:id="lit-cal-ss-marii-marthae-audifacis-abachum" xml:lang="la"
+                     n="Ss. Marii, Marthae, Audifacis et Abachum Mm.">
+                  </category>
+                  <category xml:id="lit-cal-ss-fabiani-et-sebastiani" xml:lang="la"
+                     n="Ss. Fabiani Papae et Sebastiani Martyrum">
+                  </category>
+                  <category xml:id="lit-cal-s-agnetis" xml:lang="la"
+                     n="S. Agnetis Virg. et Mart.">
+                  </category>
+                  <category xml:id="lit-cal-ss-vincentii-et-anastasii" xml:lang="la"
+                     n="Ss. Vincentii et Anastasii Martyrum">
+                  </category>
+                  <category xml:id="lit-cal-s-emerentianae" xml:lang="la"
+                     n="S. Emerentianae Virg. et Mart.">
+                  </category>
+                  <category xml:id="lit-cal-in-conversione-s-pauli" xml:lang="la"
+                     n="In Conversione s. Pauli Ap.">
+                  </category>
+                  <category xml:id="lit-cal-s-agnetis-secundo" xml:lang="la"
+                     n="S. Agnetis Virg. et Mart. secundo">
+                  </category>
+                  <category xml:id="lit-cal-in-purificatione-beatae-mariae-virginis" xml:lang="la"
+                     n="In Purificatione beatae Mariae Virginis">
+                  </category>
+                  <category xml:id="lit-unit-benedictione-candelarum-in-purificatione-beatae-mariae-virginis" xml:lang="la" n="De benedictione candelarum in festum Purificationis beatae Mariae Virginis"/>
+                  <category xml:id="lit-unit-distributione-candelarum-in-purificatione-beatae-mariae-virginis" xml:lang="la" n="De distributione candelarum in festum Purificationis beatae Mariae Virginis"/>
+                  <category xml:id="lit-unit-processione-in-purificatione-beatae-mariae-virginis" xml:lang="la" n="De processione in festum Purificationis beatae Mariae Virginis"/>
+                  <category xml:id="lit-cal-de-missa-in-purificatione-beatae-mariae-virginis" xml:lang="la"
+                     n="De missa In Purificatione beatae Mariae Virginis">
+                  </category>
+                  <category xml:id="lit-cal-s-blasii" xml:lang="la"
+                     n="S. Blasii Ep. et Mart.">
+                  </category>
+                  <category xml:id="lit-cal-s-agathae" xml:lang="la"
+                     n="S. Agathae Virg. et Mart.">
+                  </category>
+                  <category xml:id="lit-cal-s-scholasticae" xml:lang="la"
+                     n="S. Scholasticae Virg.">
+                  </category>
+                  <category xml:id="lit-cal-s-valentini" xml:lang="la"
+                     n="S. Valentini Presb. et Mart.">
+                  </category>
+                  <category xml:id="lit-cal-cathedrae-s-petri-apostoli" xml:lang="la"
+                     n="Catedrae s. Petri Apostoli">
+                  </category>
+                  <category xml:id="lit-cal-s-matthiae-apostoli" xml:lang="la"
+                     n="S. Matthiae Apostoli">
+                  </category>
+                  <category xml:id="lit-cal-ss-perpetuae-et-felicitatis" xml:lang="la"
+                     n="Ss. Perpetuae et Felicitatis Martyrum">
+                  </category>
+                  <category xml:id="lit-cal-ss-quadraginta-martyrum" xml:lang="la"
+                     n="Ss. Quadraginta Martyrum">
+                  </category>
+                  <category xml:id="lit-cal-s-gregorii" xml:lang="la"
+                     n="S. Gregorii I Papae, Conf. et Eccl. Doct.">
+                  </category>
+                  <category xml:id="lit-cal-s-benedicti" xml:lang="la"
+                     n="S. Benedicti Abbatis">
+                  </category>
+                  <category xml:id="lit-cal-in-annuntiatione-beatae-mariae-virginis" xml:lang="la"
+                     n="In Annuntiatione beatae Mariae Virginis">
+                  </category>
+                  <category xml:id="lit-cal-ss-tiburtii-valeriani-et-maximi" xml:lang="la"
+                     n="Ss. Tiburtii, Valeriani et Maximi Mm.">
+                  </category>
+                  <category xml:id="lit-cal-s-georgii" xml:lang="la"
+                     n="S. Georgii Martyris">
+                  </category>
+                  <category xml:id="lit-cal-s-adalberti" xml:lang="la"
+                     n="S. Adalberti Martyris">
+                  </category>
+                  <category xml:id="lit-cal-s-marci-evangelistae" xml:lang="la"
+                     n="S. Marci Evangelistae">
+                  </category>
+                  <category xml:id="lit-cal-s-vitalis" xml:lang="la"
+                     n="S. Vitalis Martyris">
+                  </category>
+                  <category xml:id="lit-cal-s-petri" xml:lang="la"
+                     n="S. Petri Martyris">
+                  </category>
+                  <category xml:id="lit-cal-s-philippi-et-iacobi" xml:lang="la"
+                     n="Ss. Philippi et Iacobi Apostolorum">
+                  </category>
+                  <category xml:id="lit-cal-in-festo-inventionis-sanctae-crucis-et-sancti-alexandri" xml:lang="la"
+                     n="In Festo Inventionis Sanctae Crucis et Sancti Alexandri ">
+                  </category>
+                  <category xml:id="lit-cal-s-cyriaci" xml:lang="la"
+                     n="S. Cyriaci Episcopi et Martyris">
+                  </category>
+                  <category xml:id="lit-cal-s-ioannis-ante-portam-latinam" xml:lang="la"
+                     n="S. Ioannis ante Portam Latinam">
+                  </category> 
+                  <category xml:id="lit-cal-s-domnii" xml:lang="la"
+                     n="S. Domnii Episcopi et Martyris">
+                  </category>
+                  <category xml:id="lit-cal-apparitionis-sancti-michaelis-archangeli" xml:lang="la"
+                     n="Apparationis sancti Michaelis Archangeli">
+                  </category>
+                  <category xml:id="lit-cal-s-gordiani-et-epimachi" xml:lang="la"
+                     n="Ss. Gordiani et Epimachi Martyrum">
+                  </category>
+                  <category xml:id="lit-cal-ss-nerei-achillei-et-pancratii" xml:lang="la"
+                     n="Ss. Nerei, Achillei et Pnacratii Mm.">
+                  </category>
+                  <category xml:id="lit-cal-s-pudentianae" xml:lang="la"
+                     n="S. Pudentianae Virginis">
+                  </category>
+                  <category xml:id="lit-cal-translatio-sancti-francisci-confessoris" xml:lang="la"
+                     n="Translatio sancti Francisci Confessoris">
+                  </category>
+                  <category xml:id="lit-cal-s-urbani" xml:lang="la"
+                     n="S. Urbani I Papae et Mart.">
+                  </category>
+                  <category xml:id="lit-cal-s-liberii" xml:lang="la"
+                     n="S. Liberii Confessoris">
+                  </category>
+                  
+                  
+               
                </taxonomy>
             </taxonomy>
          </classDecl>
@@ -40378,6 +40531,17 @@
                         <lb n="27" break="no"/>da i živim' budutь v' zaĉiĉen
                         <lb n="28"/>ie . i umr'všumu ei rabu i tvoemu ei im(e) r(ekь) .<!--"umu" in "umr'všumu" and "ei" after, "u" in "rabu" and "i" after, "mu" in "tvoemu" and "ei" after superscript  -->
                         <lb n="29"/>podadutь p(o)m(i)lovanie . <hi rend="red-ink">g</hi>(ospode)mь n(a)š(imь) .
+                     </ab>
+                  </div>
+               </div>
+            </div>
+            <pb n="184v"/>
+            <div type="page">
+               <div type="column">
+                  <cb n="184vc" rendition="#left-column"/>
+                  <div xml:id="ONB-slav-8-1-1941" type="liturgical-unit" subtype="dies-liturgicus" ana="#lit-cal-sanctorale #lit-unit-rubrica-maior" rendition="#left-column" rend="red-ink">
+                     <ab>
+                        
                      </ab>
                   </div>
                </div>
