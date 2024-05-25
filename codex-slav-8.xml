@@ -1410,7 +1410,90 @@
                   <category xml:id="lit-cal-s-liberii" xml:lang="la"
                      n="S. Liberii Confessoris">
                   </category>
-                  
+                  <category xml:id="lit-cal-ss-nicomedis-et-iustini" xml:lang="la"
+                     n="Ss. Nicomedis II et Iustini ">
+                  </category>
+                  <category xml:id="lit-cal-ss-marcellini-petri-atque-erasmi" xml:lang="la"
+                     n="Ss. Marcellini, Petri atque Erasmi Ep., Mm.">
+                  </category>
+                  <category xml:id="lit-cal-ss-primi-et-feliciani" xml:lang="la"
+                     n="Ss. Primi et Feliciani Mm.">
+                  </category>
+                  <category xml:id="lit-cal-s-barnabae-apostoli" xml:lang="la"
+                     n="S. Barnabae Apostoli">
+                  </category>
+                  <category xml:id="lit-cal-ss-basilidis-cyrini-naboris-et-nazarii" xml:lang="la"
+                     n="Ss. Basilidis, Cyrini, Naboris et Nazarii Mm.">
+                  </category>
+                  <category xml:id="lit-cal-s-antonii-de-padua" xml:lang="la"
+                     n="S. Antonii de Padua Conf. et Eccl. Doct.">
+                  </category>
+                  <category xml:id="lit-cal-ss-viti-modesti-atque-crescentiae" xml:lang="la"
+                     n="Ss. Viti, Modesti atque Crescentiae Mm.">
+                  </category>
+                  <category xml:id="lit-cal-ss-marci-et-marcelliani" xml:lang="la"
+                     n="Ss. Marci et Marcelliani Martyrum">
+                  </category>
+                  <category xml:id="lit-cal-ss-gervasii-et-protasii" xml:lang="la"
+                     n="Ss. Gervasii et Protasii Martyrum">
+                  </category>
+                  <category xml:id="lit-cal-in-vigilia-s-ioannis-baptistae" xml:lang="la"
+                     n="In vigilia S. Ioannis Baptistae">
+                  </category>
+                  <category xml:id="lit-cal-in-nativitate-s-ioannis-baptistae" xml:lang="la"
+                     n="In nativitate S. Ioannis Baptistae">
+                  </category>
+                  <category xml:id="lit-cal-ss-ioannis-et-pauli" xml:lang="la"
+                     n="Ss. Ioannis et Pauli Mm.">
+                  </category>
+                  <category xml:id="lit-cal-s-leonis" xml:lang="la"
+                     n="S. Leonis II Papae et Conf.">
+                  </category>
+                  <category xml:id="lit-cal-in-vigilia-ss-petri-et-pauli" xml:lang="la"
+                     n="In vigilia Ss. Petri et Pauli App.">
+                  </category>
+                  <category xml:id="lit-cal-ss-petri-et-pauli" xml:lang="la"
+                     n="Ss. Petri et Pauli App.">
+                  </category>
+                  <category xml:id="lit-cal-in-commemoratione-s-pauli-apostoli" xml:lang="la"
+                     n="In commemoratione S. Pauli Appostoli">
+                  </category>
+                  <category xml:id="lit-cal-ss-processi-et-martiniani" xml:lang="la"
+                     n="Ss. Processi et Martiniani Martyrum">
+                  </category>
+                  <category xml:id="lit-cal-in-octava-santorum-apostolorum-petri-et-pauli " xml:lang="la"
+                     n="In octava Santorum apostolorum Petri et Pauli ">
+                  </category>
+                  <category xml:id="lit-cal-ss-septem-fratrum-ac-rufinae-et-secundae" xml:lang="la"
+                     n="Ss. septem Fratrum Mm., ac Rufinae et Secundae Vv. et Mm.">
+                  </category>
+                  <category xml:id="lit-cal-s-margaritae" xml:lang="la"
+                     n="S. Margarite Virginis et Martyris">
+                  </category>
+                  <category xml:id="lit-cal-ss-ciryci-et-iulitta" xml:lang="la"
+                     n="Ss. Ciryci et Iulitta Martyrum">
+                  </category>
+                  <category xml:id="lit-cal-s-praxedis" xml:lang="la"
+                     n="S. Praxedis Virg.">
+                  </category>
+                  <category xml:id="lit-cal-s-mariae-magdalenae" xml:lang="la"
+                     n="S. Mariae Magdalenae Paenitentis">
+                  </category>
+                  <category xml:id="lit-cal-s-apollinaris" xml:lang="la"
+                     n="S. Apollinaris Ep. et. Mart.">
+                  </category>
+                  <category xml:id="lit-cal-s-iacobi" xml:lang="la"
+                     n="S. Iacobi Apostoli">
+                  </category>
+                  <category xml:id="lit-cal-ss-nazarii-et-celsi" xml:lang="la"
+                     n="Ss. Nazarii et Celsi Mm.">
+                  </category>
+                  <category xml:id="lit-cal-ss-felicis-simplicii-faustini-et-beatricis" xml:lang="la"
+                     n="Ss. Felicis, Simplicii, Faustini et Beatricis Martyrum">
+                  </category>
+                  <category xml:id="lit-cal-ss-abdon-et-sennen" xml:lang="la"
+                     n="Ss. Abdon et Sennen Mm.">
+                  </category>
                   
                
                </taxonomy>
